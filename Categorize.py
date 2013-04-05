@@ -65,7 +65,7 @@ def getDirectory():
                  'grocery':'Grocery-Stores.txt',
                  'home':'Home.txt',
                  'restaurants':'Restaurants.txt',
-                 'shopping':'Department-Stores.txt',
+                 'shopping':'Shopping.txt',
                  'special':'Special.txt',
                  'transportation':'Transportation.txt',
                  'utilities':'Utilities.txt',
