@@ -1,0 +1,49 @@
+Airport
+Delta
+American Airlines
+JetBlue
+Southwest
+MARTA
+Greyhound
+Carnival
+Amtrak
+gas
+Chevron
+BP
+Shell
+Amoco
+ARCO
+BP
+Chevron
+Citgo
+Conoco
+Cumberland Farms
+Exxon
+Flying J
+Gas City, Ltd.
+Getty
+Gulf
+Hess
+Kroger brand gasoline
+Love's
+Lukoil
+Marathon Oil
+Mobil
+Murphy USA
+Phillips 66
+Pilot
+QuickChek
+QuikTrip
+RaceTrac/Raceway
+Royal Farms
+Shell
+7-Eleven brand gasoline
+76
+Sheetz
+Sinclair
+Speedway
+Sunoco
+Texaco
+Travelcenters of America
+Valero
+Wawa
