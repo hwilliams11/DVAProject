@@ -31,4 +31,5 @@ Hollister
 American Eagle
 Aeropostale
 Amazon
-Ebay
+Amazon.com
+Ebaybv
