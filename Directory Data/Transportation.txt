@@ -1,3 +1,7 @@
+bus
+ferry
+train
+subway
 Airport
 Delta
 American Airlines
