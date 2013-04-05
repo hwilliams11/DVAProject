@@ -1,4 +1,8 @@
-﻿A&W Restaurants
+restaurant
+restaurants
+bistro
+bakery
+A&W Restaurants
 Applebee's
 Arby's
 Arctic Circle Restaurants
