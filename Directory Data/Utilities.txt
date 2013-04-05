@@ -1,13 +1,18 @@
-﻿Flint Energies
+utility
+utilities
+bill
+Flint Energies
 Georgia Power
 Southern Company
 Tennesse Valley Authority
 Alabama Power
 AT&T
-At&t.com
+Att.com
 Sprint
 T-Mobile
 Tmobile
 Dish Network
 DirectTV
 Comcast
+verizon
+metropcs
