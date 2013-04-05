@@ -3,6 +3,7 @@ Target
 Ikea
 Kirkland's
 Best Buy
+bestbuy
 Radioshack
 Office Depot
 Costco
@@ -12,3 +13,10 @@ CVS
 Home Depot
 Lowes
 UPS
+officemax
+Rite aid
+ACE
+walgreens
+hhgregg
+6pm
+home
