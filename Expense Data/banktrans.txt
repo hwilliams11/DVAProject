@@ -1,0 +1,120 @@
+CheckCard 0819 Paypal *liangyongli	2012-08-21	6.99
+CheckCard 0821 Paypal *liu Jinhua	2012-08-23	7.98
+CheckCard 0827 Amazon Mktplace Pmts	2012-08-28	21.25
+CheckCard 1031 Domino's 5708	2012-11-01	16.24
+Publix Super M 11/05 #000001831 Purchase	2012-11-05	33.18
+CheckCard 1102 Vesta *t-Mobile	2012-11-05	30.75
+CheckCard 1102 GA Tech Vts	2012-11-05	10.00
+Spring St 1692 11/03 #000172200 Purchase	2012-11-05	6.16
+CheckCard 1102 Gt Pizza Hut 30066880	2012-11-05	4.63
+CheckCard 1102 Gt Taco Bell 30038996	2012-11-05	2.79
+CheckCard 1102 Gt Pizza Hut 30066880	2012-11-05	1.83
+CheckCard 1105 Great Clips 0991	2012-11-06	29.97
+CheckCard 1104 Subway 00457119	2012-11-06	8.64
+CheckCard 1105 Gt Taco Bell 30038996	2012-11-07	5.17
+CheckCard 1107 Gt Subway 30039077	2012-11-09	14.31
+CheckCard 1107 Eat24Hours Com	2012-11-09	10.41
+CheckCard 1111 Rainier Dispatch	2012-11-13	50.80
+CheckCard 1111 Din Tai Fung	2012-11-13	42.60
+CheckCard 1111 Taxi Cab Service	2012-11-13	35.00
+CheckCard 1110 Moondogs	2012-11-13	25.00
+CheckCard 1111 Topolino's Pizza	2012-11-13	16.18
+CheckCard 1110 Moondogs	2012-11-13	8.00
+CheckCard 1111 Delta Onboard	2012-11-13	7.50
+CheckCard 1109 Gt Taco Bell 30038996	2012-11-13	2.79
+CheckCard 1113 Westin Bellevue	2012-11-15	49.03
+CheckCard 1114 Eat24Hours Com	2012-11-15	36.37
+CheckCard 1113 Seattle Botanica Ss Q05	2012-11-15	8.57
+CheckCard 1114 A & M Transportation	2012-11-16	36.50
+CheckCard 1114 Gt Subway 30039077	2012-11-16	10.80
+Nws Marta 11/16 #000024484 Purchase	2012-11-16	5.00
+CheckCard 1114 Gt Taco Bell 30038996	2012-11-16	3.01
+CheckCard 1116 Regal Cinemas Medlock C	2012-11-19	23.00
+CheckCard 1116 Aomi	2012-11-19	12.00
+CheckCard 1117 Tilted Kilt Pub & Eater	2012-11-19	6.00
+CheckCard 1119 Gt Taco Bell 30038996	2012-11-21	7.42
+Nws Old Navy U 11/23 #000006485 Purchase	2012-11-23	32.86
+CheckCard 1123 Scl*keku *44186913	2012-11-26	20.00
+CheckCard 1123 Great Wraps	2012-11-26	7.93
+CheckCard 1126 Gt Chick Fil A30039333	2012-11-28	6.47
+CheckCard 1129 Eat24Hours Com	2012-11-30	12.80
+Vesta T Mobi 12/02 #000308839 Purchase	2012-12-03	30.75
+CheckCard 1129 Gt Taco Bell 30038996	2012-12-03	2.15
+CheckCard 1203 Google *numfocus	2012-12-04	5.00
+CheckCard 1203 Gt Taco Bell 30038996	2012-12-05	4.18
+CheckCard 1204 Gt Subway 30039077	2012-12-06	6.75
+Gpc Des:Gpc Ebill ID:3993892160Atl	2012-11-29	53.64
+CheckCard 1212 Eat24Hours Com	2012-12-13	10.41
+CheckCard 1211 Gt Taco Bell 30038996	2012-12-13	1.39
+Patel Brothers 12/15 #000702743 Purchase	2012-12-17	38.90
+CheckCard 1214 Domino's 5708	2012-12-17	19.00
+CheckCard 1214 Gt Subway 30039077	2012-12-17	12.15
+CheckCard 1217 Tin Drum Asia Cafe 18T	2012-12-19	9.49
+Publix Super M 12/20 #000001983 Purchase	2012-12-20	47.25
+Wal-Mart #3775 12/27 #000841000 Purchase	2012-12-27	60.72
+CheckCard 1226 Abebooks.Com	2012-12-27	38.10
+CheckCard 1228 Regal Cinemas Atlantic	2012-12-31	23.00
+CheckCard 1229 Seagate.Com	2012-12-31	10.75
+Vesta T Mobi 01/01 #000208013 Purchase	2013-01-02	30.75
+Iag Mobil #2 01/03 #000643444 Withdrwl	2013-01-03	43.00
+CheckCard 0102 Alma Cocina	2013-01-04	27.64
+CheckCard 0102 Northside Tavern	2013-01-04	20.00
+CheckCard 0103 Northside Tavern	2013-01-04	10.00
+CheckCard 0107 Gt Taco Bell 30038996	2013-01-09	2.47
+Publix Super M 01/10 #000001013 Purchase	2013-01-10	21.27
+CheckCard 0108 Subway 00506253	2013-01-10	5.13
+CheckCard 0109 Gt Subway 30039077	2013-01-11	5.40
+Kroger 01/12 #000010072 Purchase	2013-01-14	21.72
+CheckCard 0112 LA Fonda Latina - Howe	2013-01-14	15.07
+CheckCard 0113 Takorea	2013-01-14	13.00
+CheckCard 0112 Arts Center Internet	2013-01-14	12.00
+CheckCard 0111 GA Tech SC Tech Rec	2013-01-14	6.08
+CheckCard 0110 Subway 00506253	2013-01-14	5.40
+CheckCard 0116 Eat24Hours Com	2013-01-18	12.41
+Nws Marta 01/18 #000047525 Purchase	2013-01-18	5.00
+CheckCard 0116 Gt Taco Bell 30038996	2013-01-18	1.39
+CheckCard 0120 U-Haul14Th St Self Stor	2013-01-22	27.09
+CheckCard 0120 Domino's 5708	2013-01-22	17.43
+CheckCard 0120 Moes SW Grill Q29	2013-01-22	7.77
+CheckCard 0117 Gt Taco Bell 30038996	2013-01-22	5.15
+CheckCard 0118 Gt Chick Fil A30039333	2013-01-22	4.20
+CheckCard 0120 14Th Street Citgo	2013-01-22	3.34
+CheckCard 0122 Gt Subway 30039077	2013-01-24	5.40
+CheckCard 0122 Gt Taco Bell 30038996	2013-01-24	1.39
+Wal Wal-Mart S 01/24 #000546257 Purchase	2013-01-25	61.16
+CheckCard 0123 Gt Subway 30039077	2013-01-25	6.75
+CheckCard 0123 Gt Chick Fil A30039333	2013-01-25	3.40
+CheckCard 0123 Gt Taco Bell 30038996	2013-01-25	1.39
+CheckCard 0124 GA Tech Orgt	2013-01-28	80.00
+CheckCard 0128 GA Tech Food C30066088	2013-01-30	5.93
+CheckCard 0129 Gt Chick Fil A30039333	2013-01-31	3.40
+CheckCard 0130 GA Tech Buzzcard Web	2013-02-01	15.00
+CheckCard 0202 Monterrey #57	2013-02-04	11.00
+CheckCard 0201 Amazon.com	2013-02-04	8.43
+CheckCard 0205 Amazon.com	2013-02-05	100.00
+Publix Super M 02/07 #000001619 Purchase	2013-02-07	27.00
+CheckCard 0207 Amazon.com	2013-02-07	12.77
+CheckCard 0207 Subway 00506253	2013-02-11	5.40
+CheckCard 0209 Hardeees Trent15032337	2013-02-11	5.23
+CheckCard 0210 Domino's 5708	2013-02-12	15.00
+CheckCard 0209 Randy's Restaurant	2013-02-12	10.00
+CheckCard 0208 GA Tech Orgt	2013-02-13	25.00
+CheckCard 0217 Domino's 5708	2013-02-19	16.00
+CheckCard 0215 Domino's 5708	2013-02-19	15.00
+CheckCard 0216 LA Cabana	2013-02-19	8.48
+Quiktrip 02/16 #000384200 Purchase	2013-02-19	1.17
+CheckCard 0220 Wal-Mart Check Printng	2013-02-21	9.95
+CheckCard 0220 GA Tech Orgt	2013-02-25	35.00
+CheckCard 0224 Domino's 5708	2013-02-26	16.50
+CheckCard 0227 Eat24Hours Com	2013-02-28	12.85
+Vesta T Mobi 03/03 #000460672 Purchase	2013-03-04	30.75
+CheckCard 0228 GA Tech Buzzcard Web	2013-03-04	15.00
+CheckCard 0228 Tin Drum Asiacafe At G	2013-03-04	11.33
+CheckCard 0304 Amazon.com	2013-03-05	10.75
+CheckCard 0306 Amazon Mktplace Pmts	2013-03-07	8.37
+CheckCard 0307 Google *devices	2013-03-08	338.03
+CheckCard 0307 Amazon Mktplace Pmts	2013-03-08	6.60
+CheckCard 0309 Domino's 5708	2013-03-11	15.00
+Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	2013-02-08	73.51
+Gpc Des:Gpc Ebill ID:3993892160Atl	2013-03-01	50.98
+Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	2013-03-11	85.72

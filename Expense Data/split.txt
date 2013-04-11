@@ -1,0 +1,110 @@
+2012-11-17;Pizza;General;14.24;USD;-7.12;7.12;0
+2012-11-18;wing nuts;Dining out;10.41;USD;0;5.21;-5.21
+2012-11-20;Publix groceries;Groceries;64.62;USD;-21.54;43.08;-21.54
+2012-11-20;coffee + fruits + ritz;Groceries;14.63;USD;0;14.63;-14.63
+2012-11-20;Pur water Filter (2 pack);Water;15.59;USD;-5.19;10.39;-5.2
+2012-11-20;Walmart Groceries;Groceries;75.97;USD;49.01;-26.97;-22.04
+2012-11-21;Taco Bell Quesadilla ;Dining out;3.0;USD;0;-3.0;3.0
+2012-11-26;Pizza;Dining out;17.07;USD;0.0;9.89;-9.89
+2012-11-28;Zip Car A/C;Parking;15.0;USD;10.0;-5.0;-5.0
+2012-11-28;Electricity Bill for November;Electricity;53.64;USD;-17.88;-17.88;35.76
+2012-11-29;Internet ( Dec 3 through Jan 2);TV/Phone/Internet;29.99;USD;-12.72;21.36;-8.64
+2012-11-30;Settling modem differences for easier internet bill splits in the future;TV/Phone/Internet;23.22;USD;-23.22;11.61;11.61
+2012-11-30;Pizza;Dining out;14.38;USD;0;7.19;-7.19
+2012-12-01;Rent for December;Rent;960.0;USD;-260.0;-350.0;610.0
+2012-12-01;Patel Brothers Grocery;Groceries;62.41;USD;41.6;-20.8;-20.8
+2012-12-04;Pizza;Dining out;21.41;USD;0.0;9.35;-9.35
+2012-12-04;Cigarettes-Menthol;Heat/gas;5.84;USD;5.84;-5.84;0
+2012-12-05;wingnuts;Dining out;10.41;USD;0;5.21;-5.21
+2012-12-09;pizza;Dining out;21.52;USD;0.0;9.35;-9.35
+2012-12-10;Chutney's;Dining out;42.0;USD;-10.0;5.5;4.5
+2012-12-11;Gas 2 months;Heat/gas;137.34;USD;-45.78;-45.78;91.56
+2012-12-11;Removing Arjun;General;8.79;USD;-2.93;-2.93;-2.93
+2012-12-12;Wingnuts during exam;Dining out;10.41;USD;0;-5.2;5.2
+2012-12-13;Chutney- CB and BB;Dining out;19.34;USD;8.67;-4.34;-4.33
+2012-12-14;pizza;Dining out;19.0;USD;0;-9.5;9.5
+2012-12-14;Subway;Dining out;12.15;USD;0;-6.07;6.07
+2012-12-17;Regal Movie;Other;36.0;USD;18.0;0;-18.0
+2012-12-17;Publix Fried Chicken;Dining out;7.59;USD;3.8;0;-3.8
+2012-12-17;Mirch Masala;Dining out;47.4;USD;31.6;-15.8;-15.8
+2012-12-18;Publix Grocery;Groceries;10.31;USD;6.88;-3.44;-3.44
+2012-12-18;Milk+Bread+Bananas;Groceries;7.02;USD;7.02;0;-7.02
+2012-12-18;Haircut;Other;11.0;USD;0;-11.0;11.0
+2012-12-18;Tea Patel Bros;Groceries;3.99;USD;0;-3.99;3.99
+2012-12-18;Patel Bros Grocery;Groceries;28.0;USD;-9.34;-9.33;18.67
+2012-12-18;Ice Skating + Beer;Other;25.0;USD;0;-12.5;12.5
+2012-12-18;eggs  salt;Groceries;2.56;USD;-0.86;1.71;-0.85
+2012-12-18;coffee  cheese;Groceries;10.17;USD;0;5.09;-5.09
+2012-12-22;Beer at Northside Tavern;General;14.5;USD;-4.84;9.67;-4.83
+2012-12-22;Tomatoes from Publix;Groceries;6.0;USD;-2.0;-2.0;4.0
+2012-12-22;Northside Travern Cover;General;20.0;USD;0;-10.0;10.0
+2012-12-26;Rocky's ;General;14.03;USD;9.36;-4.68;-4.68
+2012-12-26;Rocky's alcohol shot;General;3.0;USD;3.0;-3.0;0
+2012-12-26;Chutney's;General;25.13;USD;-9.37;25.13;-15.76
+2012-12-27;Indian Store;General;41.08;USD;-13.63;29.35;-15.72
+2012-12-27;coffee;General;4.68;USD;0;2.34;-2.34
+2012-12-28;Rent January;Rent;960.0;USD;-260.0;610.0;-350.0
+2012-12-29;Internet Jan 3rd through Feb 3rd;TV/Phone/Internet;30.96;USD;-10.32;20.64;-10.32
+2012-12-29;Movie Tickets;General;23.0;USD;0;-11.5;11.5
+2012-12-29;Taxi;General;15.75;USD;10.5;-5.25;-5.25
+2012-12-29;Zipcar to Walmart;General;22.0;USD;14.66;-7.33;-7.33
+2012-12-29;Walmart Common;General;131.47;USD;87.64;-43.82;-43.82
+2012-12-29;Cab movie;General;16.0;USD;-5.34;10.67;-5.33
+2013-01-01;PeachDrop day;General;14.0;USD;0;-14.0;14.0
+2013-01-03;Dec Electricity Bill;Electricity;52.58;USD;-17.52;-17.53;35.05
+2013-01-06;Noodle;Dining out;32.65;USD;21.5;-8.6;-12.9
+2013-01-08;Gas December 2012;Heat/gas;99.74;USD;-33.24;-33.25;66.49
+2013-01-16;Wingnuts;Dining out;12.41;USD;0;-6.2;6.2
+2013-01-16;Milk;Groceries;3.4;USD;-1.7;0;1.7
+2013-01-16;Veggies & Soap Refill Publix;Groceries;10.5;USD;-3.5;-3.5;7.0
+2013-01-24;wingnuts;Dining out;12.41;USD;0;6.21;-6.21
+2013-01-24;Zipcar payment;General;12.1;USD;-12.1;12.1;0
+2013-01-24;zipcar walmart;General;22.0;USD;-7.34;14.67;-7.33
+2013-01-24;milk  cheese slices;Groceries;6.21;USD;0;3.11;-3.11
+2013-01-24;walmart common stuff;Groceries;48.77;USD;-16.25;32.51;-16.26
+2013-01-25;Printer Cartridge;Other;6.25;USD;0;3.13;-3.13
+2013-01-26;Walmart;Groceries;51.42;USD;34.28;-17.14;-17.14
+2013-01-27;Veggies+Eggs Walmart;Groceries;5.72;USD;-1.9;-1.91;3.81
+2013-01-27;Donuts;Groceries;3.98;USD;0;-1.99;1.99
+2013-01-30;Jan Electricity Bill;Electricity;57.69;USD;-19.23;-19.23;38.46
+2013-01-31;Internet Feb. 4 through Mar. 3;TV/Phone/Internet;29.99;USD;-9.99;19.99;-10.0
+2013-02-01;Rent February '13;Rent;960.0;USD;-260.0;610.0;-350.0
+2013-02-02;Pizza;General;20.45;USD;-10.22;10.22;0
+2013-02-06;Jan Gas Bill;Heat/gas;73.51;USD;-24.51;-24.5;49.01
+2013-02-07;Rice;Groceries;3.18;USD;-1.06;-1.06;2.12
+2013-02-15;Put.io (Feb 15th);General;4.9;USD;0;2.45;-2.45
+2013-02-17;Dominos Pizza;Food and drink;16.0;USD;0;-8.0;8.0
+2013-02-20;AA Battery ;General;2.0;USD;-2.0;0;2.0
+2013-02-23;Walmart stuff;General;24.52;USD;0;24.52;-24.52
+2013-02-23;Pizza;General;15.32;USD;-7.18;7.18;0.0
+2013-02-24;Walmart ;Groceries;113.61;USD;75.74;-37.87;-37.87
+2013-02-27;Garlic Bread;General;1.64;USD;1.64;-1.64;0
+2013-02-27;Water purifier;Water;15.59;USD;-5.19;10.39;-5.2
+2013-02-28;Feb Electricity Bill;Electricity;50.98;USD;-16.99;-16.99;33.98
+2013-03-03;Internet (March 4 through April 3rd);TV/Phone/Internet;45.46;USD;-15.16;30.31;-15.15
+2013-03-05;March Rent;Rent;960.0;USD;-260.0;-350.0;610.0
+2013-03-07;Feb Gas Bill;Heat/gas;85.72;USD;-28.58;-28.57;57.15
+2013-03-10;zipcar to tuktuk;Taxi;33.0;USD;-11.0;22.0;-11.0
+2013-03-15;put.io (March 15);General;4.9;USD;0;2.45;-2.45
+2013-03-16;Alcohol Extra;General;7.6;USD;-3.8;-3.8;7.6
+2013-03-16;Gokul Chat;General;35.24;USD;-26.43;0.0;26.43
+2013-03-16;MTR+Toast+Butter Mil+ Small Roti;General;14.45;USD;0;-7.22;7.22
+2013-03-16;Curd;General;3.0;USD;-1.0;-1.0;2.0
+2013-03-18;patel bros. groceries;Groceries;47.66;USD;-15.88;31.77;-15.89
+2013-03-18;thepla;General;5.0;USD;0;2.5;-2.5
+2013-03-18;flour;General;2.5;USD;0;2.5;-2.5
+2013-03-18;ajax  garlic;General;2.66;USD;-0.88;1.77;-0.89
+2013-03-22;Pizza;Dining out;12.79;USD;0;6.4;-6.4
+2013-03-27;Printer Cartridge;General;10.5;USD;0;-5.25;5.25
+2013-03-27;Wingnuts;General;10.85;USD;0;-5.43;5.43
+2013-03-29;Electricity Bill;Other;46.63;USD;-15.54;-15.55;31.09
+2013-03-29;Internet April 4 -  May 3;TV/Phone/Internet;41.12;USD;-13.71;27.41;-13.7
+2013-04-03;Wingnuts;General;13.0;USD;0;-6.5;6.5
+2013-04-05;Rent April 2013;Rent;960.0;USD;-260.0;-350.0;610.0
+2013-04-05;Gas Bill March;Heat/gas;72.43;USD;-24.14;-24.15;48.29
+2013-04-06;Sim card;General;21.6;USD;0;10.8;-10.8
+2013-04-08;Dinner - Green Sprout;Dining out;17.41;USD;0;8.7;-8.7
+2013-04-10;Publix - Napkin+Sugar;General;14.7;USD;-4.9;-4.9;9.8
+2013-04-10;Walmart Commons;General;20.68;USD;-6.89;-6.9;13.79
+2013-04-10;Milk + Cheese (Shared);General;8.5;USD;0;-4.25;4.25
+2013-04-10;Juice  Pringles  Coke & Coffee;General;15.5;USD;0;-15.5;15.5
