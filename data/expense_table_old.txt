@@ -1,0 +1,231 @@
+id	description	amount	category	date
+110	CheckCard 0819 Paypal *liangyongli	6.99	None	2012-08-21
+111	CheckCard 0821 Paypal *liu Jinhua	7.98	None	2012-08-23
+112	CheckCard 0827 Amazon Mktplace Pmts	21.25	None	2012-08-28
+113	CheckCard 1031 Domino's 5708	16.24	None	2012-11-01
+114	Publix Super M 11/05 #000001831 Purchase	33.18	None	2012-11-05
+115	CheckCard 1102 Vesta *t-Mobile	30.75	None	2012-11-05
+116	CheckCard 1102 GA Tech Vts	10.00	None	2012-11-05
+117	Spring St 1692 11/03 #000172200 Purchase	6.16	None	2012-11-05
+118	CheckCard 1102 Gt Pizza Hut 30066880	4.63	None	2012-11-05
+119	CheckCard 1102 Gt Taco Bell 30038996	2.79	None	2012-11-05
+120	CheckCard 1102 Gt Pizza Hut 30066880	1.83	None	2012-11-05
+121	CheckCard 1105 Great Clips 0991	29.97	None	2012-11-06
+122	CheckCard 1104 Subway 00457119	8.64	None	2012-11-06
+123	CheckCard 1105 Gt Taco Bell 30038996	5.17	None	2012-11-07
+124	CheckCard 1107 Gt Subway 30039077	14.31	None	2012-11-09
+125	CheckCard 1107 Eat24Hours Com	10.41	None	2012-11-09
+126	CheckCard 1111 Rainier Dispatch	50.80	None	2012-11-13
+127	CheckCard 1111 Din Tai Fung	42.60	None	2012-11-13
+128	CheckCard 1111 Taxi Cab Service	35.00	None	2012-11-13
+129	CheckCard 1110 Moondogs	25.00	None	2012-11-13
+130	CheckCard 1111 Topolino's Pizza	16.18	None	2012-11-13
+131	CheckCard 1110 Moondogs	8.00	None	2012-11-13
+132	CheckCard 1111 Delta Onboard	7.50	None	2012-11-13
+133	CheckCard 1109 Gt Taco Bell 30038996	2.79	None	2012-11-13
+134	CheckCard 1113 Westin Bellevue	49.03	None	2012-11-15
+135	CheckCard 1114 Eat24Hours Com	36.37	None	2012-11-15
+136	CheckCard 1113 Seattle Botanica Ss Q05	8.57	None	2012-11-15
+137	CheckCard 1114 A & M Transportation	36.50	None	2012-11-16
+138	CheckCard 1114 Gt Subway 30039077	10.80	None	2012-11-16
+139	Nws Marta 11/16 #000024484 Purchase	5.00	None	2012-11-16
+140	CheckCard 1114 Gt Taco Bell 30038996	3.01	None	2012-11-16
+0	Pizza	14.24	None	2012-11-17
+1	wing nuts	10.42	None	2012-11-18
+141	CheckCard 1116 Regal Cinemas Medlock C	23.00	None	2012-11-19
+142	CheckCard 1116 Aomi	12.00	None	2012-11-19
+143	CheckCard 1117 Tilted Kilt Pub & Eater	6.00	None	2012-11-19
+38	coffee + fruits + ritz	14.63	None	2012-11-20
+52	Publix groceries	64.62	None	2012-11-20
+53	Pur water Filter (2 pack)	15.59	None	2012-11-20
+54	Walmart Groceries	75.97	None	2012-11-20
+144	CheckCard 1119 Gt Taco Bell 30038996	7.42	None	2012-11-21
+39	Taco Bell Quesadilla 	3.0	None	2012-11-21
+145	Nws Old Navy U 11/23 #000006485 Purchase	32.86	None	2012-11-23
+146	CheckCard 1123 Scl*keku *44186913	20.00	None	2012-11-26
+147	CheckCard 1123 Great Wraps	7.93	None	2012-11-26
+2	Pizza	19.78	None	2012-11-26
+148	CheckCard 1126 Gt Chick Fil A30039333	6.47	None	2012-11-28
+55	Zip Car A/C	15.0	None	2012-11-28
+56	Electricity Bill for November	53.64	None	2012-11-28
+155	Gpc Des:Gpc Ebill ID:3993892160Atl	53.64	None	2012-11-29
+57	Internet ( Dec 3 through Jan 2)	29.99	None	2012-11-29
+149	CheckCard 1129 Eat24Hours Com	12.80	None	2012-11-30
+3	Pizza	14.38	None	2012-11-30
+58	Settling modem differences for easier internet bill splits in the future	23.22	None	2012-11-30
+59	Rent for December	960.0	None	2012-12-01
+60	Patel Brothers Grocery	62.41	None	2012-12-01
+150	Vesta T Mobi 12/02 #000308839 Purchase	30.75	None	2012-12-03
+151	CheckCard 1129 Gt Taco Bell 30038996	2.15	None	2012-12-03
+152	CheckCard 1203 Google *numfocus	5.00	None	2012-12-04
+4	Pizza	18.7	None	2012-12-04
+40	Cigarettes-Menthol	5.84	None	2012-12-04
+153	CheckCard 1203 Gt Taco Bell 30038996	4.18	None	2012-12-05
+5	wingnuts	10.42	None	2012-12-05
+154	CheckCard 1204 Gt Subway 30039077	6.75	None	2012-12-06
+6	pizza	18.7	None	2012-12-09
+61	Chutney's	42.0	None	2012-12-10
+62	Gas 2 months	137.34	None	2012-12-11
+63	Removing Arjun	8.79	None	2012-12-11
+7	Wingnuts during exam	10.4	None	2012-12-12
+156	CheckCard 1212 Eat24Hours Com	10.41	None	2012-12-13
+157	CheckCard 1211 Gt Taco Bell 30038996	1.39	None	2012-12-13
+64	Chutney- CB and BB	19.34	None	2012-12-13
+8	pizza	19.0	None	2012-12-14
+9	Subway	12.14	None	2012-12-14
+158	Patel Brothers 12/15 #000702743 Purchase	38.90	None	2012-12-17
+159	CheckCard 1214 Domino's 5708	19.00	None	2012-12-17
+160	CheckCard 1214 Gt Subway 30039077	12.15	None	2012-12-17
+10	Regal Movie	36.0	None	2012-12-17
+11	Publix Fried Chicken	7.6	None	2012-12-17
+65	Mirch Masala	47.4	None	2012-12-17
+12	Ice Skating + Beer	25.0	None	2012-12-18
+13	coffee  cheese	10.18	None	2012-12-18
+41	Milk+Bread+Bananas	7.02	None	2012-12-18
+42	Haircut	11.0	None	2012-12-18
+43	Tea Patel Bros	3.99	None	2012-12-18
+66	Publix Grocery	10.31	None	2012-12-18
+67	Patel Bros Grocery	28.0	None	2012-12-18
+68	eggs  salt	2.56	None	2012-12-18
+161	CheckCard 1217 Tin Drum Asia Cafe 18T	9.49	None	2012-12-19
+162	Publix Super M 12/20 #000001983 Purchase	47.25	None	2012-12-20
+14	Northside Travern Cover	20.0	None	2012-12-22
+69	Beer at Northside Tavern	14.5	None	2012-12-22
+70	Tomatoes from Publix	6.0	None	2012-12-22
+44	Rocky's alcohol shot	3.0	None	2012-12-26
+71	Rocky's 	14.03	None	2012-12-26
+72	Chutney's	25.13	None	2012-12-26
+163	Wal-Mart #3775 12/27 #000841000 Purchase	60.72	None	2012-12-27
+164	CheckCard 1226 Abebooks.Com	38.10	None	2012-12-27
+15	coffee	4.68	None	2012-12-27
+73	Indian Store	41.08	None	2012-12-27
+74	Rent January	960.0	None	2012-12-28
+16	Movie Tickets	23.0	None	2012-12-29
+75	Internet Jan 3rd through Feb 3rd	30.96	None	2012-12-29
+76	Taxi	15.75	None	2012-12-29
+77	Zipcar to Walmart	22.0	None	2012-12-29
+78	Walmart Common	131.47	None	2012-12-29
+79	Cab movie	16.0	None	2012-12-29
+165	CheckCard 1228 Regal Cinemas Atlantic	23.00	None	2012-12-31
+166	CheckCard 1229 Seagate.Com	10.75	None	2012-12-31
+45	PeachDrop day	14.0	None	2013-01-01
+167	Vesta T Mobi 01/01 #000208013 Purchase	30.75	None	2013-01-02
+168	Iag Mobil #2 01/03 #000643444 Withdrwl	43.00	None	2013-01-03
+80	Dec Electricity Bill	52.58	None	2013-01-03
+169	CheckCard 0102 Alma Cocina	27.64	None	2013-01-04
+170	CheckCard 0102 Northside Tavern	20.00	None	2013-01-04
+171	CheckCard 0103 Northside Tavern	10.00	None	2013-01-04
+81	Noodle	32.65	None	2013-01-06
+82	Gas December 2012	99.74	None	2013-01-08
+172	CheckCard 0107 Gt Taco Bell 30038996	2.47	None	2013-01-09
+173	Publix Super M 01/10 #000001013 Purchase	21.27	None	2013-01-10
+174	CheckCard 0108 Subway 00506253	5.13	None	2013-01-10
+175	CheckCard 0109 Gt Subway 30039077	5.40	None	2013-01-11
+176	Kroger 01/12 #000010072 Purchase	21.72	None	2013-01-14
+177	CheckCard 0112 LA Fonda Latina - Howe	15.07	None	2013-01-14
+178	CheckCard 0113 Takorea	13.00	None	2013-01-14
+179	CheckCard 0112 Arts Center Internet	12.00	None	2013-01-14
+180	CheckCard 0111 GA Tech SC Tech Rec	6.08	None	2013-01-14
+181	CheckCard 0110 Subway 00506253	5.40	None	2013-01-14
+17	Wingnuts	12.4	None	2013-01-16
+18	Milk	3.4	None	2013-01-16
+83	Veggies & Soap Refill Publix	10.5	None	2013-01-16
+182	CheckCard 0116 Eat24Hours Com	12.41	None	2013-01-18
+183	Nws Marta 01/18 #000047525 Purchase	5.00	None	2013-01-18
+184	CheckCard 0116 Gt Taco Bell 30038996	1.39	None	2013-01-18
+185	CheckCard 0120 U-Haul14Th St Self Stor	27.09	None	2013-01-22
+186	CheckCard 0120 Domino's 5708	17.43	None	2013-01-22
+187	CheckCard 0120 Moes SW Grill Q29	7.77	None	2013-01-22
+188	CheckCard 0117 Gt Taco Bell 30038996	5.15	None	2013-01-22
+189	CheckCard 0118 Gt Chick Fil A30039333	4.20	None	2013-01-22
+190	CheckCard 0120 14Th Street Citgo	3.34	None	2013-01-22
+191	CheckCard 0122 Gt Subway 30039077	5.40	None	2013-01-24
+192	CheckCard 0122 Gt Taco Bell 30038996	1.39	None	2013-01-24
+19	wingnuts	12.42	None	2013-01-24
+20	milk  cheese slices	6.22	None	2013-01-24
+46	Zipcar payment	12.1	None	2013-01-24
+84	zipcar walmart	22.0	None	2013-01-24
+85	walmart common stuff	48.77	None	2013-01-24
+193	Wal Wal-Mart S 01/24 #000546257 Purchase	61.16	None	2013-01-25
+194	CheckCard 0123 Gt Subway 30039077	6.75	None	2013-01-25
+195	CheckCard 0123 Gt Chick Fil A30039333	3.40	None	2013-01-25
+196	CheckCard 0123 Gt Taco Bell 30038996	1.39	None	2013-01-25
+21	Printer Cartridge	6.26	None	2013-01-25
+86	Walmart	51.42	None	2013-01-26
+22	Donuts	3.98	None	2013-01-27
+87	Veggies+Eggs Walmart	5.72	None	2013-01-27
+197	CheckCard 0124 GA Tech Orgt	80.00	None	2013-01-28
+198	CheckCard 0128 GA Tech Food C30066088	5.93	None	2013-01-30
+88	Jan Electricity Bill	57.69	None	2013-01-30
+199	CheckCard 0129 Gt Chick Fil A30039333	3.40	None	2013-01-31
+89	Internet Feb. 4 through Mar. 3	29.99	None	2013-01-31
+200	CheckCard 0130 GA Tech Buzzcard Web	15.00	None	2013-02-01
+90	Rent February '13	960.0	None	2013-02-01
+23	Pizza	20.44	None	2013-02-02
+201	CheckCard 0202 Monterrey #57	11.00	None	2013-02-04
+202	CheckCard 0201 Amazon.com	8.43	None	2013-02-04
+203	CheckCard 0205 Amazon.com	100.00	None	2013-02-05
+91	Jan Gas Bill	73.51	None	2013-02-06
+204	Publix Super M 02/07 #000001619 Purchase	27.00	None	2013-02-07
+205	CheckCard 0207 Amazon.com	12.77	None	2013-02-07
+92	Rice	3.18	None	2013-02-07
+227	Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	73.51	None	2013-02-08
+206	CheckCard 0207 Subway 00506253	5.40	None	2013-02-11
+207	CheckCard 0209 Hardeees Trent15032337	5.23	None	2013-02-11
+208	CheckCard 0210 Domino's 5708	15.00	None	2013-02-12
+209	CheckCard 0209 Randy's Restaurant	10.00	None	2013-02-12
+210	CheckCard 0208 GA Tech Orgt	25.00	None	2013-02-13
+24	Put.io (Feb 15th)	4.9	None	2013-02-15
+25	Dominos Pizza	16.0	None	2013-02-17
+211	CheckCard 0217 Domino's 5708	16.00	None	2013-02-19
+212	CheckCard 0215 Domino's 5708	15.00	None	2013-02-19
+213	CheckCard 0216 LA Cabana	8.48	None	2013-02-19
+214	Quiktrip 02/16 #000384200 Purchase	1.17	None	2013-02-19
+47	AA Battery 	2.0	None	2013-02-20
+215	CheckCard 0220 Wal-Mart Check Printng	9.95	None	2013-02-21
+26	Pizza	14.36	None	2013-02-23
+48	Walmart stuff	24.52	None	2013-02-23
+93	Walmart 	113.61	None	2013-02-24
+216	CheckCard 0220 GA Tech Orgt	35.00	None	2013-02-25
+217	CheckCard 0224 Domino's 5708	16.50	None	2013-02-26
+49	Garlic Bread	1.64	None	2013-02-27
+94	Water purifier	15.59	None	2013-02-27
+218	CheckCard 0227 Eat24Hours Com	12.85	None	2013-02-28
+95	Feb Electricity Bill	50.98	None	2013-02-28
+228	Gpc Des:Gpc Ebill ID:3993892160Atl	50.98	None	2013-03-01
+96	Internet (March 4 through April 3rd)	45.46	None	2013-03-03
+219	Vesta T Mobi 03/03 #000460672 Purchase	30.75	None	2013-03-04
+220	CheckCard 0228 GA Tech Buzzcard Web	15.00	None	2013-03-04
+221	CheckCard 0228 Tin Drum Asiacafe At G	11.33	None	2013-03-04
+222	CheckCard 0304 Amazon.com	10.75	None	2013-03-05
+97	March Rent	960.0	None	2013-03-05
+223	CheckCard 0306 Amazon Mktplace Pmts	8.37	None	2013-03-07
+98	Feb Gas Bill	85.72	None	2013-03-07
+224	CheckCard 0307 Google *devices	338.03	None	2013-03-08
+225	CheckCard 0307 Amazon Mktplace Pmts	6.60	None	2013-03-08
+99	zipcar to tuktuk	33.0	None	2013-03-10
+226	CheckCard 0309 Domino's 5708	15.00	None	2013-03-11
+229	Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	85.72	None	2013-03-11
+27	put.io (March 15)	4.9	None	2013-03-15
+28	Gokul Chat	35.84	None	2013-03-16
+29	MTR+Toast+Butter Mil+ Small Roti	14.44	None	2013-03-16
+100	Alcohol Extra	7.6	None	2013-03-16
+101	Curd	3.0	None	2013-03-16
+30	thepla	5.0	None	2013-03-18
+50	flour	2.5	None	2013-03-18
+102	patel bros. groceries	47.66	None	2013-03-18
+103	ajax  garlic	2.66	None	2013-03-18
+31	Pizza	12.8	None	2013-03-22
+32	Printer Cartridge	10.5	None	2013-03-27
+33	Wingnuts	10.86	None	2013-03-27
+104	Electricity Bill	46.63	None	2013-03-29
+105	Internet April 4 -  May 3	41.12	None	2013-03-29
+34	Wingnuts	13.0	None	2013-04-03
+106	Rent April 2013	960.0	None	2013-04-05
+107	Gas Bill March	72.43	None	2013-04-05
+35	Sim card	21.6	None	2013-04-06
+36	Dinner - Green Sprout	17.4	None	2013-04-08
+37	Milk + Cheese (Shared)	8.5	None	2013-04-10
+51	Juice  Pringles  Coke & Coffee	15.5	None	2013-04-10
+108	Publix - Napkin+Sugar	14.7	None	2013-04-10
+109	Walmart Commons	20.68	None	2013-04-10

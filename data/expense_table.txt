@@ -1,231 +1,1746 @@
-id	description	amount	category	date
-110	CheckCard 0819 Paypal *liangyongli	6.99	None	2012-08-21
-111	CheckCard 0821 Paypal *liu Jinhua	7.98	None	2012-08-23
-112	CheckCard 0827 Amazon Mktplace Pmts	21.25	None	2012-08-28
-113	CheckCard 1031 Domino's 5708	16.24	None	2012-11-01
-114	Publix Super M 11/05 #000001831 Purchase	33.18	None	2012-11-05
-115	CheckCard 1102 Vesta *t-Mobile	30.75	None	2012-11-05
-116	CheckCard 1102 GA Tech Vts	10.00	None	2012-11-05
-117	Spring St 1692 11/03 #000172200 Purchase	6.16	None	2012-11-05
-118	CheckCard 1102 Gt Pizza Hut 30066880	4.63	None	2012-11-05
-119	CheckCard 1102 Gt Taco Bell 30038996	2.79	None	2012-11-05
-120	CheckCard 1102 Gt Pizza Hut 30066880	1.83	None	2012-11-05
-121	CheckCard 1105 Great Clips 0991	29.97	None	2012-11-06
-122	CheckCard 1104 Subway 00457119	8.64	None	2012-11-06
-123	CheckCard 1105 Gt Taco Bell 30038996	5.17	None	2012-11-07
-124	CheckCard 1107 Gt Subway 30039077	14.31	None	2012-11-09
-125	CheckCard 1107 Eat24Hours Com	10.41	None	2012-11-09
-126	CheckCard 1111 Rainier Dispatch	50.80	None	2012-11-13
-127	CheckCard 1111 Din Tai Fung	42.60	None	2012-11-13
-128	CheckCard 1111 Taxi Cab Service	35.00	None	2012-11-13
-129	CheckCard 1110 Moondogs	25.00	None	2012-11-13
-130	CheckCard 1111 Topolino's Pizza	16.18	None	2012-11-13
-131	CheckCard 1110 Moondogs	8.00	None	2012-11-13
-132	CheckCard 1111 Delta Onboard	7.50	None	2012-11-13
-133	CheckCard 1109 Gt Taco Bell 30038996	2.79	None	2012-11-13
-134	CheckCard 1113 Westin Bellevue	49.03	None	2012-11-15
-135	CheckCard 1114 Eat24Hours Com	36.37	None	2012-11-15
-136	CheckCard 1113 Seattle Botanica Ss Q05	8.57	None	2012-11-15
-137	CheckCard 1114 A & M Transportation	36.50	None	2012-11-16
-138	CheckCard 1114 Gt Subway 30039077	10.80	None	2012-11-16
-139	Nws Marta 11/16 #000024484 Purchase	5.00	None	2012-11-16
-140	CheckCard 1114 Gt Taco Bell 30038996	3.01	None	2012-11-16
-0	Pizza	14.24	None	2012-11-17
-1	wing nuts	10.42	None	2012-11-18
-141	CheckCard 1116 Regal Cinemas Medlock C	23.00	None	2012-11-19
-142	CheckCard 1116 Aomi	12.00	None	2012-11-19
-143	CheckCard 1117 Tilted Kilt Pub & Eater	6.00	None	2012-11-19
-38	coffee + fruits + ritz	14.63	None	2012-11-20
-52	Publix groceries	64.62	None	2012-11-20
-53	Pur water Filter (2 pack)	15.59	None	2012-11-20
-54	Walmart Groceries	75.97	None	2012-11-20
-144	CheckCard 1119 Gt Taco Bell 30038996	7.42	None	2012-11-21
-39	Taco Bell Quesadilla 	3.0	None	2012-11-21
-145	Nws Old Navy U 11/23 #000006485 Purchase	32.86	None	2012-11-23
-146	CheckCard 1123 Scl*keku *44186913	20.00	None	2012-11-26
-147	CheckCard 1123 Great Wraps	7.93	None	2012-11-26
-2	Pizza	19.78	None	2012-11-26
-148	CheckCard 1126 Gt Chick Fil A30039333	6.47	None	2012-11-28
-55	Zip Car A/C	15.0	None	2012-11-28
-56	Electricity Bill for November	53.64	None	2012-11-28
-155	Gpc Des:Gpc Ebill ID:3993892160Atl	53.64	None	2012-11-29
-57	Internet ( Dec 3 through Jan 2)	29.99	None	2012-11-29
-149	CheckCard 1129 Eat24Hours Com	12.80	None	2012-11-30
-3	Pizza	14.38	None	2012-11-30
-58	Settling modem differences for easier internet bill splits in the future	23.22	None	2012-11-30
-59	Rent for December	960.0	None	2012-12-01
-60	Patel Brothers Grocery	62.41	None	2012-12-01
-150	Vesta T Mobi 12/02 #000308839 Purchase	30.75	None	2012-12-03
-151	CheckCard 1129 Gt Taco Bell 30038996	2.15	None	2012-12-03
-152	CheckCard 1203 Google *numfocus	5.00	None	2012-12-04
-4	Pizza	18.7	None	2012-12-04
-40	Cigarettes-Menthol	5.84	None	2012-12-04
-153	CheckCard 1203 Gt Taco Bell 30038996	4.18	None	2012-12-05
-5	wingnuts	10.42	None	2012-12-05
-154	CheckCard 1204 Gt Subway 30039077	6.75	None	2012-12-06
-6	pizza	18.7	None	2012-12-09
-61	Chutney's	42.0	None	2012-12-10
-62	Gas 2 months	137.34	None	2012-12-11
-63	Removing Arjun	8.79	None	2012-12-11
-7	Wingnuts during exam	10.4	None	2012-12-12
-156	CheckCard 1212 Eat24Hours Com	10.41	None	2012-12-13
-157	CheckCard 1211 Gt Taco Bell 30038996	1.39	None	2012-12-13
-64	Chutney- CB and BB	19.34	None	2012-12-13
-8	pizza	19.0	None	2012-12-14
-9	Subway	12.14	None	2012-12-14
-158	Patel Brothers 12/15 #000702743 Purchase	38.90	None	2012-12-17
-159	CheckCard 1214 Domino's 5708	19.00	None	2012-12-17
-160	CheckCard 1214 Gt Subway 30039077	12.15	None	2012-12-17
-10	Regal Movie	36.0	None	2012-12-17
-11	Publix Fried Chicken	7.6	None	2012-12-17
-65	Mirch Masala	47.4	None	2012-12-17
-12	Ice Skating + Beer	25.0	None	2012-12-18
-13	coffee  cheese	10.18	None	2012-12-18
-41	Milk+Bread+Bananas	7.02	None	2012-12-18
-42	Haircut	11.0	None	2012-12-18
-43	Tea Patel Bros	3.99	None	2012-12-18
-66	Publix Grocery	10.31	None	2012-12-18
-67	Patel Bros Grocery	28.0	None	2012-12-18
-68	eggs  salt	2.56	None	2012-12-18
-161	CheckCard 1217 Tin Drum Asia Cafe 18T	9.49	None	2012-12-19
-162	Publix Super M 12/20 #000001983 Purchase	47.25	None	2012-12-20
-14	Northside Travern Cover	20.0	None	2012-12-22
-69	Beer at Northside Tavern	14.5	None	2012-12-22
-70	Tomatoes from Publix	6.0	None	2012-12-22
-44	Rocky's alcohol shot	3.0	None	2012-12-26
-71	Rocky's 	14.03	None	2012-12-26
-72	Chutney's	25.13	None	2012-12-26
-163	Wal-Mart #3775 12/27 #000841000 Purchase	60.72	None	2012-12-27
-164	CheckCard 1226 Abebooks.Com	38.10	None	2012-12-27
-15	coffee	4.68	None	2012-12-27
-73	Indian Store	41.08	None	2012-12-27
-74	Rent January	960.0	None	2012-12-28
-16	Movie Tickets	23.0	None	2012-12-29
-75	Internet Jan 3rd through Feb 3rd	30.96	None	2012-12-29
-76	Taxi	15.75	None	2012-12-29
-77	Zipcar to Walmart	22.0	None	2012-12-29
-78	Walmart Common	131.47	None	2012-12-29
-79	Cab movie	16.0	None	2012-12-29
-165	CheckCard 1228 Regal Cinemas Atlantic	23.00	None	2012-12-31
-166	CheckCard 1229 Seagate.Com	10.75	None	2012-12-31
-45	PeachDrop day	14.0	None	2013-01-01
-167	Vesta T Mobi 01/01 #000208013 Purchase	30.75	None	2013-01-02
-168	Iag Mobil #2 01/03 #000643444 Withdrwl	43.00	None	2013-01-03
-80	Dec Electricity Bill	52.58	None	2013-01-03
-169	CheckCard 0102 Alma Cocina	27.64	None	2013-01-04
-170	CheckCard 0102 Northside Tavern	20.00	None	2013-01-04
-171	CheckCard 0103 Northside Tavern	10.00	None	2013-01-04
-81	Noodle	32.65	None	2013-01-06
-82	Gas December 2012	99.74	None	2013-01-08
-172	CheckCard 0107 Gt Taco Bell 30038996	2.47	None	2013-01-09
-173	Publix Super M 01/10 #000001013 Purchase	21.27	None	2013-01-10
-174	CheckCard 0108 Subway 00506253	5.13	None	2013-01-10
-175	CheckCard 0109 Gt Subway 30039077	5.40	None	2013-01-11
-176	Kroger 01/12 #000010072 Purchase	21.72	None	2013-01-14
-177	CheckCard 0112 LA Fonda Latina - Howe	15.07	None	2013-01-14
-178	CheckCard 0113 Takorea	13.00	None	2013-01-14
-179	CheckCard 0112 Arts Center Internet	12.00	None	2013-01-14
-180	CheckCard 0111 GA Tech SC Tech Rec	6.08	None	2013-01-14
-181	CheckCard 0110 Subway 00506253	5.40	None	2013-01-14
-17	Wingnuts	12.4	None	2013-01-16
-18	Milk	3.4	None	2013-01-16
-83	Veggies & Soap Refill Publix	10.5	None	2013-01-16
-182	CheckCard 0116 Eat24Hours Com	12.41	None	2013-01-18
-183	Nws Marta 01/18 #000047525 Purchase	5.00	None	2013-01-18
-184	CheckCard 0116 Gt Taco Bell 30038996	1.39	None	2013-01-18
-185	CheckCard 0120 U-Haul14Th St Self Stor	27.09	None	2013-01-22
-186	CheckCard 0120 Domino's 5708	17.43	None	2013-01-22
-187	CheckCard 0120 Moes SW Grill Q29	7.77	None	2013-01-22
-188	CheckCard 0117 Gt Taco Bell 30038996	5.15	None	2013-01-22
-189	CheckCard 0118 Gt Chick Fil A30039333	4.20	None	2013-01-22
-190	CheckCard 0120 14Th Street Citgo	3.34	None	2013-01-22
-191	CheckCard 0122 Gt Subway 30039077	5.40	None	2013-01-24
-192	CheckCard 0122 Gt Taco Bell 30038996	1.39	None	2013-01-24
-19	wingnuts	12.42	None	2013-01-24
-20	milk  cheese slices	6.22	None	2013-01-24
-46	Zipcar payment	12.1	None	2013-01-24
-84	zipcar walmart	22.0	None	2013-01-24
-85	walmart common stuff	48.77	None	2013-01-24
-193	Wal Wal-Mart S 01/24 #000546257 Purchase	61.16	None	2013-01-25
-194	CheckCard 0123 Gt Subway 30039077	6.75	None	2013-01-25
-195	CheckCard 0123 Gt Chick Fil A30039333	3.40	None	2013-01-25
-196	CheckCard 0123 Gt Taco Bell 30038996	1.39	None	2013-01-25
-21	Printer Cartridge	6.26	None	2013-01-25
-86	Walmart	51.42	None	2013-01-26
-22	Donuts	3.98	None	2013-01-27
-87	Veggies+Eggs Walmart	5.72	None	2013-01-27
-197	CheckCard 0124 GA Tech Orgt	80.00	None	2013-01-28
-198	CheckCard 0128 GA Tech Food C30066088	5.93	None	2013-01-30
-88	Jan Electricity Bill	57.69	None	2013-01-30
-199	CheckCard 0129 Gt Chick Fil A30039333	3.40	None	2013-01-31
-89	Internet Feb. 4 through Mar. 3	29.99	None	2013-01-31
-200	CheckCard 0130 GA Tech Buzzcard Web	15.00	None	2013-02-01
-90	Rent February '13	960.0	None	2013-02-01
-23	Pizza	20.44	None	2013-02-02
-201	CheckCard 0202 Monterrey #57	11.00	None	2013-02-04
-202	CheckCard 0201 Amazon.com	8.43	None	2013-02-04
-203	CheckCard 0205 Amazon.com	100.00	None	2013-02-05
-91	Jan Gas Bill	73.51	None	2013-02-06
-204	Publix Super M 02/07 #000001619 Purchase	27.00	None	2013-02-07
-205	CheckCard 0207 Amazon.com	12.77	None	2013-02-07
-92	Rice	3.18	None	2013-02-07
-227	Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	73.51	None	2013-02-08
-206	CheckCard 0207 Subway 00506253	5.40	None	2013-02-11
-207	CheckCard 0209 Hardeees Trent15032337	5.23	None	2013-02-11
-208	CheckCard 0210 Domino's 5708	15.00	None	2013-02-12
-209	CheckCard 0209 Randy's Restaurant	10.00	None	2013-02-12
-210	CheckCard 0208 GA Tech Orgt	25.00	None	2013-02-13
-24	Put.io (Feb 15th)	4.9	None	2013-02-15
-25	Dominos Pizza	16.0	None	2013-02-17
-211	CheckCard 0217 Domino's 5708	16.00	None	2013-02-19
-212	CheckCard 0215 Domino's 5708	15.00	None	2013-02-19
-213	CheckCard 0216 LA Cabana	8.48	None	2013-02-19
-214	Quiktrip 02/16 #000384200 Purchase	1.17	None	2013-02-19
-47	AA Battery 	2.0	None	2013-02-20
-215	CheckCard 0220 Wal-Mart Check Printng	9.95	None	2013-02-21
-26	Pizza	14.36	None	2013-02-23
-48	Walmart stuff	24.52	None	2013-02-23
-93	Walmart 	113.61	None	2013-02-24
-216	CheckCard 0220 GA Tech Orgt	35.00	None	2013-02-25
-217	CheckCard 0224 Domino's 5708	16.50	None	2013-02-26
-49	Garlic Bread	1.64	None	2013-02-27
-94	Water purifier	15.59	None	2013-02-27
-218	CheckCard 0227 Eat24Hours Com	12.85	None	2013-02-28
-95	Feb Electricity Bill	50.98	None	2013-02-28
-228	Gpc Des:Gpc Ebill ID:3993892160Atl	50.98	None	2013-03-01
-96	Internet (March 4 through April 3rd)	45.46	None	2013-03-03
-219	Vesta T Mobi 03/03 #000460672 Purchase	30.75	None	2013-03-04
-220	CheckCard 0228 GA Tech Buzzcard Web	15.00	None	2013-03-04
-221	CheckCard 0228 Tin Drum Asiacafe At G	11.33	None	2013-03-04
-222	CheckCard 0304 Amazon.com	10.75	None	2013-03-05
-97	March Rent	960.0	None	2013-03-05
-223	CheckCard 0306 Amazon Mktplace Pmts	8.37	None	2013-03-07
-98	Feb Gas Bill	85.72	None	2013-03-07
-224	CheckCard 0307 Google *devices	338.03	None	2013-03-08
-225	CheckCard 0307 Amazon Mktplace Pmts	6.60	None	2013-03-08
-99	zipcar to tuktuk	33.0	None	2013-03-10
-226	CheckCard 0309 Domino's 5708	15.00	None	2013-03-11
-229	Georgianaturalga Des:Geornatgas ID:Xxxxxxxxx-12345	85.72	None	2013-03-11
-27	put.io (March 15)	4.9	None	2013-03-15
-28	Gokul Chat	35.84	None	2013-03-16
-29	MTR+Toast+Butter Mil+ Small Roti	14.44	None	2013-03-16
-100	Alcohol Extra	7.6	None	2013-03-16
-101	Curd	3.0	None	2013-03-16
-30	thepla	5.0	None	2013-03-18
-50	flour	2.5	None	2013-03-18
-102	patel bros. groceries	47.66	None	2013-03-18
-103	ajax  garlic	2.66	None	2013-03-18
-31	Pizza	12.8	None	2013-03-22
-32	Printer Cartridge	10.5	None	2013-03-27
-33	Wingnuts	10.86	None	2013-03-27
-104	Electricity Bill	46.63	None	2013-03-29
-105	Internet April 4 -  May 3	41.12	None	2013-03-29
-34	Wingnuts	13.0	None	2013-04-03
-106	Rent April 2013	960.0	None	2013-04-05
-107	Gas Bill March	72.43	None	2013-04-05
-35	Sim card	21.6	None	2013-04-06
-36	Dinner - Green Sprout	17.4	None	2013-04-08
-37	Milk + Cheese (Shared)	8.5	None	2013-04-10
-51	Juice  Pringles  Coke & Coffee	15.5	None	2013-04-10
-108	Publix - Napkin+Sugar	14.7	None	2013-04-10
-109	Walmart Commons	20.68	None	2013-04-10
+eid	date	description	amount	category
+1	1/23/2012	Haggen Food & Pharmacy	187	grocery
+2	1/21/2012	"Spec's Wine, Spirits & Finer Foods"	73	grocery
+3	1/18/2012	Speedway	29	transportation
+4	1/7/2012	Speedway	80	transportation
+5	1/2/2012	gas	63	transportation
+6	1/23/2012	QuikTrip	54	transportation
+7	1/17/2012	books	25	entertainment
+8	1/17/2012	dvd	6	entertainment
+9	1/28/2012	Regal	6	entertainment
+10	1/7/2012	GAP	123	shopping
+11	1/15/2012	H&M	39	shopping
+12	1/20/2012	Belk	34	shopping
+13	1/11/2012	Herberger's	150	shopping
+14	1/23/2012	Neiman Marcus	24	shopping
+15	1/21/2012	Luby's	30	restaurants
+16	1/24/2012	Seattle's Best Coffee	45	restaurants
+17	1/8/2012	Lee Roy Selmon's	21	restaurants
+18	1/23/2012	Ruth's Chris Steak House	41	restaurants
+19	1/19/2012	Bojangles' Famous Chicken 'n Biscuits	24	restaurants
+20	1/29/2012	Denny's	44	restaurants
+21	1/29/2012	Friendly's	35	restaurants
+22	1/19/2012	Redstone American Grill	48	restaurants
+458	1/23/2012	Southwest	82	transportation
+23	2/11/2012	Bashas'	33	grocery
+24	2/28/2012	99 Ranch Market	128	grocery
+25	2/20/2012	Murphy USA	22	transportation
+26	2/1/2012	Netflix	11	entertainment
+27	2/21/2012	Netflix	29	entertainment
+28	2/28/2012	Target	361	home
+29	2/12/2012	Home Depot	18	home
+30	2/19/2012	Kohl's	86	shopping
+31	2/12/2012	Godfather's Pizza	19	restaurants
+32	2/9/2012	Buca di Beppo	15	restaurants
+470	2/27/2012	gas	22	transportation
+1339	2/23/2012	Citgo	68	transportation
+33	3/22/2012	BP	63	transportation
+34	3/19/2012	QuikTrip	55	transportation
+35	3/20/2012	MARTA	65	transportation
+36	3/25/2012	Sinclair	82	transportation
+37	3/21/2012	Citgo	79	transportation
+38	3/27/2012	Lukoil	81	transportation
+39	3/5/2012	Newegg	232	home
+40	3/12/2012	Newegg	13	home
+41	3/17/2012	Home Depot	218	home
+42	3/17/2012	Radioshack	312	home
+43	3/16/2012	Saks Fifth Avenue	179	shopping
+44	3/13/2012	Younkers	29	shopping
+45	3/9/2012	Neiman Marcus	151	shopping
+46	3/15/2012	Lord & Taylor	117	shopping
+47	3/15/2012	Hollister	163	shopping
+48	3/30/2012	Sneaky Pete's	10	restaurants
+49	3/30/2012	Shoney's	23	restaurants
+50	3/14/2012	McAlister's Deli	5	restaurants
+51	3/5/2012	Jason's Deli	17	restaurants
+52	3/30/2012	Green Mill	31	restaurants
+53	3/3/2012	Which Wich?	28	restaurants
+1356	3/13/2012	Mi Pueblo Food Center	180	grocery
+54	4/21/2012	Sullivan's Foods	93	grocery
+55	4/27/2012	Roth's Fresh Markets	97	grocery
+56	4/18/2012	Airport	43	transportation
+57	4/17/2012	Greyhound	24	transportation
+58	4/24/2012	Cumberland Farms	98	transportation
+59	4/17/2012	7-Eleven brand gasoline	100	transportation
+60	4/22/2012	Texaco	74	transportation
+61	4/21/2012	JetBlue	97	transportation
+62	4/5/2012	Travelcenters of America	72	transportation
+63	4/9/2012	dvds	16	entertainment
+64	4/28/2012	dvds	18	entertainment
+65	4/27/2012	movies	17	entertainment
+66	4/24/2012	CVS	418	home
+67	4/15/2012	CVS	57	home
+68	4/2/2012	Target	224	home
+69	4/19/2012	Southern Company	227	utilities
+70	4/4/2012	East of Chicago Pizza	41	restaurants
+71	4/13/2012	The Old Spaghetti Factory	49	restaurants
+72	4/14/2012	Milo's Hamburgers	18	restaurants
+73	4/13/2012	Famous Dave's	24	restaurants
+74	4/6/2012	Coco's Bakery	8	restaurants
+75	4/28/2012	Dunkin' Donuts	40	restaurants
+76	4/30/2012	Cold Stone Creamery	13	restaurants
+77	4/3/2012	Which Wich?	11	restaurants
+78	4/25/2012	Quaker Steak & Lube	31	restaurants
+79	4/13/2012	Valentino's	22	restaurants
+504	4/12/2012	Saks Fifth Avenue	140	shopping
+940	4/12/2012	Staples	466	home
+943	4/2/2012	Hollister	157	shopping
+80	5/18/2012	Chevron	33	transportation
+81	5/8/2012	Speedway	67	transportation
+82	5/6/2012	Amoco	67	transportation
+83	5/29/2012	RaceTrac/Raceway	81	transportation
+84	5/21/2012	Murphy USA	27	transportation
+85	5/24/2012	Greyhound	97	transportation
+86	5/2/2012	books	23	entertainment
+87	5/9/2012	Netflix	21	entertainment
+88	5/21/2012	movie	6	entertainment
+89	5/14/2012	Staples	143	home
+90	5/5/2012	Southern Company	227	utilities
+91	5/19/2012	Georgia Power	256	utilities
+92	5/3/2012	Benihana	24	restaurants
+93	5/15/2012	Valentino's	44	restaurants
+94	5/8/2012	Montana Mike's	5	restaurants
+95	5/3/2012	Boston Market	19	restaurants
+96	5/24/2012	Gino's Pizza and Spaghetti	34	restaurants
+97	6/7/2012	Great Wall Supermarket	187	grocery
+98	6/26/2012	Pilot	33	transportation
+99	6/9/2012	Hess	59	transportation
+100	6/16/2012	Amtrak	32	transportation
+101	6/27/2012	dvds	23	entertainment
+102	6/30/2012	Office Depot	433	home
+103	6/21/2012	Best Buy	77	home
+104	6/20/2012	UPS	51	home
+105	6/14/2012	Nordstrom Rack	46	shopping
+106	6/22/2012	Younkers	77	shopping
+107	6/29/2012	Kohl's	119	shopping
+108	6/18/2012	JCPenney	152	shopping
+109	6/9/2012	Bergner's	116	shopping
+110	6/29/2012	Dish Network	132	utilities
+111	6/11/2012	DirectTV	171	utilities
+112	6/30/2012	Jamba Juice	25	restaurants
+113	6/16/2012	Carrows	48	restaurants
+541	6/19/2012	Papa Gino's	22	restaurants
+544	6/9/2012	Jimmy John's	47	restaurants
+976	6/23/2012	Sears	193	shopping
+1417	6/10/2012	RaceTrac/Raceway	43	transportation
+114	7/16/2012	Giant Eagle	108	grocery
+115	7/31/2012	Phillips 66	37	transportation
+116	7/31/2012	Wawa	88	transportation
+117	7/19/2012	Phillips 66	91	transportation
+118	7/5/2012	MARTA	75	transportation
+119	7/29/2012	Lukoil	90	transportation
+120	7/5/2012	Southwest	95	transportation
+121	7/15/2012	Royal Farms	48	transportation
+122	7/29/2012	Greyhound	80	transportation
+123	7/18/2012	movies	7	entertainment
+124	7/20/2012	dvd	16	entertainment
+125	7/15/2012	Netflix	24	entertainment
+126	7/12/2012	Staples	485	home
+127	7/22/2012	UPS	354	home
+128	7/17/2012	Kirkland's	276	home
+129	7/8/2012	The Bon-Ton	65	shopping
+130	7/25/2012	Hollister	154	shopping
+131	7/5/2012	Dish Network	267	utilities
+132	7/27/2012	Mitchell's Fish Market	40	restaurants
+133	7/23/2012	Panda Express	26	restaurants
+134	7/16/2012	Montana Mike's	26	restaurants
+135	7/7/2012	National Coney Island	46	restaurants
+136	7/1/2012	Rock Bottom	10	restaurants
+137	7/29/2012	Taco Time	24	restaurants
+548	7/20/2012	Sinclair	36	transportation
+549	7/13/2012	gas	91	transportation
+555	7/15/2012	Target	242	home
+986	7/1/2012	Airport	77	transportation
+1001	7/24/2012	Church's	43	restaurants
+1436	7/18/2012	dvd	16	entertainment
+138	8/19/2012	Straub's Markets	154	grocery
+139	8/24/2012	Winn-Dixie	199	grocery
+140	8/21/2012	BP	45	transportation
+141	8/8/2012	Shell	84	transportation
+142	8/25/2012	MARTA	98	transportation
+143	8/2/2012	QuikTrip	82	transportation
+144	8/20/2012	BP	71	transportation
+145	8/5/2012	Phillips 66	29	transportation
+146	8/4/2012	Radioshack	309	home
+147	8/9/2012	Target	166	home
+148	8/21/2012	Naugles	28	restaurants
+149	8/7/2012	Mr. Hero	5	restaurants
+150	8/5/2012	Chuck-A-Rama	19	restaurants
+151	8/3/2012	Jersey Mike's Subs	21	restaurants
+152	8/10/2012	Camille's Sidewalk Cafe	30	restaurants
+153	8/28/2012	McDonald's	5	restaurants
+154	8/18/2012	California Pizza Kitchen	27	restaurants
+155	8/6/2012	Boston Market	8	restaurants
+156	8/21/2012	Charlie Brown's Steakhouse	12	restaurants
+157	8/19/2012	Rally's	33	restaurants
+1022	8/22/2012	Jim's Restaurants	26	restaurants
+1449	8/22/2012	Kohl's	84	shopping
+1459	8/14/2012	Fazoli's	17	restaurants
+158	9/16/2012	Penn Traffic	21	grocery
+159	9/5/2012	Nijiya Market	149	grocery
+160	9/29/2012	Gulf	46	transportation
+161	9/9/2012	RaceTrac/Raceway	22	transportation
+162	9/10/2012	Speedway	90	transportation
+163	9/12/2012	Kroger brand gasoline	45	transportation
+164	9/1/2012	RaceTrac/Raceway	24	transportation
+165	9/2/2012	Citgo	72	transportation
+166	9/13/2012	JetBlue	79	transportation
+167	9/9/2012	Regal	19	entertainment
+168	9/7/2012	Costco	141	home
+169	9/28/2012	Home Depot	350	home
+170	9/11/2012	Radioshack	15	home
+171	9/30/2012	CVS	383	home
+172	9/28/2012	Boscov's	96	shopping
+173	9/20/2012	Olive Garden	42	restaurants
+174	9/12/2012	Green Mill	13	restaurants
+604	9/15/2012	Bloomingdale's	36	shopping
+175	10/16/2012	Exxon	63	transportation
+176	10/30/2012	Getty	79	transportation
+177	10/16/2012	Mobil	54	transportation
+178	10/19/2012	gas	93	transportation
+179	10/30/2012	Greyhound	71	transportation
+180	10/5/2012	American Airlines	81	transportation
+181	10/14/2012	movie	5	entertainment
+182	10/22/2012	Best Buy	62	home
+183	10/22/2012	Nordstrom Rack	80	shopping
+184	10/1/2012	Saks Fifth Avenue	127	shopping
+185	10/11/2012	Herberger's	103	shopping
+186	10/10/2012	Aeropostale	181	shopping
+187	10/9/2012	H&M	45	shopping
+188	10/26/2012	DirectTV	53	utilities
+189	10/6/2012	Southern Company	276	utilities
+190	10/22/2012	Taco Time	23	restaurants
+191	10/1/2012	Dunkin' Donuts	48	restaurants
+192	10/18/2012	Ruby Tuesday	37	restaurants
+193	10/2/2012	Swensons	49	restaurants
+194	10/11/2012	Hardee's	17	restaurants
+626	10/22/2012	Chick-fil-A	19	restaurants
+630	10/23/2012	Village Inn	14	restaurants
+1038	10/23/2012	Food 4 Less	118	grocery
+1483	10/27/2012	movies	17	entertainment
+195	11/28/2012	Kroger	126	grocery
+196	11/23/2012	Central Market	21	grocery
+197	11/1/2012	BP	76	transportation
+198	11/16/2012	JetBlue	30	transportation
+199	11/5/2012	Sheetz	66	transportation
+200	11/10/2012	Hess	82	transportation
+201	11/11/2012	QuickChek	82	transportation
+202	11/21/2012	Sunoco	73	transportation
+203	11/11/2012	BP	71	transportation
+204	11/21/2012	Mobil	99	transportation
+205	11/29/2012	UPS	405	home
+206	11/26/2012	Walmart	421	home
+207	11/5/2012	Lowes	357	home
+208	11/22/2012	Barneys New York	50	shopping
+209	11/20/2012	Bloomingdale's	87	shopping
+210	11/1/2012	Younkers	53	shopping
+211	11/13/2012	Sears Essentials	182	shopping
+212	11/13/2012	Younkers	74	shopping
+213	11/25/2012	Rainforest Cafe	45	restaurants
+214	11/25/2012	Cinnabon	37	restaurants
+215	11/15/2012	Hungry Howie's Pizza	30	restaurants
+216	11/6/2012	Quiznos	32	restaurants
+217	11/6/2012	Robeks	43	restaurants
+218	11/14/2012	Papa Gino's	15	restaurants
+219	11/23/2012	Starbucks	38	restaurants
+220	11/7/2012	Smashburger	16	restaurants
+221	11/14/2012	Benihana	17	restaurants
+631	11/4/2012	Raley's	200	grocery
+222	12/5/2012	Chevron	84	transportation
+223	12/1/2012	Delta	54	transportation
+224	12/24/2012	American Airlines	79	transportation
+225	12/13/2012	Love's	77	transportation
+226	12/6/2012	Best Buy	259	home
+227	12/5/2012	Aeropostale	178	shopping
+228	12/12/2012	Boscov's	72	shopping
+229	12/24/2012	Sears	156	shopping
+230	12/15/2012	Comcast	134	utilities
+231	12/5/2012	Sprint	216	utilities
+232	12/3/2012	White Castle	9	restaurants
+233	12/31/2012	Church's	40	restaurants
+234	12/30/2012	Arby's	6	restaurants
+1076	12/15/2012	Lord & Taylor	81	shopping
+235	1/5/2013	Associated Grocers of Florida	94	grocery
+236	1/6/2013	76	80	transportation
+237	1/1/2013	Chevron	37	transportation
+238	1/8/2013	Greyhound	53	transportation
+239	1/26/2013	Delta	85	transportation
+240	1/18/2013	Kroger brand gasoline	33	transportation
+241	1/22/2013	Wawa	25	transportation
+242	1/27/2013	Speedway	24	transportation
+243	1/3/2013	Hulu	25	entertainment
+244	1/4/2013	Radioshack	187	home
+245	1/6/2013	UPS	87	home
+246	1/21/2013	Radioshack	493	home
+247	1/3/2013	CVS	105	home
+248	1/4/2013	Bergdorf Goodman	76	shopping
+249	1/8/2013	Twin Peaks	22	restaurants
+250	1/7/2013	Green Mill	44	restaurants
+251	1/7/2013	Port of Subs	37	restaurants
+252	1/5/2013	Johnny Rockets	13	restaurants
+253	1/6/2013	Hooters	40	restaurants
+254	1/7/2013	Carrows	42	restaurants
+1089	1/31/2013	Texaco	29	transportation
+255	2/11/2013	Brookshire's	100	grocery
+256	2/15/2013	Regal	29	entertainment
+257	2/27/2013	Costco	49	home
+258	2/5/2013	Ikea	359	home
+259	2/1/2013	Radioshack	146	home
+260	2/1/2013	Nordstrom	171	shopping
+261	2/24/2013	Elder-Beerman	84	shopping
+262	2/1/2013	Bojangles' Famous Chicken 'n Biscuits	34	restaurants
+263	2/28/2013	Texas Roadhouse	34	restaurants
+264	2/9/2013	Valentino's	5	restaurants
+265	2/16/2013	Boston Market	36	restaurants
+266	2/18/2013	Auntie Anne's	39	restaurants
+267	2/7/2013	Showmars	8	restaurants
+268	2/27/2013	The Original Pancake House	33	restaurants
+1555	2/24/2013	American Airlines	34	transportation
+1560	2/2/2013	Boston Store	113	shopping
+1566	2/20/2013	Skyline Chili	14	restaurants
+1568	2/2/2013	Moe's Southwest Grill	46	restaurants
+269	3/29/2013	Sprouts Farmers Market	172	grocery
+270	3/1/2013	Nash Finch Company	186	grocery
+271	3/2/2013	Chevron	69	transportation
+272	3/26/2013	Valero	78	transportation
+273	3/3/2013	American Airlines	93	transportation
+274	3/5/2013	Murphy USA	91	transportation
+275	3/31/2013	76	85	transportation
+276	3/22/2013	Amoco	51	transportation
+277	3/12/2013	Delta	61	transportation
+278	3/26/2013	Chevron	30	transportation
+279	3/3/2013	dvds	16	entertainment
+280	3/13/2013	dvd	7	entertainment
+281	3/11/2013	Netflix	10	entertainment
+282	3/2/2013	Staples	409	home
+283	3/29/2013	Costco	367	home
+284	3/25/2013	Chuck-A-Rama	43	restaurants
+285	3/9/2013	Applebee's	49	restaurants
+705	3/1/2013	Hollister	78	shopping
+1120	3/10/2013	Associated Grocers of the South	43	grocery
+1130	3/26/2013	Tennesse Valley Authority	225	utilities
+286	4/28/2013	Exxon	54	transportation
+287	4/18/2013	American Airlines	37	transportation
+288	4/2/2013	ARCO	20	transportation
+289	4/25/2013	Speedway	36	transportation
+290	4/14/2013	Marathon Oil	29	transportation
+291	4/4/2013	Sheetz	60	transportation
+292	4/6/2013	movies	16	entertainment
+293	4/24/2013	dvd	27	entertainment
+294	4/27/2013	movies	16	entertainment
+295	4/1/2013	Best Buy	247	home
+296	4/24/2013	JCPenney	22	shopping
+297	4/15/2013	Bloomingdale's	62	shopping
+298	4/13/2013	Carson Pirie Scott	156	shopping
+299	4/22/2013	Seattle's Best Coffee	41	restaurants
+300	4/22/2013	Cafe Rio	11	restaurants
+301	4/29/2013	Montana Mike's	12	restaurants
+730	4/29/2013	Camille's Sidewalk Cafe	41	restaurants
+1143	4/21/2013	books	12	entertainment
+1145	4/11/2013	Office Depot	362	home
+1158	4/30/2013	Waffle House	11	restaurants
+1593	4/19/2013	Hollister	171	shopping
+302	5/3/2013	New Deal Market	181	grocery
+303	5/10/2013	Tesco	62	grocery
+304	5/31/2013	movie	28	entertainment
+305	5/1/2013	movies	23	entertainment
+306	5/24/2013	UPS	70	home
+307	5/31/2013	Walmart	236	home
+308	5/26/2013	Costco	56	home
+309	5/21/2013	Barneys New York	85	shopping
+310	5/21/2013	The Bon-Ton	107	shopping
+311	5/8/2013	Nordstrom Rack	150	shopping
+312	5/21/2013	Bergner's	174	shopping
+313	5/20/2013	Sprint	291	utilities
+314	5/5/2013	Quiznos	32	restaurants
+315	5/6/2013	Auntie Anne's	25	restaurants
+316	5/20/2013	Chipotle Mexican Grill	24	restaurants
+317	5/13/2013	Quiznos	41	restaurants
+318	5/25/2013	Noodles & Company	16	restaurants
+745	5/31/2013	Ledo Pizza	15	restaurants
+319	6/12/2013	Food Bazaar Supermarkets	153	grocery
+320	6/2/2013	Sinclair	53	transportation
+321	6/13/2013	dvd	18	entertainment
+322	6/19/2013	dvds	20	entertainment
+323	6/25/2013	movie	28	entertainment
+324	6/7/2013	Best Buy	162	home
+325	6/4/2013	Sears Essentials	156	shopping
+326	6/9/2013	The Bon-Ton	112	shopping
+327	6/9/2013	Parisian (Bon-Ton)	144	shopping
+328	6/21/2013	The Bon-Ton	107	shopping
+329	6/6/2013	H&M	118	shopping
+330	6/8/2013	﻿Flint Energies	150	utilities
+331	6/14/2013	Southern Company	227	utilities
+332	6/26/2013	Jason's Deli	21	restaurants
+333	6/15/2013	East of Chicago Pizza	44	restaurants
+334	6/8/2013	Five Guys Famous Burgers and Fries	50	restaurants
+335	6/2/2013	Cheddar's Casual Café	20	restaurants
+336	6/4/2013	Bertucci's	30	restaurants
+337	6/14/2013	In-N-Out Burger	41	restaurants
+338	6/1/2013	Dixie Chili and Deli	49	restaurants
+339	6/13/2013	Rock Bottom	5	restaurants
+748	6/30/2013	American Airlines	28	transportation
+1187	6/7/2013	Hulu	18	entertainment
+1188	6/18/2013	Ikea	157	home
+1623	6/14/2013	Sinclair	54	transportation
+1628	6/20/2013	Sheetz	100	transportation
+1636	6/15/2013	Off 5th Saks Fifth Avenue Outlet	97	shopping
+340	7/29/2013	Associated Wholesalers	33	grocery
+341	7/26/2013	Love's	53	transportation
+342	7/14/2013	Wawa	88	transportation
+343	7/8/2013	Netflix	11	entertainment
+344	7/28/2013	movie	13	entertainment
+345	7/26/2013	books	19	entertainment
+346	7/10/2013	Home Depot	136	home
+347	7/8/2013	Lowes	464	home
+348	7/5/2013	﻿Flint Energies	130	utilities
+349	7/17/2013	Valentino's	23	restaurants
+350	7/3/2013	Starbucks	28	restaurants
+351	7/16/2013	Pizza Inn	34	restaurants
+352	7/11/2013	Dunkin' Donuts	44	restaurants
+353	7/12/2013	Cheeseburger in Paradise	32	restaurants
+777	7/8/2013	Boston Store	177	shopping
+778	7/9/2013	Tennesse Valley Authority	299	utilities
+1213	7/22/2013	Costco	151	home
+1218	7/17/2013	Sprint	126	utilities
+1653	7/14/2013	JCPenney	151	shopping
+1655	7/9/2013	Bergdorf Goodman	60	shopping
+354	8/1/2013	Arteagas Food Center	129	grocery
+355	8/19/2013	Conoco	22	transportation
+356	8/4/2013	Netflix	11	entertainment
+357	8/9/2013	movies	28	entertainment
+358	8/30/2013	dvds	9	entertainment
+359	8/24/2013	UPS	85	home
+360	8/14/2013	Lowes	102	home
+361	8/28/2013	Office Depot	264	home
+362	8/24/2013	Newegg	153	home
+363	8/11/2013	Macy's	28	shopping
+364	8/16/2013	Parisian (Bon-Ton)	98	shopping
+365	8/23/2013	Dish Network	258	utilities
+366	8/7/2013	Rubio's Fresh Mexican Grill	50	restaurants
+367	8/27/2013	Rock Bottom	37	restaurants
+368	8/2/2013	Papa Gino's	35	restaurants
+369	8/27/2013	Bertucci's	27	restaurants
+370	8/22/2013	Cinnabon	9	restaurants
+371	8/14/2013	Landry's Restaurants	41	restaurants
+791	8/22/2013	Carnival	67	transportation
+1228	8/27/2013	American Eagle	79	shopping
+1661	8/13/2013	Southwest	81	transportation
+372	9/14/2013	Nugget Markets	90	grocery
+373	9/30/2013	Cumberland Farms	77	transportation
+374	9/10/2013	Hess	60	transportation
+375	9/9/2013	Wawa	99	transportation
+376	9/20/2013	Travelcenters of America	89	transportation
+377	9/3/2013	Target	229	home
+378	9/12/2013	Office Depot	86	home
+379	9/14/2013	Bergdorf Goodman	172	shopping
+380	9/7/2013	H&M	189	shopping
+381	9/28/2013	Bergner's	113	shopping
+382	9/12/2013	Aeropostale	180	shopping
+383	9/23/2013	Georgia Institute of Technology	631	special
+384	9/7/2013	Lyon's	48	restaurants
+385	9/23/2013	Rainforest Cafe	35	restaurants
+386	9/20/2013	EatZi's	34	restaurants
+387	9/24/2013	Rubio's Fresh Mexican Grill	40	restaurants
+1694	9/8/2013	Cumberland Farms	43	transportation
+388	10/4/2013	Harris Teeter	167	grocery
+389	10/16/2013	Conoco	59	transportation
+390	10/23/2013	Citgo	30	transportation
+391	10/13/2013	Sunoco	77	transportation
+392	10/7/2013	Speedway	91	transportation
+393	10/27/2013	Phillips 66	91	transportation
+394	10/18/2013	Shell	57	transportation
+395	10/24/2013	BP	41	transportation
+396	10/11/2013	Sheetz	56	transportation
+397	10/3/2013	movie	19	entertainment
+398	10/26/2013	Netflix	15	entertainment
+399	10/16/2013	Home Depot	56	home
+400	10/9/2013	Staples	396	home
+401	10/30/2013	Walmart	153	home
+402	10/13/2013	Radioshack	289	home
+403	10/26/2013	Rock Bottom	17	restaurants
+404	10/25/2013	Checkers	17	restaurants
+405	10/3/2013	Little Caesars	16	restaurants
+406	10/25/2013	Taco Bueno	46	restaurants
+407	10/26/2013	Roy Rogers Restaurants	5	restaurants
+408	10/19/2013	Seasons 52	19	restaurants
+409	10/19/2013	Planet Hollywood	37	restaurants
+410	11/15/2013	Rouse's Supermarket	68	grocery
+411	11/12/2013	Sentry Foods	91	grocery
+412	11/4/2013	Buehler's	142	grocery
+413	11/12/2013	Amoco	22	transportation
+414	11/26/2013	Exxon	89	transportation
+415	11/26/2013	Kroger brand gasoline	51	transportation
+416	11/8/2013	Flying J	25	transportation
+417	11/15/2013	Lukoil	35	transportation
+418	11/11/2013	Shell	34	transportation
+419	11/27/2013	movies	11	entertainment
+420	11/29/2013	Ikea	384	home
+421	11/6/2013	Walmart	234	home
+422	11/27/2013	Lord & Taylor	123	shopping
+423	11/2/2013	Bergdorf Goodman	87	shopping
+424	11/18/2013	Macy's	130	shopping
+425	11/14/2013	T-Mobile	135	utilities
+426	11/11/2013	Old Country Buffet	16	restaurants
+427	11/22/2013	Applebee's	22	restaurants
+840	11/1/2013	7-Eleven brand gasoline	38	transportation
+847	11/13/2013	Nordstrom Rack	162	shopping
+848	11/8/2013	Von Maur	74	shopping
+428	12/31/2013	Sullivan's Foods	51	grocery
+429	12/6/2013	Lunardi's	138	grocery
+430	12/20/2013	New Deal Supermarket	52	grocery
+431	12/26/2013	Gulf	74	transportation
+432	12/11/2013	Chevron	74	transportation
+433	12/14/2013	Speedway	33	transportation
+434	12/14/2013	"Gas City, Ltd."	40	transportation
+435	12/1/2013	Pilot	96	transportation
+436	12/24/2013	Amoco	92	transportation
+437	12/3/2013	Amoco	43	transportation
+438	12/5/2013	Regal	12	entertainment
+439	12/11/2013	movies	16	entertainment
+440	12/28/2013	dvds	13	entertainment
+441	12/18/2013	American Eagle	72	shopping
+442	12/22/2013	Bloomingdale's	134	shopping
+443	12/24/2013	Dillard's	157	shopping
+444	12/30/2013	Comcast	234	utilities
+445	12/11/2013	Alabama Power	98	utilities
+446	12/16/2013	Skyline Chili	8	restaurants
+447	12/26/2013	Krystal	35	restaurants
+448	12/12/2013	FATZ	9	restaurants
+449	12/2/2013	Rally's	35	restaurants
+450	12/20/2013	Romano's Macaroni Grill	20	restaurants
+451	12/30/2013	Bubba Gump Shrimp Company	32	restaurants
+452	12/27/2013	Little Caesars	39	restaurants
+453	12/21/2013	Fleming's Prime Steakhouse & Wine Bar	34	restaurants
+454	12/31/2013	Miller's Ale House	49	restaurants
+1300	12/14/2013	Buehler's	108	grocery
+1738	12/7/2013	Food Bazaar Supermarkets	47	grocery
+1742	12/23/2013	Walmart	316	home
+455	1/10/2012	Sedano's	61	grocery
+456	1/30/2012	Sunoco	50	transportation
+457	1/4/2012	Shell	60	transportation
+459	1/16/2012	movie	21	entertainment
+460	1/19/2012	Netflix	5	entertainment
+461	1/15/2012	Bergner's	75	shopping
+462	1/26/2012	GAP	46	shopping
+463	1/21/2012	T-Mobile	194	utilities
+464	1/1/2012	Souplantation and Sweet Tomatoes	37	restaurants
+465	1/29/2012	EatZi's	15	restaurants
+466	1/23/2012	Rally's	20	restaurants
+467	1/17/2012	Jack's	29	restaurants
+468	1/22/2012	Five Guys Famous Burgers and Fries	24	restaurants
+888	1/26/2012	movie	29	entertainment
+469	2/6/2012	Associated Grocers of New England	175	grocery
+471	2/14/2012	JetBlue	33	transportation
+472	2/18/2012	books	8	entertainment
+473	2/17/2012	books	8	entertainment
+474	2/15/2012	Alabama Power	129	utilities
+475	2/11/2012	Sprint	243	utilities
+476	2/21/2012	Runza	43	restaurants
+477	2/6/2012	Naugles	34	restaurants
+478	2/27/2012	Cafe Rio	21	restaurants
+479	2/3/2012	IHOP	40	restaurants
+480	2/8/2012	CiCi's Pizza	36	restaurants
+481	2/17/2012	Raising Cane's Chicken Fingers	24	restaurants
+482	2/16/2012	Cheddar's Casual Café	12	restaurants
+483	2/21/2012	Pita Pit	17	restaurants
+484	2/17/2012	Fleming's Prime Steakhouse & Wine Bar	50	restaurants
+485	2/17/2012	On the Border Mexican Grill & Cantina	28	restaurants
+1351	2/25/2012	Alabama Power	206	utilities
+486	3/1/2012	Roundy's	78	grocery
+487	3/23/2012	Market Basket	189	grocery
+488	3/10/2012	H-Mart	166	grocery
+489	3/18/2012	MARTA	69	transportation
+490	3/6/2012	Kroger brand gasoline	39	transportation
+491	3/30/2012	dvd	30	entertainment
+492	3/8/2012	Regal	7	entertainment
+493	3/21/2012	dvds	23	entertainment
+494	3/14/2012	Office Depot	406	home
+495	3/4/2012	Costco	96	home
+496	3/19/2012	Radioshack	206	home
+497	3/9/2012	GAP	77	shopping
+498	3/23/2012	AT&T	154	utilities
+499	3/4/2012	Alabama Power	227	utilities
+500	4/24/2012	movie	17	entertainment
+501	4/5/2012	books	18	entertainment
+502	4/17/2012	books	18	entertainment
+503	4/20/2012	Belk	94	shopping
+505	4/7/2012	Applebee's	6	restaurants
+935	4/17/2012	Stew Leonard's	29	grocery
+506	5/11/2012	Superior Grocers	51	grocery
+507	5/21/2012	Tops	193	grocery
+508	5/1/2012	QuickChek	96	transportation
+509	5/10/2012	Texaco	39	transportation
+510	5/25/2012	MARTA	20	transportation
+511	5/24/2012	Flying J	99	transportation
+512	5/29/2012	Delta	97	transportation
+513	5/26/2012	Hulu	15	entertainment
+514	5/11/2012	movie	20	entertainment
+515	5/19/2012	Radioshack	103	home
+516	5/26/2012	Parisian (Bon-Ton)	121	shopping
+517	5/16/2012	Off 5th Saks Fifth Avenue Outlet	72	shopping
+518	5/24/2012	Off 5th Saks Fifth Avenue Outlet	101	shopping
+519	5/6/2012	Last Call Neiman Marcus	100	shopping
+520	5/23/2012	DirectTV	267	utilities
+521	5/10/2012	Dish Network	164	utilities
+522	5/13/2012	Robeks	34	restaurants
+523	5/27/2012	Jersey Mike's Subs	28	restaurants
+524	5/31/2012	Planet Hollywood	32	restaurants
+525	5/6/2012	Shane's Rib Shack	49	restaurants
+526	5/1/2012	Penn Station (restaurant)	49	restaurants
+1400	5/6/2012	Kirkland's	121	home
+527	6/8/2012	Sprouts Farmers Market	95	grocery
+528	6/21/2012	Weis Markets	108	grocery
+529	6/6/2012	Nash Finch Company	141	grocery
+530	6/20/2012	Valero	23	transportation
+531	6/8/2012	Airport	100	transportation
+532	6/8/2012	Conoco	75	transportation
+533	6/5/2012	7-Eleven brand gasoline	44	transportation
+534	6/29/2012	Kirkland's	401	home
+535	6/13/2012	GAP	162	shopping
+536	6/16/2012	Sears	26	shopping
+537	6/14/2012	Parisian (Bon-Ton)	100	shopping
+538	6/18/2012	Shoney's	40	restaurants
+539	6/13/2012	Maggiano's Little Italy	32	restaurants
+540	6/10/2012	York Steak House	40	restaurants
+542	6/6/2012	Damon's Grill	37	restaurants
+543	6/22/2012	Burgerville	5	restaurants
+971	6/29/2012	Hulu	12	entertainment
+545	7/26/2012	Scolari's Food and Drug	39	grocery
+546	7/3/2012	Sedano's	144	grocery
+547	7/10/2012	Mars	40	grocery
+550	7/19/2012	QuickChek	28	transportation
+551	7/23/2012	Marathon Oil	57	transportation
+552	7/1/2012	Netflix	12	entertainment
+553	7/27/2012	dvds	14	entertainment
+554	7/21/2012	Best Buy	166	home
+556	7/11/2012	UPS	56	home
+557	7/15/2012	Ikea	25	home
+558	7/26/2012	Aeropostale	131	shopping
+559	7/14/2012	Lord & Taylor	46	shopping
+560	7/6/2012	Hollister	170	shopping
+561	7/2/2012	JCPenney	174	shopping
+562	7/23/2012	﻿Flint Energies	126	utilities
+563	7/13/2012	Jersey Mike's Subs	20	restaurants
+564	7/13/2012	Bahama Breeze	30	restaurants
+565	7/29/2012	FATZ	47	restaurants
+566	7/21/2012	Chick-fil-A	38	restaurants
+567	7/30/2012	Lyon's	19	restaurants
+568	7/1/2012	Buca di Beppo	7	restaurants
+569	7/13/2012	Jack in the Box	27	restaurants
+570	7/22/2012	Cinnabon	27	restaurants
+1443	7/28/2012	Jack in the Box	11	restaurants
+571	8/24/2012	Big Y Foods	152	grocery
+572	8/18/2012	FoodFair	77	grocery
+573	8/23/2012	Sprouts Farmers Market	165	grocery
+574	8/6/2012	Kroger brand gasoline	23	transportation
+575	8/21/2012	Royal Farms	58	transportation
+576	8/24/2012	Wawa	59	transportation
+577	8/21/2012	dvd	25	entertainment
+578	8/10/2012	dvds	15	entertainment
+579	8/20/2012	Regal	25	entertainment
+580	8/15/2012	UPS	339	home
+581	8/18/2012	Walmart	498	home
+582	8/29/2012	Walmart	415	home
+583	8/18/2012	Lord & Taylor	81	shopping
+584	8/30/2012	Last Call Neiman Marcus	65	shopping
+585	8/28/2012	Arby's	6	restaurants
+586	8/19/2012	Fazoli's	46	restaurants
+587	8/7/2012	Little Caesars	34	restaurants
+588	8/30/2012	Hooters	18	restaurants
+589	8/30/2012	Redstone American Grill	26	restaurants
+590	8/12/2012	LongHorn Steakhouse	7	restaurants
+591	8/15/2012	Benihana	38	restaurants
+592	8/21/2012	Popeyes Chicken & Biscuits	12	restaurants
+593	8/10/2012	Jack in the Box	6	restaurants
+594	9/9/2012	American Airlines	22	transportation
+595	9/25/2012	Airport	64	transportation
+596	9/23/2012	Valero	82	transportation
+597	9/12/2012	Shell	48	transportation
+598	9/19/2012	Conoco	59	transportation
+599	9/7/2012	Netflix	7	entertainment
+600	9/12/2012	Kirkland's	12	home
+601	9/8/2012	Ikea	339	home
+602	9/6/2012	Lowes	40	home
+603	9/16/2012	GAP	193	shopping
+605	9/21/2012	Off 5th Saks Fifth Avenue Outlet	26	shopping
+606	9/16/2012	Southern Company	164	utilities
+607	9/20/2012	DirectTV	165	utilities
+608	9/27/2012	RA Sushi	16	restaurants
+609	9/5/2012	Bubba Gump Shrimp Company	26	restaurants
+610	9/29/2012	Mazzio's Italian Eatery	50	restaurants
+1464	9/23/2012	Hess	29	transportation
+611	10/13/2012	Nash Finch Company	161	grocery
+612	10/5/2012	Island Pacific Supermarket	153	grocery
+613	10/30/2012	Greyhound	94	transportation
+614	10/6/2012	JetBlue	49	transportation
+615	10/27/2012	Delta	35	transportation
+616	10/29/2012	Royal Farms	55	transportation
+617	10/19/2012	Pilot	77	transportation
+618	10/13/2012	Hulu	16	entertainment
+619	10/6/2012	dvd	10	entertainment
+620	10/19/2012	movie	26	entertainment
+621	10/22/2012	Office Depot	15	home
+622	10/22/2012	AT&T	248	utilities
+623	10/28/2012	In-N-Out Burger	17	restaurants
+624	10/4/2012	Golden Chick	41	restaurants
+625	10/7/2012	Fleming's Prime Steakhouse & Wine Bar	16	restaurants
+627	10/22/2012	The Old Spaghetti Factory	50	restaurants
+628	10/23/2012	Bennigan's	35	restaurants
+629	10/4/2012	Sub Station II	19	restaurants
+1046	10/22/2012	Delta	50	transportation
+632	11/11/2012	Sheetz	55	transportation
+633	11/15/2012	Exxon	33	transportation
+634	11/26/2012	Sheetz	38	transportation
+635	11/19/2012	Flying J	63	transportation
+636	11/13/2012	dvd	29	entertainment
+637	11/18/2012	Office Depot	370	home
+638	11/17/2012	UPS	236	home
+639	11/18/2012	Hollister	174	shopping
+640	11/23/2012	GAP	22	shopping
+641	11/17/2012	Younkers	114	shopping
+642	11/18/2012	﻿Flint Energies	239	utilities
+643	11/26/2012	T-Mobile	223	utilities
+644	11/29/2012	Uno Chicago Grill	29	restaurants
+645	11/29/2012	Jason's Deli	11	restaurants
+646	11/6/2012	Whataburger	27	restaurants
+647	11/12/2012	Mr. Hero	42	restaurants
+648	11/24/2012	Denny's	47	restaurants
+649	11/19/2012	Popeyes Chicken & Biscuits	47	restaurants
+650	11/30/2012	Cheeseburger in Paradise	31	restaurants
+651	11/18/2012	Olive Garden	16	restaurants
+652	12/31/2012	Econofoods	59	grocery
+653	12/14/2012	Roche Bros.	185	grocery
+654	12/30/2012	Airport	65	transportation
+655	12/3/2012	QuikTrip	66	transportation
+656	12/18/2012	76	80	transportation
+657	12/9/2012	Sheetz	78	transportation
+658	12/4/2012	Conoco	56	transportation
+659	12/8/2012	Greyhound	81	transportation
+660	12/3/2012	Sheetz	42	transportation
+661	12/31/2012	movies	12	entertainment
+662	12/2/2012	dvd	5	entertainment
+663	12/2/2012	dvd	22	entertainment
+664	12/18/2012	Radioshack	212	home
+665	12/27/2012	Radioshack	391	home
+666	12/21/2012	Elder-Beerman	144	shopping
+667	12/29/2012	Tennesse Valley Authority	69	utilities
+668	12/16/2012	Georgia Institute of Technology	1938	special
+669	12/27/2012	Port of Subs	29	restaurants
+670	12/7/2012	Seattle's Best Coffee	15	restaurants
+671	12/17/2012	Red Robin	44	restaurants
+672	1/31/2013	Hulu	11	entertainment
+673	1/14/2013	dvds	29	entertainment
+674	1/1/2013	CVS	439	home
+675	1/1/2013	Office Depot	51	home
+676	1/20/2013	Subway	20	restaurants
+1086	1/8/2013	Food Town	93	grocery
+1087	1/19/2013	Kam Man Food	85	grocery
+1541	1/31/2013	Hulu	28	entertainment
+677	2/10/2013	Gelson's Markets	195	grocery
+678	2/11/2013	Quality Foods	75	grocery
+679	2/6/2013	Speedway	74	transportation
+680	2/8/2013	Valero	66	transportation
+681	2/15/2013	Sheetz	59	transportation
+682	2/6/2013	Royal Farms	83	transportation
+683	2/18/2013	Mobil	78	transportation
+684	2/24/2013	movie	28	entertainment
+685	2/17/2013	Netflix	21	entertainment
+686	2/6/2013	books	19	entertainment
+687	2/11/2013	Ikea	71	home
+688	2/24/2013	Staples	164	home
+689	2/25/2013	Comcast	214	utilities
+690	2/3/2013	Pizza Ranch	18	restaurants
+691	2/2/2013	Ledo Pizza	14	restaurants
+692	2/19/2013	Coco's Bakery	14	restaurants
+693	2/3/2013	Ground Round	16	restaurants
+694	2/21/2013	Waffle House	40	restaurants
+1565	2/1/2013	Elephant Bar	37	restaurants
+695	3/28/2013	Uwajimaya	35	grocery
+696	3/11/2013	Super 1 Foods	157	grocery
+697	3/18/2013	Riesbeck's Food Markets	145	grocery
+698	3/26/2013	Amoco	24	transportation
+699	3/30/2013	movie	6	entertainment
+700	3/2/2013	movies	6	entertainment
+701	3/25/2013	Last Call Neiman Marcus	152	shopping
+702	3/12/2013	Macy's	94	shopping
+703	3/22/2013	Bloomingdale's	194	shopping
+704	3/12/2013	Hollister	22	shopping
+706	3/3/2013	Tmobile	83	utilities
+707	3/16/2013	Ground Round	5	restaurants
+708	3/7/2013	Domino's Pizza	10	restaurants
+709	3/23/2013	L&L Hawaiian Barbecue	44	restaurants
+710	4/29/2013	Karns Quality Foods	48	grocery
+711	4/26/2013	Festival Foods	72	grocery
+712	4/2/2013	Village market	181	grocery
+713	4/24/2013	Phillips 66	55	transportation
+714	4/22/2013	Chevron	79	transportation
+715	4/28/2013	Texaco	21	transportation
+716	4/7/2013	Kroger brand gasoline	42	transportation
+717	4/20/2013	MARTA	96	transportation
+718	4/30/2013	Sheetz	59	transportation
+719	4/29/2013	BP	96	transportation
+720	4/2/2013	QuickChek	60	transportation
+721	4/28/2013	Staples	300	home
+722	4/21/2013	Tennesse Valley Authority	55	utilities
+723	4/5/2013	DirectTV	120	utilities
+724	4/22/2013	Sizzler	11	restaurants
+725	4/30/2013	Blimpie	24	restaurants
+726	4/21/2013	Uno Chicago Grill	21	restaurants
+727	4/21/2013	Denny's	10	restaurants
+728	4/21/2013	Quaker Steak & Lube	26	restaurants
+729	4/18/2013	Village Inn	6	restaurants
+731	4/8/2013	Five Guys Famous Burgers and Fries	47	restaurants
+732	4/27/2013	Montana Mike's	26	restaurants
+733	5/9/2013	99 Ranch Market	34	grocery
+734	5/10/2013	Pilot	46	transportation
+735	5/10/2013	Amtrak	38	transportation
+736	5/13/2013	American Airlines	53	transportation
+737	5/9/2013	Speedway	29	transportation
+738	5/10/2013	Shell	93	transportation
+739	5/2/2013	Regal	25	entertainment
+740	5/16/2013	Kirkland's	403	home
+741	5/17/2013	Mitchell's Fish Market	16	restaurants
+742	5/4/2013	Bojangles' Famous Chicken 'n Biscuits	18	restaurants
+743	5/24/2013	The Melting Pot	29	restaurants
+744	5/4/2013	"	"""""	32	restaurants
+1167	5/12/2013	Lord & Taylor	132	shopping
+1171	5/4/2013	Buffalo Wild Wings	21	restaurants
+1613	5/6/2013	Bertucci's	43	restaurants
+1620	5/13/2013	CiCi's Pizza	37	restaurants
+746	6/29/2013	King Kullen	51	grocery
+747	6/14/2013	Texaco	91	transportation
+749	6/21/2013	Kroger brand gasoline	88	transportation
+750	6/12/2013	dvd	11	entertainment
+751	6/3/2013	dvds	10	entertainment
+752	6/3/2013	Home Depot	384	home
+753	6/8/2013	CVS	42	home
+754	6/17/2013	Best Buy	353	home
+755	6/29/2013	Boston Store	96	shopping
+756	6/9/2013	Off 5th Saks Fifth Avenue Outlet	96	shopping
+757	6/11/2013	JCPenney	119	shopping
+758	6/5/2013	AT&T	251	utilities
+759	6/6/2013	LongHorn Steakhouse	9	restaurants
+760	6/30/2013	GameWorks	41	restaurants
+761	6/20/2013	Black-eyed Pea	12	restaurants
+762	6/7/2013	Qdoba Mexican Grill	20	restaurants
+763	6/26/2013	Red Robin	12	restaurants
+764	6/22/2013	Jack in the Box	46	restaurants
+765	6/6/2013	Lyon's	22	restaurants
+766	6/22/2013	Auntie Anne's	43	restaurants
+767	6/3/2013	Claim Jumper	29	restaurants
+768	6/5/2013	Rock Bottom	13	restaurants
+769	7/18/2013	Fred Meyer	113	grocery
+770	7/31/2013	Gulf	61	transportation
+771	7/3/2013	Netflix	11	entertainment
+772	7/12/2013	Regal	25	entertainment
+773	7/27/2013	Staples	385	home
+774	7/24/2013	Bergdorf Goodman	112	shopping
+775	7/8/2013	Herberger's	60	shopping
+776	7/24/2013	The Bon-Ton	123	shopping
+779	7/10/2013	Planet Hollywood	36	restaurants
+780	7/20/2013	Bubba Gump Shrimp Company	20	restaurants
+781	7/29/2013	East of Chicago Pizza	37	restaurants
+782	7/1/2013	Carl's Jr.	14	restaurants
+783	7/31/2013	Which Wich?	20	restaurants
+784	7/25/2013	Raising Cane's Chicken Fingers	39	restaurants
+785	7/17/2013	Sub Station II	20	restaurants
+786	8/9/2013	Nugget Markets	173	grocery
+787	8/16/2013	Food 4 Less	42	grocery
+788	8/14/2013	Bruno's Supermarkets	145	grocery
+789	8/14/2013	Shell	26	transportation
+790	8/7/2013	JetBlue	65	transportation
+792	8/18/2013	RaceTrac/Raceway	61	transportation
+793	8/14/2013	Pilot	98	transportation
+794	8/20/2013	gas	100	transportation
+795	8/5/2013	gas	65	transportation
+796	8/27/2013	Travelcenters of America	28	transportation
+797	8/8/2013	movie	8	entertainment
+798	8/2/2013	Home Depot	47	home
+799	8/3/2013	Younkers	43	shopping
+800	8/22/2013	Hollister	103	shopping
+801	8/17/2013	Sears Essentials	132	shopping
+802	8/15/2013	Saks Fifth Avenue	69	shopping
+803	8/19/2013	Georgia Power	146	utilities
+804	8/7/2013	Sprint	203	utilities
+805	8/7/2013	Whataburger	8	restaurants
+806	8/28/2013	Gatti's Pizza	43	restaurants
+807	8/2/2013	The Old Spaghetti Factory	28	restaurants
+808	8/27/2013	Claim Jumper	27	restaurants
+809	9/3/2013	Ingles	102	grocery
+810	9/18/2013	Sunoco	77	transportation
+811	9/23/2013	Amtrak	35	transportation
+812	9/9/2013	MARTA	77	transportation
+813	9/6/2013	7-Eleven brand gasoline	96	transportation
+814	9/8/2013	Sinclair	44	transportation
+815	9/17/2013	dvd	25	entertainment
+816	9/28/2013	Radioshack	405	home
+817	9/16/2013	Radioshack	130	home
+818	9/11/2013	Radioshack	14	home
+819	9/25/2013	Macy's	63	shopping
+820	9/10/2013	Belk	162	shopping
+821	9/7/2013	Aeropostale	164	shopping
+822	9/24/2013	Sears Essentials	120	shopping
+823	9/11/2013	Off 5th Saks Fifth Avenue Outlet	38	shopping
+824	9/2/2013	Miller's Ale House	21	restaurants
+825	9/11/2013	Rally's	11	restaurants
+826	9/4/2013	Don Pablo's	27	restaurants
+827	9/3/2013	Sweet Tomatoes	6	restaurants
+828	10/29/2013	QuikTrip	46	transportation
+829	10/12/2013	Chevron	49	transportation
+830	10/16/2013	JetBlue	45	transportation
+831	10/29/2013	Target	142	home
+832	10/18/2013	Target	259	home
+833	10/11/2013	Von Maur	95	shopping
+834	10/13/2013	Boscov's	152	shopping
+835	10/3/2013	Bergner's	45	shopping
+836	10/14/2013	Golden Chick	17	restaurants
+837	10/13/2013	Runza	16	restaurants
+1717	10/7/2013	H&M	181	shopping
+838	11/6/2013	Rouse's Supermarket	149	grocery
+839	11/17/2013	Kroger brand gasoline	30	transportation
+841	11/11/2013	Mobil	36	transportation
+842	11/19/2013	"Gas City, Ltd."	47	transportation
+843	11/1/2013	Office Depot	195	home
+844	11/28/2013	Office Depot	197	home
+845	11/11/2013	Kirkland's	40	home
+846	11/24/2013	Boston Store	156	shopping
+849	11/14/2013	Aeropostale	127	shopping
+850	11/16/2013	Lord & Taylor	103	shopping
+851	11/10/2013	﻿Flint Energies	138	utilities
+852	11/20/2013	Southern Company	69	utilities
+853	11/30/2013	Camille's Sidewalk Cafe	6	restaurants
+854	11/7/2013	Cheeseburger in Paradise	48	restaurants
+855	11/11/2013	Houston's Restaurant	42	restaurants
+856	11/17/2013	Mitchell's Fish Market	22	restaurants
+857	11/1/2013	Sweet Tomatoes	16	restaurants
+858	11/24/2013	Romano's Macaroni Grill	24	restaurants
+859	11/12/2013	Swensons	38	restaurants
+860	11/28/2013	Rax	38	restaurants
+861	11/8/2013	Fresh Choice	6	restaurants
+862	11/29/2013	Tilted Kilt	24	restaurants
+1282	11/25/2013	Spartan Stores	151	grocery
+863	12/7/2013	Haggen Food & Pharmacy	107	grocery
+864	12/12/2013	Smart & Final	156	grocery
+865	12/29/2013	Wawa	92	transportation
+866	12/11/2013	Sinclair	93	transportation
+867	12/12/2013	Sunoco	85	transportation
+868	12/20/2013	Hess	67	transportation
+869	12/16/2013	movie	25	entertainment
+870	12/17/2013	Newegg	28	home
+871	12/19/2013	Off 5th Saks Fifth Avenue Outlet	79	shopping
+872	12/2/2013	Lord & Taylor	181	shopping
+873	12/27/2013	Bergner's	51	shopping
+874	12/7/2013	JCPenney	174	shopping
+875	12/25/2013	Tennesse Valley Authority	135	utilities
+876	12/16/2013	Georgia Power	86	utilities
+877	12/29/2013	Moe's Southwest Grill	36	restaurants
+878	12/16/2013	Copeland's	20	restaurants
+879	12/15/2013	Little Caesars	42	restaurants
+880	12/22/2013	Qdoba Mexican Grill	23	restaurants
+881	12/30/2013	Dunkin' Donuts	46	restaurants
+882	1/2/2012	Royal Ahold	169	grocery
+883	1/11/2012	Murphy's Marketplace	104	grocery
+884	1/30/2012	Getty	34	transportation
+885	1/1/2012	RaceTrac/Raceway	27	transportation
+886	1/28/2012	MARTA	96	transportation
+887	1/6/2012	Marathon Oil	61	transportation
+889	1/31/2012	Radioshack	243	home
+890	1/20/2012	Elder-Beerman	134	shopping
+891	1/3/2012	Parisian (Bon-Ton)	137	shopping
+892	1/17/2012	Belk	95	shopping
+893	1/11/2012	Last Call Neiman Marcus	149	shopping
+894	1/19/2012	JCPenney	57	shopping
+895	2/23/2012	Roche Bros.	137	grocery
+896	2/7/2012	Island Pacific Supermarket	191	grocery
+897	2/22/2012	Exxon	79	transportation
+898	2/24/2012	QuickChek	72	transportation
+899	2/18/2012	Chevron	80	transportation
+900	2/6/2012	MARTA	45	transportation
+901	2/7/2012	Texaco	53	transportation
+902	2/3/2012	7-Eleven brand gasoline	84	transportation
+903	2/14/2012	Shell	53	transportation
+904	2/26/2012	movies	17	entertainment
+905	2/15/2012	books	25	entertainment
+906	2/3/2012	Ikea	264	home
+907	2/26/2012	Best Buy	193	home
+908	2/19/2012	Newegg	59	home
+909	2/17/2012	Home Depot	336	home
+910	2/25/2012	Sears Essentials	53	shopping
+911	2/18/2012	Sears Essentials	126	shopping
+912	2/21/2012	Herberger's	69	shopping
+913	2/17/2012	Boston Store	160	shopping
+914	2/6/2012	Off 5th Saks Fifth Avenue Outlet	171	shopping
+915	2/17/2012	DirectTV	287	utilities
+916	3/24/2012	Marsh	157	grocery
+917	3/26/2012	Natural Grocers by Vitamin Cottage	109	grocery
+918	3/3/2012	JetBlue	64	transportation
+919	3/24/2012	Southwest	94	transportation
+920	3/17/2012	movie	20	entertainment
+921	3/1/2012	movies	12	entertainment
+922	3/19/2012	Lowes	211	home
+923	3/24/2012	Bergner's	87	shopping
+924	3/28/2012	Aeropostale	87	shopping
+925	3/24/2012	Sears	172	shopping
+926	3/28/2012	AT&T	110	utilities
+927	3/4/2012	Dish Network	53	utilities
+928	3/13/2012	Ga tech	3180	special
+929	3/18/2012	Ben & Jerry's	30	restaurants
+930	3/2/2012	Bakers Square	6	restaurants
+931	3/23/2012	Miller's Ale House	40	restaurants
+932	3/30/2012	Panera Bread	6	restaurants
+933	3/10/2012	Smokey Bones	14	restaurants
+934	3/31/2012	Smokey Bones	33	restaurants
+936	4/4/2012	Foodtown	185	grocery
+937	4/8/2012	Seafood City	99	grocery
+938	4/1/2012	QuikTrip	100	transportation
+939	4/15/2012	movies	25	entertainment
+941	4/13/2012	Staples	347	home
+942	4/10/2012	UPS	464	home
+944	4/10/2012	Boston Store	89	shopping
+945	4/20/2012	H&M	99	shopping
+946	4/6/2012	Tennesse Valley Authority	170	utilities
+947	5/16/2012	Stewart's Shops	37	grocery
+948	5/2/2012	Amoco	56	transportation
+949	5/30/2012	Love's	62	transportation
+950	5/24/2012	Cumberland Farms	36	transportation
+951	5/31/2012	Conoco	77	transportation
+952	5/26/2012	Travelcenters of America	53	transportation
+953	5/27/2012	Ikea	32	home
+954	5/16/2012	Newegg	455	home
+955	5/23/2012	Sears	155	shopping
+956	5/22/2012	At&t.com	129	utilities
+957	5/3/2012	Lee Roy Selmon's	37	restaurants
+958	5/7/2012	The Capital Grille	43	restaurants
+1391	5/30/2012	ARCO	63	transportation
+959	6/17/2012	Quality Markets	162	grocery
+960	6/5/2012	Acme Fresh Market	144	grocery
+961	6/30/2012	Getty	65	transportation
+962	6/5/2012	QuickChek	75	transportation
+963	6/25/2012	Shell	41	transportation
+964	6/27/2012	QuickChek	67	transportation
+965	6/30/2012	Sinclair	25	transportation
+966	6/24/2012	gas	82	transportation
+967	6/25/2012	Southwest	40	transportation
+968	6/21/2012	Citgo	96	transportation
+969	6/15/2012	Hulu	17	entertainment
+970	6/21/2012	dvds	23	entertainment
+972	6/29/2012	Home Depot	438	home
+973	6/18/2012	Kirkland's	483	home
+974	6/23/2012	Costco	34	home
+975	6/4/2012	H&M	167	shopping
+977	6/7/2012	Last Call Neiman Marcus	72	shopping
+978	6/2/2012	Saks Fifth Avenue	63	shopping
+979	6/29/2012	Younkers	43	shopping
+1413	6/23/2012	Gulf	65	transportation
+980	7/9/2012	The Fresh Grocer	27	grocery
+981	7/8/2012	7-Eleven brand gasoline	67	transportation
+982	7/12/2012	MARTA	59	transportation
+983	7/4/2012	Hess	51	transportation
+984	7/9/2012	Shell	47	transportation
+985	7/11/2012	Conoco	24	transportation
+987	7/20/2012	Amoco	93	transportation
+988	7/14/2012	movies	26	entertainment
+989	7/10/2012	books	7	entertainment
+990	7/17/2012	Target	130	home
+991	7/23/2012	Office Depot	156	home
+992	7/6/2012	Target	209	home
+993	7/8/2012	Macy's	68	shopping
+994	7/28/2012	Aeropostale	22	shopping
+995	7/13/2012	At&t.com	268	utilities
+996	7/8/2012	Comcast	223	utilities
+997	7/29/2012	Pei Wei Asian Diner	19	restaurants
+998	7/30/2012	Panera Bread	8	restaurants
+999	7/10/2012	Roy's	38	restaurants
+1000	7/31/2012	Domino's Pizza	43	restaurants
+1002	7/9/2012	Church's	7	restaurants
+1003	7/20/2012	Applebee's	44	restaurants
+1434	7/3/2012	Hulu	16	entertainment
+1004	8/1/2012	Kroger brand gasoline	66	transportation
+1005	8/16/2012	Sinclair	51	transportation
+1006	8/3/2012	7-Eleven brand gasoline	59	transportation
+1007	8/26/2012	ARCO	43	transportation
+1008	8/26/2012	Royal Farms	75	transportation
+1009	8/8/2012	books	27	entertainment
+1010	8/19/2012	Regal	10	entertainment
+1011	8/19/2012	Costco	18	home
+1012	8/24/2012	Target	79	home
+1013	8/18/2012	Kirkland's	291	home
+1014	8/24/2012	Miller's Ale House	32	restaurants
+1015	8/6/2012	Burger Street	30	restaurants
+1016	8/27/2012	Saladworks	5	restaurants
+1017	8/3/2012	BJ's Restaurant & Brewery	12	restaurants
+1018	8/26/2012	Coco's Bakery	11	restaurants
+1019	8/22/2012	Sub Station II	19	restaurants
+1020	8/26/2012	National Coney Island	27	restaurants
+1021	8/3/2012	Rainforest Cafe	41	restaurants
+1023	8/1/2012	Camille's Sidewalk Cafe	42	restaurants
+1024	9/16/2012	Minyard's	195	grocery
+1025	9/25/2012	The Great Atlantic and Pacific Tea Company (A&P)	112	grocery
+1026	9/26/2012	movie	21	entertainment
+1027	9/27/2012	dvds	11	entertainment
+1028	9/6/2012	Lowes	141	home
+1029	9/1/2012	Sears	75	shopping
+1030	9/20/2012	The Bon-Ton	164	shopping
+1031	9/12/2012	GAP	120	shopping
+1032	9/1/2012	Which Wich?	21	restaurants
+1033	9/23/2012	RA Sushi	29	restaurants
+1034	9/3/2012	﻿A&W Restaurants	38	restaurants
+1035	9/22/2012	Quaker Steak & Lube	42	restaurants
+1036	9/7/2012	Charlie Brown's Steakhouse	45	restaurants
+1037	9/7/2012	Cold Stone Creamery	16	restaurants
+1039	10/19/2012	Chevron	67	transportation
+1040	10/21/2012	Gulf	34	transportation
+1041	10/25/2012	Amoco	66	transportation
+1042	10/8/2012	Delta	48	transportation
+1043	10/6/2012	Valero	33	transportation
+1044	10/31/2012	Wawa	23	transportation
+1045	10/1/2012	Sheetz	86	transportation
+1047	10/9/2012	Hulu	5	entertainment
+1048	10/25/2012	Lowes	301	home
+1049	10/14/2012	Saks Fifth Avenue	127	shopping
+1050	10/18/2012	H&M	196	shopping
+1051	10/31/2012	Bloomingdale's	105	shopping
+1052	10/19/2012	Belk	123	shopping
+1053	10/14/2012	Sprint	153	utilities
+1054	10/31/2012	Alabama Power	268	utilities
+1055	10/28/2012	Tony Roma's	48	restaurants
+1056	10/19/2012	Chi-Chi's	16	restaurants
+1057	10/22/2012	Penn Station (restaurant)	49	restaurants
+1058	10/31/2012	Bennigan's	44	restaurants
+1059	10/26/2012	Qdoba Mexican Grill	26	restaurants
+1060	10/8/2012	Golden Corral	34	restaurants
+1061	10/25/2012	Pizza Ranch	28	restaurants
+1495	10/2/2012	BJ's Restaurant & Brewery	13	restaurants
+1062	11/25/2012	Lunds	112	grocery
+1063	11/13/2012	Lunds	90	grocery
+1064	11/6/2012	David's Supermarkets	96	grocery
+1065	11/5/2012	Royal Farms	46	transportation
+1066	11/9/2012	MARTA	55	transportation
+1067	11/13/2012	76	81	transportation
+1068	11/6/2012	Home Depot	480	home
+1069	11/2/2012	Kohl's	48	shopping
+1070	12/6/2012	Festival Foods	142	grocery
+1071	12/17/2012	Bruno's Supermarkets	127	grocery
+1072	12/28/2012	Delta	47	transportation
+1073	12/27/2012	Radioshack	488	home
+1074	12/18/2012	Kirkland's	417	home
+1075	12/20/2012	Radioshack	215	home
+1077	12/31/2012	Nordstrom	191	shopping
+1078	12/30/2012	Shoney's	28	restaurants
+1079	12/24/2012	Jersey Mike's Subs	47	restaurants
+1080	12/3/2012	Champps Americana	23	restaurants
+1081	12/10/2012	﻿A&W Restaurants	33	restaurants
+1082	12/9/2012	"	"""""	7	restaurants
+1083	12/15/2012	Olive Garden	20	restaurants
+1084	12/14/2012	Atlanta Bread Company	47	restaurants
+1085	1/13/2013	Stater Brothers	102	grocery
+1088	1/6/2013	RaceTrac/Raceway	67	transportation
+1090	1/4/2013	QuickChek	68	transportation
+1091	1/18/2013	Royal Farms	94	transportation
+1092	1/3/2013	Shell	51	transportation
+1093	1/25/2013	Speedway	24	transportation
+1094	1/22/2013	movie	18	entertainment
+1095	1/20/2013	Bergdorf Goodman	152	shopping
+1096	1/3/2013	JCPenney	99	shopping
+1097	1/7/2013	Carson Pirie Scott	31	shopping
+1098	1/24/2013	Ruby Tuesday	14	restaurants
+1099	1/20/2013	Whataburger	31	restaurants
+1100	1/25/2013	Boston Market	5	restaurants
+1101	1/8/2013	Carvel Ice Cream	40	restaurants
+1102	1/15/2013	Steak 'n Shake	27	restaurants
+1103	1/26/2013	Texas Roadhouse	15	restaurants
+1104	1/29/2013	Popeyes Chicken & Biscuits	29	restaurants
+1105	1/9/2013	T.G.I. Friday's	45	restaurants
+1548	1/29/2013	Roy's	18	restaurants
+1106	2/4/2013	Kuhn's Quality Foods	198	grocery
+1107	2/11/2013	76	98	transportation
+1108	2/22/2013	Royal Farms	60	transportation
+1109	2/20/2013	Conoco	59	transportation
+1110	2/13/2013	"Gas City, Ltd."	93	transportation
+1111	2/25/2013	Shell	48	transportation
+1112	2/22/2013	Ikea	41	home
+1113	2/11/2013	Radioshack	272	home
+1114	2/16/2013	Parisian (Bon-Ton)	181	shopping
+1115	2/1/2013	Neiman Marcus	153	shopping
+1116	2/11/2013	Last Call Neiman Marcus	64	shopping
+1117	2/19/2013	Alabama Power	60	utilities
+1118	2/8/2013	McAlister's Deli	38	restaurants
+1119	2/26/2013	Smokey Bones	41	restaurants
+1121	3/3/2013	Mi Pueblo Food Center	88	grocery
+1122	3/14/2013	"Gas City, Ltd."	62	transportation
+1123	3/12/2013	Sheetz	34	transportation
+1124	3/30/2013	Amtrak	88	transportation
+1125	3/1/2013	Valero	79	transportation
+1126	3/9/2013	Getty	32	transportation
+1127	3/27/2013	BP	43	transportation
+1128	3/29/2013	Best Buy	113	home
+1129	3/13/2013	Georgia Power	51	utilities
+1131	3/26/2013	The Original Pancake House	29	restaurants
+1132	3/20/2013	Jason's Deli	23	restaurants
+1133	3/26/2013	Trader Vic's	32	restaurants
+1134	3/7/2013	The Old Spaghetti Factory	21	restaurants
+1135	3/13/2013	Wienerschnitzel	11	restaurants
+1136	3/10/2013	White Castle	38	restaurants
+1137	3/30/2013	Shoney's	46	restaurants
+1138	3/11/2013	McDonald's	8	restaurants
+1139	3/10/2013	Chi-Chi's	32	restaurants
+1140	3/5/2013	Whataburger	46	restaurants
+1141	4/29/2013	Buehler's	34	grocery
+1142	4/24/2013	Amtrak	59	transportation
+1144	4/28/2013	books	21	entertainment
+1146	4/23/2013	H&M	136	shopping
+1147	4/13/2013	Boston Store	76	shopping
+1148	4/10/2013	Boston Store	97	shopping
+1149	4/7/2013	Boscov's	61	shopping
+1150	4/26/2013	Herberger's	184	shopping
+1151	4/4/2013	Georgia Power	126	utilities
+1152	4/14/2013	Chili's	16	restaurants
+1153	4/11/2013	Arctic Circle Restaurants	47	restaurants
+1154	4/3/2013	RA Sushi	12	restaurants
+1155	4/29/2013	Jason's Deli	50	restaurants
+1156	4/18/2013	In-N-Out Burger	48	restaurants
+1157	4/11/2013	Montana Mike's	11	restaurants
+1159	4/13/2013	Logan's Roadhouse	48	restaurants
+1160	5/6/2013	Amoco	92	transportation
+1161	5/10/2013	movies	29	entertainment
+1162	5/25/2013	UPS	348	home
+1163	5/12/2013	Ikea	59	home
+1164	5/29/2013	Newegg	358	home
+1165	5/30/2013	Staples	179	home
+1166	5/2/2013	Elder-Beerman	40	shopping
+1168	5/22/2013	Barneys New York	52	shopping
+1169	5/30/2013	Sears Essentials	184	shopping
+1170	5/8/2013	Bloomingdale's	130	shopping
+1172	5/16/2013	Houston's Restaurant	30	restaurants
+1173	5/13/2013	Redstone American Grill	46	restaurants
+1174	5/3/2013	Five Guys Famous Burgers and Fries	50	restaurants
+1175	5/25/2013	Montana Mike's	44	restaurants
+1176	5/15/2013	Elephant Bar	26	restaurants
+1177	5/7/2013	Taco Bueno	40	restaurants
+1178	5/26/2013	El Pollo Loco	21	restaurants
+1179	5/1/2013	Green Mill	31	restaurants
+1180	5/11/2013	Panda Express	30	restaurants
+1606	5/6/2013	Chevron	86	transportation
+1617	5/11/2013	Golden Chick	28	restaurants
+1181	6/5/2013	Amtrak	20	transportation
+1182	6/8/2013	Wawa	58	transportation
+1183	6/6/2013	Texaco	63	transportation
+1184	6/15/2013	Shell	35	transportation
+1185	6/6/2013	books	27	entertainment
+1186	6/5/2013	Hulu	7	entertainment
+1189	6/17/2013	Macy's	166	shopping
+1190	6/12/2013	DirectTV	101	utilities
+1191	6/18/2013	Black Angus Steakhouse	14	restaurants
+1192	6/23/2013	Olive Garden	10	restaurants
+1193	6/7/2013	L&L Hawaiian Barbecue	23	restaurants
+1194	6/24/2013	Godfather's Pizza	22	restaurants
+1195	6/30/2013	Pei Wei Asian Diner	22	restaurants
+1196	6/18/2013	Applebee's	23	restaurants
+1197	6/1/2013	Golden Chick	44	restaurants
+1198	6/16/2013	Eegee's	25	restaurants
+1199	6/23/2013	Bertucci's	48	restaurants
+1200	6/11/2013	Papa Gino's	18	restaurants
+1201	7/16/2013	FreshDirect	154	grocery
+1202	7/15/2013	Associated Wholesale Grocers	148	grocery
+1203	7/7/2013	Chevron	83	transportation
+1204	7/25/2013	Mobil	66	transportation
+1205	7/14/2013	BP	20	transportation
+1206	7/4/2013	Valero	85	transportation
+1207	7/28/2013	Murphy USA	92	transportation
+1208	7/5/2013	gas	30	transportation
+1209	7/13/2013	dvds	19	entertainment
+1210	7/27/2013	movies	21	entertainment
+1211	7/26/2013	dvds	15	entertainment
+1212	7/29/2013	Costco	438	home
+1214	7/21/2013	Kirkland's	153	home
+1215	7/22/2013	Kohl's	61	shopping
+1216	7/27/2013	JCPenney	91	shopping
+1217	7/30/2013	Saks Fifth Avenue	140	shopping
+1219	7/29/2013	T-Mobile	265	utilities
+1646	7/18/2013	Greyhound	20	transportation
+1220	8/12/2013	Raley's	155	grocery
+1221	8/9/2013	Hess	93	transportation
+1222	8/17/2013	7-Eleven brand gasoline	27	transportation
+1223	8/9/2013	"Gas City, Ltd."	88	transportation
+1224	8/6/2013	Office Depot	441	home
+1225	8/7/2013	Boscov's	171	shopping
+1226	8/27/2013	Last Call Neiman Marcus	166	shopping
+1227	8/25/2013	Sears Essentials	33	shopping
+1229	8/8/2013	Dish Network	209	utilities
+1230	8/2/2013	AT&T	98	utilities
+1231	8/2/2013	Applebee's	50	restaurants
+1232	8/16/2013	Arctic Circle Restaurants	49	restaurants
+1233	8/31/2013	Schlotzsky's	23	restaurants
+1234	8/3/2013	Cold Stone Creamery	38	restaurants
+1235	8/12/2013	Subway	18	restaurants
+1236	8/13/2013	Benihana	6	restaurants
+1237	8/31/2013	﻿A&W Restaurants	46	restaurants
+1238	9/27/2013	Vallarta Supermarkets	184	grocery
+1239	9/6/2013	Vallarta Supermarkets	148	grocery
+1240	9/2/2013	movie	6	entertainment
+1241	9/20/2013	Netflix	24	entertainment
+1242	9/15/2013	Office Depot	226	home
+1243	9/1/2013	Ikea	186	home
+1244	9/25/2013	Best Buy	438	home
+1245	9/6/2013	Walmart	116	home
+1246	9/14/2013	Saks Fifth Avenue	121	shopping
+1247	9/7/2013	Bergner's	22	shopping
+1248	9/23/2013	Boscov's	83	shopping
+1249	9/4/2013	DirectTV	237	utilities
+1250	9/22/2013	At&t.com	238	utilities
+1251	9/9/2013	Ben & Jerry's	22	restaurants
+1252	9/8/2013	Eegee's	22	restaurants
+1253	9/4/2013	York Steak House	7	restaurants
+1254	9/13/2013	Auntie Anne's	11	restaurants
+1255	9/16/2013	Moe's Southwest Grill	48	restaurants
+1256	9/5/2013	Chevys Fresh Mex	7	restaurants
+1257	9/9/2013	Green Burrito	41	restaurants
+1258	9/3/2013	Spangles (restaurant)	23	restaurants
+1259	9/18/2013	Blimpie	20	restaurants
+1260	9/23/2013	CiCi's Pizza	48	restaurants
+1691	9/18/2013	Getty	59	transportation
+1261	10/22/2013	Brookshire Brothers	43	grocery
+1262	10/28/2013	Kam Man Food	175	grocery
+1263	10/25/2013	Phillips 66	39	transportation
+1264	10/30/2013	Murphy USA	31	transportation
+1265	10/23/2013	Amtrak	57	transportation
+1266	10/2/2013	Target	355	home
+1267	10/3/2013	Newegg	15	home
+1268	10/22/2013	Radioshack	480	home
+1269	10/6/2013	The Bon-Ton	142	shopping
+1270	10/17/2013	Bergdorf Goodman	85	shopping
+1271	10/19/2013	Hollister	136	shopping
+1272	10/28/2013	Mrs. Fields	21	restaurants
+1273	10/22/2013	Hobee's Restaurant	8	restaurants
+1274	10/30/2013	HuHot Mongolian Grill	33	restaurants
+1275	10/19/2013	Auntie Anne's	39	restaurants
+1276	10/5/2013	Green Mill	39	restaurants
+1277	10/12/2013	Fleming's Prime Steakhouse & Wine Bar	34	restaurants
+1278	10/22/2013	Golden Corral	36	restaurants
+1279	10/21/2013	Taco John's	23	restaurants
+1280	10/21/2013	Howard Johnson's	9	restaurants
+1281	10/23/2013	Fazoli's	18	restaurants
+1719	10/6/2013	Von Maur	54	shopping
+1283	11/7/2013	Unified Grocers	80	grocery
+1284	11/13/2013	Redner's Warehouse Markets	150	grocery
+1285	11/13/2013	Mobil	95	transportation
+1286	11/15/2013	MARTA	29	transportation
+1287	11/5/2013	books	13	entertainment
+1288	11/12/2013	CVS	459	home
+1289	11/13/2013	Target	73	home
+1290	11/22/2013	Lord & Taylor	191	shopping
+1291	11/10/2013	Barneys New York	74	shopping
+1292	11/16/2013	Dish Network	139	utilities
+1293	11/13/2013	hospital	4548	special
+1294	11/19/2013	Black Angus Steakhouse	26	restaurants
+1295	11/13/2013	Hobee's Restaurant	17	restaurants
+1296	11/1/2013	Runza	5	restaurants
+1297	11/29/2013	Planet Hollywood	22	restaurants
+1298	12/19/2013	WinCo Foods	35	grocery
+1299	12/31/2013	Kuhn's Quality Foods	62	grocery
+1301	12/2/2013	Hess	75	transportation
+1302	12/6/2013	Amoco	86	transportation
+1303	12/14/2013	BP	45	transportation
+1304	12/12/2013	Pilot	85	transportation
+1305	12/31/2013	Wawa	27	transportation
+1306	12/13/2013	ARCO	87	transportation
+1307	12/26/2013	Phillips 66	23	transportation
+1308	12/11/2013	Texaco	48	transportation
+1309	12/28/2013	dvds	6	entertainment
+1310	12/17/2013	books	28	entertainment
+1311	12/21/2013	dvds	5	entertainment
+1312	12/6/2013	Target	209	home
+1313	12/12/2013	Boston Store	187	shopping
+1314	12/4/2013	Aeropostale	43	shopping
+1315	12/1/2013	H&M	195	shopping
+1316	12/31/2013	T-Mobile	186	utilities
+1317	12/12/2013	At&t.com	290	utilities
+1318	12/11/2013	Dunkin' Donuts	46	restaurants
+1319	12/24/2013	Jamba Juice	34	restaurants
+1320	12/21/2013	Carrabba's Italian Grill	7	restaurants
+1321	12/5/2013	Chuck E. Cheese's	5	restaurants
+1322	12/18/2013	Ben & Jerry's	46	restaurants
+1323	12/7/2013	Ben & Jerry's	22	restaurants
+1324	1/20/2012	Amoco	21	transportation
+1325	1/25/2012	Shell	79	transportation
+1326	1/11/2012	Citgo	53	transportation
+1327	1/26/2012	Conoco	55	transportation
+1328	1/22/2012	Valero	37	transportation
+1329	1/20/2012	RaceTrac/Raceway	27	transportation
+1330	1/29/2012	Love's	21	transportation
+1331	1/17/2012	dvd	30	entertainment
+1332	1/25/2012	movies	25	entertainment
+1333	1/13/2012	Hulu	5	entertainment
+1334	1/22/2012	Office Depot	78	home
+1335	1/8/2012	Bergner's	132	shopping
+1336	1/5/2012	Hollister	105	shopping
+1337	1/30/2012	The Bon-Ton	194	shopping
+1338	1/16/2012	Tennesse Valley Authority	202	utilities
+1340	2/28/2012	Kroger brand gasoline	62	transportation
+1341	2/27/2012	Hess	39	transportation
+1342	2/12/2012	movie	27	entertainment
+1343	2/17/2012	dvd	9	entertainment
+1344	2/22/2012	movies	12	entertainment
+1345	2/25/2012	Newegg	421	home
+1346	2/9/2012	The Bon-Ton	126	shopping
+1347	2/14/2012	Bloomingdale's	131	shopping
+1348	2/2/2012	Nordstrom Rack	54	shopping
+1349	2/13/2012	Herberger's	141	shopping
+1350	2/27/2012	Off 5th Saks Fifth Avenue Outlet	170	shopping
+1352	2/20/2012	Cafe Rio	23	restaurants
+1353	2/20/2012	Whataburger	44	restaurants
+1354	2/14/2012	Culver's	38	restaurants
+1355	2/28/2012	Blimpie	12	restaurants
+1357	3/19/2012	Grocery Outlet	114	grocery
+1358	3/3/2012	Flying J	81	transportation
+1359	3/5/2012	Wawa	29	transportation
+1360	3/3/2012	dvd	9	entertainment
+1361	3/20/2012	books	10	entertainment
+1362	3/18/2012	dvds	27	entertainment
+1363	3/1/2012	Office Depot	492	home
+1364	3/28/2012	DirectTV	66	utilities
+1365	3/25/2012	T-Mobile	135	utilities
+1366	3/5/2012	Ga tech	396	special
+1367	3/1/2012	Chuck-A-Rama	34	restaurants
+1368	3/9/2012	Texas Roadhouse	35	restaurants
+1369	3/13/2012	KFC	13	restaurants
+1370	4/15/2012	Natural Grocers by Vitamin Cottage	128	grocery
+1371	4/16/2012	King Kullen	110	grocery
+1372	4/25/2012	Martin's Food Markets	188	grocery
+1373	4/29/2012	Wawa	46	transportation
+1374	4/18/2012	Conoco	44	transportation
+1375	4/8/2012	Conoco	92	transportation
+1376	4/4/2012	Conoco	96	transportation
+1377	4/2/2012	Regal	15	entertainment
+1378	4/16/2012	Boscov's	136	shopping
+1379	4/6/2012	Dillard's	177	shopping
+1380	4/15/2012	T-Mobile	54	utilities
+1381	4/8/2012	DirectTV	300	utilities
+1382	4/13/2012	Old Country Buffet	49	restaurants
+1383	4/3/2012	Braum's	23	restaurants
+1384	4/10/2012	Dunkin' Donuts	31	restaurants
+1385	4/23/2012	BJ's Restaurant & Brewery	8	restaurants
+1386	4/25/2012	Dairy Queen	22	restaurants
+1387	4/5/2012	Johnny Rockets	50	restaurants
+1388	4/18/2012	Smashburger	34	restaurants
+1389	4/22/2012	California Pizza Kitchen	45	restaurants
+1390	4/18/2012	Ruby Tuesday	45	restaurants
+1392	5/19/2012	QuickChek	97	transportation
+1393	5/3/2012	Sinclair	20	transportation
+1394	5/29/2012	Sheetz	84	transportation
+1395	5/19/2012	Mobil	39	transportation
+1396	5/26/2012	Speedway	74	transportation
+1397	5/14/2012	Regal	22	entertainment
+1398	5/19/2012	books	25	entertainment
+1399	5/8/2012	books	7	entertainment
+1401	5/4/2012	Macy's	42	shopping
+1402	5/18/2012	Nordstrom	164	shopping
+1403	5/27/2012	DirectTV	171	utilities
+1404	5/1/2012	Georgia Power	178	utilities
+1405	5/31/2012	Benihana	33	restaurants
+1406	5/22/2012	Johnny Rockets	32	restaurants
+1407	5/5/2012	The Original Italian Pie	31	restaurants
+1408	5/14/2012	L&L Hawaiian Barbecue	34	restaurants
+1409	5/16/2012	Copeland's	14	restaurants
+1410	5/6/2012	LongHorn Steakhouse	8	restaurants
+1411	6/27/2012	Brookshire Brothers	77	grocery
+1412	6/18/2012	Mars	79	grocery
+1414	6/19/2012	Speedway	44	transportation
+1415	6/18/2012	MARTA	94	transportation
+1416	6/13/2012	Cumberland Farms	36	transportation
+1418	6/24/2012	books	14	entertainment
+1419	6/2/2012	Netflix	30	entertainment
+1420	6/28/2012	Netflix	10	entertainment
+1421	6/19/2012	Costco	235	home
+1422	6/19/2012	Radioshack	301	home
+1423	6/24/2012	Radioshack	361	home
+1424	6/19/2012	Off 5th Saks Fifth Avenue Outlet	75	shopping
+1425	6/15/2012	Last Call Neiman Marcus	143	shopping
+1426	6/7/2012	H&M	55	shopping
+1427	6/24/2012	Parisian (Bon-Ton)	70	shopping
+1428	6/13/2012	Alabama Power	84	utilities
+1429	6/6/2012	Cracker Barrel Old Country Store	13	restaurants
+1430	6/2/2012	"	"""""	17	restaurants
+1431	7/17/2012	Exxon	70	transportation
+1432	7/2/2012	JetBlue	93	transportation
+1433	7/6/2012	Exxon	41	transportation
+1435	7/2/2012	movie	22	entertainment
+1437	7/31/2012	Off 5th Saks Fifth Avenue Outlet	28	shopping
+1438	7/22/2012	Planet Hollywood	5	restaurants
+1439	7/11/2012	Twin Peaks	48	restaurants
+1440	7/19/2012	Ruby Tuesday	15	restaurants
+1441	7/29/2012	Hungry Howie's Pizza	35	restaurants
+1442	7/6/2012	Saladworks	12	restaurants
+1444	7/18/2012	Claim Jumper	48	restaurants
+1445	8/26/2012	Central Market	185	grocery
+1446	8/7/2012	Sedano's	61	grocery
+1447	8/2/2012	Sheetz	96	transportation
+1448	8/1/2012	ARCO	71	transportation
+1450	8/16/2012	Barneys New York	99	shopping
+1451	8/31/2012	JCPenney	60	shopping
+1452	8/4/2012	T-Mobile	250	utilities
+1453	8/19/2012	Tuition	952	special
+1454	8/19/2012	Naugles	13	restaurants
+1455	8/18/2012	Hungry Howie's Pizza	22	restaurants
+1456	8/31/2012	Howard Johnson's	10	restaurants
+1457	8/9/2012	Captain D's	38	restaurants
+1458	8/30/2012	Chicken Express	10	restaurants
+1460	9/1/2012	Schnucks	162	grocery
+1461	9/13/2012	Schnucks	50	grocery
+1462	9/10/2012	Times Supermarkets	90	grocery
+1463	9/4/2012	Carnival	32	transportation
+1465	9/6/2012	Texaco	70	transportation
+1466	9/10/2012	RaceTrac/Raceway	98	transportation
+1467	9/15/2012	gas	51	transportation
+1468	9/3/2012	Travelcenters of America	27	transportation
+1469	9/17/2012	Regal	6	entertainment
+1470	9/3/2012	books	26	entertainment
+1471	9/17/2012	Hulu	25	entertainment
+1472	9/28/2012	Belk	169	shopping
+1473	9/7/2012	Off 5th Saks Fifth Avenue Outlet	162	shopping
+1474	9/27/2012	Carson Pirie Scott	190	shopping
+1475	9/16/2012	Aeropostale	83	shopping
+1476	9/16/2012	Captain D's	46	restaurants
+1477	9/18/2012	Donatos Pizza	39	restaurants
+1478	9/2/2012	Montana Mike's	8	restaurants
+1479	9/8/2012	Penn Station (restaurant)	21	restaurants
+1480	9/26/2012	Ben & Jerry's	40	restaurants
+1481	9/23/2012	Eat'n Park	48	restaurants
+1482	10/15/2012	Lukoil	86	transportation
+1484	10/20/2012	books	26	entertainment
+1485	10/29/2012	dvd	29	entertainment
+1486	10/7/2012	Lowes	341	home
+1487	10/16/2012	Walmart	148	home
+1488	10/30/2012	Kirkland's	223	home
+1489	10/8/2012	Staples	235	home
+1490	10/6/2012	Kohl's	146	shopping
+1491	10/1/2012	Von Maur	89	shopping
+1492	10/2/2012	JCPenney	109	shopping
+1493	10/22/2012	Sprint	209	utilities
+1494	10/2/2012	Tmobile	160	utilities
+1496	10/5/2012	Arby's	20	restaurants
+1497	10/27/2012	LongHorn Steakhouse	34	restaurants
+1498	10/11/2012	Taco John's	8	restaurants
+1499	10/22/2012	Tony Roma's	31	restaurants
+1500	11/15/2012	Texaco	63	transportation
+1501	11/5/2012	Hess	57	transportation
+1502	11/17/2012	Travelcenters of America	70	transportation
+1503	11/25/2012	American Airlines	46	transportation
+1504	11/17/2012	Southwest	83	transportation
+1505	11/3/2012	Greyhound	78	transportation
+1506	11/7/2012	Southwest	55	transportation
+1507	11/13/2012	Gulf	94	transportation
+1508	11/21/2012	Costco	345	home
+1509	11/26/2012	DirectTV	120	utilities
+1510	11/3/2012	Sprint	82	utilities
+1511	11/7/2012	Taxes	4280	special
+1512	11/1/2012	Applebee's	49	restaurants
+1513	11/7/2012	Burger Street	37	restaurants
+1514	11/27/2012	Whataburger	21	restaurants
+1515	11/11/2012	Shoney's	27	restaurants
+1516	12/4/2012	Brookshire Brothers	98	grocery
+1517	12/16/2012	Murphy's Marketplace	31	grocery
+1518	12/2/2012	Lowes	298	home
+1519	12/18/2012	Kirkland's	397	home
+1520	12/7/2012	Herberger's	32	shopping
+1521	12/12/2012	Comcast	58	utilities
+1522	12/2/2012	Alabama Power	257	utilities
+1523	12/1/2012	Souplantation and Sweet Tomatoes	33	restaurants
+1524	12/20/2012	Chuck-A-Rama	36	restaurants
+1525	12/23/2012	Cheeseburger in Paradise	26	restaurants
+1526	12/13/2012	Sneaky Pete's	28	restaurants
+1527	12/24/2012	LongHorn Steakhouse	38	restaurants
+1528	12/2/2012	Roy Rogers Restaurants	16	restaurants
+1529	12/15/2012	Domino's Pizza	50	restaurants
+1530	12/30/2012	Montana Mike's	15	restaurants
+1531	12/6/2012	McDonald's	30	restaurants
+1532	1/1/2013	IGA	171	grocery
+1533	1/16/2013	King Kullen	42	grocery
+1534	1/12/2013	Hugo's	158	grocery
+1535	1/25/2013	Valero	45	transportation
+1536	1/19/2013	Mobil	84	transportation
+1537	1/22/2013	Flying J	47	transportation
+1538	1/20/2013	Sinclair	81	transportation
+1539	1/4/2013	Regal	13	entertainment
+1540	1/26/2013	dvds	27	entertainment
+1542	1/19/2013	H&M	109	shopping
+1543	1/14/2013	Lord & Taylor	200	shopping
+1544	1/23/2013	Aeropostale	196	shopping
+1545	1/29/2013	Bergdorf Goodman	184	shopping
+1546	1/22/2013	Dish Network	223	utilities
+1547	1/24/2013	Sprint	91	utilities
+1549	1/1/2013	Cracker Barrel Old Country Store	25	restaurants
+1550	1/30/2013	Pei Wei Asian Diner	7	restaurants
+1551	2/11/2013	Associated Wholesale Grocers	94	grocery
+1552	2/12/2013	Speedway	84	transportation
+1553	2/24/2013	BP	88	transportation
+1554	2/10/2013	Exxon	24	transportation
+1556	2/9/2013	QuikTrip	25	transportation
+1557	2/6/2013	Radioshack	455	home
+1558	2/12/2013	Best Buy	25	home
+1559	2/4/2013	Lowes	378	home
+1561	2/15/2013	Bergdorf Goodman	52	shopping
+1562	2/24/2013	Comcast	220	utilities
+1563	2/23/2013	Tmobile	136	utilities
+1564	2/3/2013	Sub Station II	50	restaurants
+1567	2/19/2013	Outback Steakhouse	25	restaurants
+1569	2/27/2013	The Original Italian Pie	9	restaurants
+1570	2/5/2013	Little Caesars	17	restaurants
+1571	2/2/2013	Big Boy	6	restaurants
+1572	2/19/2013	Whataburger	10	restaurants
+1573	3/5/2013	BP	77	transportation
+1574	3/2/2013	Valero	23	transportation
+1575	3/20/2013	Delta	45	transportation
+1576	3/4/2013	Love's	44	transportation
+1577	3/10/2013	movies	17	entertainment
+1578	3/4/2013	movie	19	entertainment
+1579	3/21/2013	Costco	26	home
+1580	3/25/2013	Walmart	498	home
+1581	3/13/2013	Radioshack	403	home
+1582	3/8/2013	Boston Store	110	shopping
+1583	3/3/2013	Kohl's	115	shopping
+1584	3/25/2013	Comcast	274	utilities
+1585	4/16/2013	Raley's	140	grocery
+1586	4/2/2013	Winn-Dixie	175	grocery
+1587	4/17/2013	Texaco	89	transportation
+1588	4/10/2013	BP	81	transportation
+1589	4/16/2013	Hulu	30	entertainment
+1590	4/11/2013	Best Buy	427	home
+1591	4/18/2013	Newegg	415	home
+1592	4/25/2013	UPS	258	home
+1594	4/17/2013	Parisian (Bon-Ton)	69	shopping
+1595	4/19/2013	The Bon-Ton	121	shopping
+1596	4/30/2013	Parisian (Bon-Ton)	177	shopping
+1597	4/28/2013	Barneys New York	72	shopping
+1598	4/15/2013	Dish Network	201	utilities
+1599	4/15/2013	AT&T	223	utilities
+1600	5/30/2013	Airport	35	transportation
+1601	5/18/2013	Hess	67	transportation
+1602	5/25/2013	76	75	transportation
+1603	5/24/2013	Sunoco	77	transportation
+1604	5/24/2013	MARTA	50	transportation
+1605	5/5/2013	QuickChek	47	transportation
+1607	5/9/2013	Bloomingdale's	25	shopping
+1608	5/4/2013	Bloomingdale's	27	shopping
+1609	5/17/2013	Bergdorf Goodman	39	shopping
+1610	5/28/2013	Off 5th Saks Fifth Avenue Outlet	122	shopping
+1611	5/4/2013	Georgia Power	244	utilities
+1612	5/30/2013	KFC	33	restaurants
+1614	5/17/2013	Steak 'n Shake	31	restaurants
+1615	5/23/2013	Carrabba's Italian Grill	15	restaurants
+1616	5/31/2013	Taco Time	23	restaurants
+1618	5/5/2013	Hobee's Restaurant	50	restaurants
+1619	5/13/2013	BJ's Restaurant & Brewery	46	restaurants
+1621	6/24/2013	Grocery Outlet	162	grocery
+1622	6/13/2013	Murphy USA	97	transportation
+1624	6/15/2013	76	76	transportation
+1625	6/1/2013	MARTA	48	transportation
+1626	6/21/2013	Conoco	45	transportation
+1627	6/29/2013	Chevron	41	transportation
+1629	6/18/2013	dvd	27	entertainment
+1630	6/11/2013	Netflix	24	entertainment
+1631	6/13/2013	dvds	26	entertainment
+1632	6/10/2013	Walmart	236	home
+1633	6/21/2013	Ikea	284	home
+1634	6/11/2013	CVS	445	home
+1635	6/3/2013	Barneys New York	65	shopping
+1637	6/10/2013	Sprint	267	utilities
+1638	6/23/2013	Alabama Power	189	utilities
+1639	6/18/2013	hospital	3358	special
+1640	6/28/2013	Damon's Grill	36	restaurants
+1641	6/23/2013	Carino's Italian Grill	10	restaurants
+1642	6/18/2013	Potbelly Sandwich Works	28	restaurants
+1643	6/30/2013	Chuck-A-Rama	14	restaurants
+1644	6/25/2013	Culver's	27	restaurants
+1645	6/8/2013	Smokey Bones	46	restaurants
+1647	7/26/2013	gas	65	transportation
+1648	7/9/2013	Murphy USA	94	transportation
+1649	7/26/2013	Kroger brand gasoline	86	transportation
+1650	7/25/2013	dvd	21	entertainment
+1651	7/16/2013	Ikea	127	home
+1652	7/3/2013	Best Buy	362	home
+1654	7/6/2013	Von Maur	141	shopping
+1656	7/20/2013	Popeyes Chicken & Biscuits	16	restaurants
+1657	7/13/2013	Green Burrito	6	restaurants
+1658	7/8/2013	Swensen's	19	restaurants
+1659	8/22/2013	Food Town	99	grocery
+1660	8/25/2013	BP	77	transportation
+1662	8/8/2013	Love's	47	transportation
+1663	8/18/2013	76	94	transportation
+1664	8/25/2013	Conoco	49	transportation
+1665	8/8/2013	Royal Farms	90	transportation
+1666	8/22/2013	Hulu	6	entertainment
+1667	8/22/2013	dvds	24	entertainment
+1668	8/11/2013	dvd	6	entertainment
+1669	8/11/2013	Costco	385	home
+1670	8/5/2013	Staples	104	home
+1671	8/30/2013	Newegg	275	home
+1672	8/29/2013	Bergdorf Goodman	185	shopping
+1673	8/19/2013	Nordstrom Rack	200	shopping
+1674	8/8/2013	Macy's	147	shopping
+1675	8/15/2013	Off 5th Saks Fifth Avenue Outlet	82	shopping
+1676	8/27/2013	Neiman Marcus	184	shopping
+1677	8/8/2013	Houston's Restaurant	15	restaurants
+1678	8/17/2013	Hard Rock Cafe	43	restaurants
+1679	8/23/2013	Gatti's Pizza	13	restaurants
+1680	8/2/2013	Chili's	35	restaurants
+1681	8/30/2013	The Melting Pot	26	restaurants
+1682	8/26/2013	Bob Evans Restaurants	10	restaurants
+1683	8/14/2013	Tony Roma's	16	restaurants
+1684	8/22/2013	Bertucci's	36	restaurants
+1685	9/5/2013	Acme Fresh Market	84	grocery
+1686	9/26/2013	Roth's Fresh Markets	54	grocery
+1687	9/28/2013	Food City	114	grocery
+1688	9/1/2013	BP	75	transportation
+1689	9/18/2013	Phillips 66	98	transportation
+1690	9/25/2013	Cumberland Farms	96	transportation
+1692	9/8/2013	Pilot	36	transportation
+1693	9/3/2013	Shell	26	transportation
+1695	9/15/2013	dvd	26	entertainment
+1696	9/29/2013	Hulu	20	entertainment
+1697	9/11/2013	Herberger's	52	shopping
+1698	9/4/2013	Neiman Marcus	115	shopping
+1699	9/6/2013	Bergdorf Goodman	146	shopping
+1700	9/7/2013	Nordstrom	172	shopping
+1701	9/7/2013	Last Call Neiman Marcus	109	shopping
+1702	9/20/2013	Tennesse Valley Authority	51	utilities
+1703	9/11/2013	Village Inn	25	restaurants
+1704	9/29/2013	Planet Hollywood	43	restaurants
+1705	9/11/2013	Camille's Sidewalk Cafe	14	restaurants
+1706	9/3/2013	Checkers	44	restaurants
+1707	9/24/2013	Coco's Bakery	50	restaurants
+1708	9/24/2013	Rax	34	restaurants
+1709	9/12/2013	Farmer Boys	39	restaurants
+1710	9/18/2013	Del Taco	50	restaurants
+1711	9/9/2013	Olive Garden	26	restaurants
+1712	10/3/2013	Walmart Supercenters	176	grocery
+1713	10/28/2013	Westborn Market	60	grocery
+1714	10/10/2013	gas	81	transportation
+1715	10/20/2013	CVS	476	home
+1716	10/8/2013	Kohl's	91	shopping
+1718	10/22/2013	Last Call Neiman Marcus	147	shopping
+1720	10/17/2013	L&L Hawaiian Barbecue	18	restaurants
+1721	10/23/2013	Damon's Grill	25	restaurants
+1722	11/27/2013	ShopRite	182	grocery
+1723	11/25/2013	Price Chopper	153	grocery
+1724	11/21/2013	QuikTrip	94	transportation
+1725	11/1/2013	Carnival	94	transportation
+1726	11/1/2013	dvd	26	entertainment
+1727	11/20/2013	Netflix	5	entertainment
+1728	11/24/2013	Netflix	27	entertainment
+1729	11/4/2013	UPS	357	home
+1730	11/4/2013	Hollister	75	shopping
+1731	11/4/2013	Sears Essentials	112	shopping
+1732	11/27/2013	Elder-Beerman	97	shopping
+1733	11/16/2013	Boscov's	188	shopping
+1734	11/28/2013	﻿Flint Energies	242	utilities
+1735	11/6/2013	Tmobile	149	utilities
+1736	11/10/2013	IHOP	28	restaurants
+1737	11/25/2013	Fazoli's	31	restaurants
+1739	12/26/2013	Houchens Industries	42	grocery
+1740	12/12/2013	Central Market	177	grocery
+1741	12/6/2013	Shell	77	transportation
+1743	12/12/2013	Walmart	493	home
+1744	12/7/2013	Alabama Power	55	utilities
+1745	12/18/2013	Olive Garden	47	restaurants
