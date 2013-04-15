@@ -1,3 +1,35 @@
+/*Parameters:
+    callback - function that will be called with the data. This methos is asynchronous.
+
+Returns a javascript array of expenses. A sample expense looks like - 
+    {
+      "id": 109,
+      "description": "Walmart Commons",
+      "amount": 20.68,
+      "category": null,   (null because none assigned right now)
+      "date": "2013-04-10T04:00:00.000Z",  (javascript data object)
+      "user_data": [    (array of expense_user entries for this expense)
+        {
+          "id": 109,
+          "user_id": 1,
+          "paid": 20.68,
+          "share": 6.89
+        },
+        {
+          "id": 109,
+          "user_id": 2,
+          "paid": 0,
+          "share": 6.9
+        },
+        {
+          "id": 109,
+          "user_id": 3,
+          "paid": 0,
+          "share": 6.89
+        }
+      ]
+    }
+*/
 function getData(callBack) {
     var format = d3.time.format("%Y-%m-%d");
     d3.tsv('data/expense_table.txt')
