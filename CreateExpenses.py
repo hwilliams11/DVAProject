@@ -114,7 +114,7 @@ def unequalSplit(userSplit):
     totalUsers = len(userSplit)
     equalFrac = 1.0/totalUsers
     left = 1
-    percs = [i/100.0 for i in range(60,110,10)]
+    percs  = [.6,.7,.8,.9,1]
     count = 1
     
     for user in userSplit:
@@ -178,7 +178,8 @@ def writeFile(expenses,users):
             for month in expenses[userid][year]:
                 for expense in expenses[userid][year][month]:
                     date  = expense.date
-                    dateStr = str(date[0])+"-"+str(date[1])+"-"+str(date[2])
+                    #dateStr = str(date[2])+"-"+str(date[1])+"-"+str(date[0])
+                    dateStr = "%02d/%02d/%04d" % (date[0],date[1],date[2])
                     #data1 = str(expense.id)+","+dateStr+",\""+expense.description+"\","+str(expense.amount)+","+expense.category+"\n"
                     data1 = "%d,%s,\"%s\",%.2f,%s\n"%(expense.id,dateStr,expense.description,expense.amount,expense.category)
                     #data2 = str(expense.id)+","+str(userid)+","+str(expense.paid)+","+str(expense.amount)+"\n"
