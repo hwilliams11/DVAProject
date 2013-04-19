@@ -1,1625 +1,1727 @@
 E ID,date,description,amount,category
-1,01/04/2012,"Food Bazaar Supermarkets",154.00,grocery
-2,01/28/2012,"Market of Choice",44.00,grocery
-3,01/24/2012,"Tesco",45.00,grocery
-4,01/01/2012,"Chevron",58.00,transportation
-5,01/27/2012,"Airport",55.00,transportation
-6,01/17/2012,"Flying J",44.00,transportation
-7,01/29/2012,"Southwest",90.00,transportation
-8,01/23/2012,"Marathon Oil",97.00,transportation
-9,01/29/2012,"Greyhound",63.00,transportation
-10,01/22/2012,"JetBlue",91.00,transportation
-11,01/06/2012,"movie",13.00,entertainment
-12,01/22/2012,"CVS",185.00,home
-13,01/17/2012,"Boscov's",155.00,shopping
-14,01/29/2012,"The Bon-Ton",99.00,shopping
-15,01/19/2012,"Von Maur",38.00,shopping
-16,01/12/2012,"Dillard's",97.00,shopping
-17,01/23/2012,"Tennesse Valley Authority",207.00,utilities
-18,01/11/2012,"Tennesse Valley Authority",246.00,utilities
-19,01/27/2012,"Donatos Pizza",5.00,restaurants
-419,01/15/2012,"Cinnabon",30.00,restaurants
-784,01/08/2012,"Kroger brand gasoline",20.00,transportation
-1242,01/13/2012,"Carnival",91.00,transportation
-20,02/27/2012,"CAM Asian Market",145.00,grocery
-21,02/28/2012,"Compare Foods Supermarket",166.00,grocery
-22,02/26/2012,"Food Bazaar Supermarkets",66.00,grocery
-23,02/19/2012,"Texaco",96.00,transportation
-24,02/18/2012,"bus",48.00,transportation
-25,02/04/2012,"ferry",21.00,transportation
-26,02/26/2012,"Cumberland Farms",79.00,transportation
-27,02/09/2012,"books",5.00,entertainment
-28,02/14/2012,"books a million",11.00,entertainment
-29,02/20/2012,"books a million",27.00,entertainment
-30,02/18/2012,"Tmobile",211.00,utilities
-31,02/05/2012,"Ledo Pizza",42.00,restaurants
-32,02/03/2012,"Spangles (restaurant)",22.00,restaurants
-33,02/16/2012,"Country Buffet",39.00,restaurants
-34,02/07/2012,"Golden Corral",5.00,restaurants
-35,02/21/2012,"Landry's Restaurants",9.00,restaurants
-36,02/09/2012,"Fuddruckers",12.00,restaurants
-37,02/05/2012,"Don Pablo's",31.00,restaurants
-38,02/24/2012,"The Melting Pot",48.00,restaurants
-39,02/27/2012,"Rally's",20.00,restaurants
-40,02/26/2012,"Runza",28.00,restaurants
-1257,02/25/2012,"joseph-beth booksellers",19.00,entertainment
-41,03/05/2012,"Roth's Fresh Markets",124.00,grocery
-42,03/23/2012,"walgreens",150.00,home
-43,03/20/2012,"Lowes",137.00,home
-44,03/11/2012,"walgreens",202.00,home
-45,03/02/2012,"Ebaybv",136.00,shopping
-46,03/15/2012,"Alabama Power",164.00,utilities
-47,03/16/2012,"Coco's Bakery",28.00,restaurants
-48,03/31/2012,"Green Burrito",31.00,restaurants
-49,03/30/2012,"Auntie Anne's",12.00,restaurants
-50,03/28/2012,"Green Burrito",35.00,restaurants
-51,03/28/2012,"FATZ",23.00,restaurants
-445,03/27/2012,"Parisian (Bon-Ton)",64.00,shopping
-817,03/19/2012,"Saks Fifth Avenue",73.00,shopping
-818,03/14/2012,"Boscov's",173.00,shopping
-1272,03/01/2012,"Citgo",48.00,transportation
-1273,03/23/2012,"Office Depot",296.00,home
-52,04/20/2012,"Speedway",78.00,transportation
-53,04/09/2012,"subway",38.00,transportation
-54,04/01/2012,"Marathon Oil",92.00,transportation
-55,04/20/2012,"Shell",43.00,transportation
-56,04/12/2012,"Murphy USA",91.00,transportation
-57,04/19/2012,"Chevron",100.00,transportation
-58,04/12/2012,"6pm",19.00,home
-59,04/13/2012,"Costco",33.00,home
-60,04/18/2012,"Walmart",182.00,home
-61,04/27/2012,"American Eagle",139.00,shopping
-62,04/28/2012,"Sears",110.00,shopping
-63,04/03/2012,"Robeks",18.00,restaurants
-64,04/26/2012,"Wendy's",37.00,restaurants
-65,04/10/2012,"Showmars",45.00,restaurants
-66,04/07/2012,"GameWorks",30.00,restaurants
-67,04/23/2012,"Max & Erma's",10.00,restaurants
-68,04/06/2012,"Fatburger",21.00,restaurants
-69,04/13/2012,"dining",19.00,restaurants
-70,04/02/2012,"Subway",7.00,restaurants
-459,04/22/2012,"Skyline Chili",21.00,restaurants
-1286,04/10/2012,"train",45.00,transportation
-71,05/07/2012,"Hy-Vee Food Stores",169.00,grocery
-72,05/09/2012,"Felpausch",113.00,grocery
-73,05/15/2012,"QuickChek",93.00,transportation
-74,05/27/2012,"Valero",25.00,transportation
-75,05/11/2012,"Travelcenters of America",70.00,transportation
-76,05/01/2012,"Pilot",45.00,transportation
-77,05/28/2012,"Aeropostale",135.00,shopping
-78,05/08/2012,"Elder-Beerman",62.00,shopping
-79,05/21/2012,"Hollister",86.00,shopping
-80,05/22/2012,"Hollister",57.00,shopping
-81,05/05/2012,"Bergner's",153.00,shopping
-82,05/09/2012,"Perkins Restaurant and Bakery",21.00,restaurants
-83,05/05/2012,"Qdoba Mexican Grill",31.00,restaurants
-84,05/08/2012,"White Castle",16.00,restaurants
-85,05/17/2012,"McAlister's Deli",40.00,restaurants
-464,05/24/2012,"BP",48.00,transportation
-469,05/23/2012,"bestbuy",24.00,home
-472,05/19/2012,"Bergdorf Goodman",119.00,shopping
-1315,05/19/2012,"hhgregg",260.00,home
-86,06/05/2012,"Giant Eagle",29.00,grocery
-87,06/03/2012,"76",41.00,transportation
-88,06/14/2012,"Exxon",33.00,transportation
-89,06/28/2012,"Getty",85.00,transportation
-90,06/07/2012,"family christian stores",5.00,entertainment
-91,06/01/2012,"Radioshack",325.00,home
-92,06/05/2012,"Kohl's",118.00,shopping
-93,06/06/2012,"H&M",80.00,shopping
-94,06/04/2012,"Lord & Taylor",92.00,shopping
-95,06/19/2012,"Saks Fifth Avenue",68.00,shopping
-96,06/17/2012,"utility",216.00,utilities
-97,06/19/2012,"Trader Vic's",6.00,restaurants
-477,06/14/2012,"BP",58.00,transportation
-886,06/22/2012,"6pm",496.00,home
-891,06/24/2012,"bill",221.00,utilities
-98,07/30/2012,"Western Family Foods",39.00,grocery
-99,07/09/2012,"Compare Foods",159.00,grocery
-100,07/31/2012,"Schnucks",116.00,grocery
-101,07/05/2012,"Getty",69.00,transportation
-102,07/15/2012,"family christian stores",20.00,entertainment
-103,07/04/2012,"shakespeare and company",14.00,entertainment
-104,07/23/2012,"American Eagle",51.00,shopping
-105,07/10/2012,"Sears",48.00,shopping
-106,07/27/2012,"Bergner's",142.00,shopping
-107,07/31/2012,"Hardee's",33.00,restaurants
-108,07/29/2012,"Rainforest Cafe",9.00,restaurants
-109,08/14/2012,"Superior Grocers",173.00,grocery
-110,08/04/2012,"BP",35.00,transportation
-111,08/13/2012,"tree of life christian outlet",24.00,entertainment
-112,08/23/2012,"bestbuy",313.00,home
-113,08/09/2012,"Costco",236.00,home
-114,08/26/2012,"CVS",337.00,home
-115,08/18/2012,"Lowes",147.00,home
-116,08/27/2012,"Nordstrom",179.00,shopping
-117,08/20/2012,"Amazon",50.00,shopping
-118,08/11/2012,"GAP",74.00,shopping
-119,08/31/2012,"Ruby Tuesday",13.00,restaurants
-120,08/13/2012,"Friendly's",47.00,restaurants
-121,08/27/2012,"Mrs. Fields",48.00,restaurants
-122,08/22/2012,"Subway",34.00,restaurants
-501,08/14/2012,"Amazon",87.00,shopping
-1361,08/18/2012,"AMC",27.00,entertainment
-123,09/01/2012,"train",88.00,transportation
-124,09/13/2012,"QuickChek",44.00,transportation
-125,09/26/2012,"cinema",22.00,entertainment
-126,09/13/2012,"shakespeare and company",14.00,entertainment
-127,09/19/2012,"CVS",422.00,home
-128,09/01/2012,"Costco",427.00,home
-129,09/03/2012,"Walmart",222.00,home
-130,09/19/2012,"Carson Pirie Scott",51.00,shopping
-131,09/28/2012,"Dish Network",130.00,utilities
-132,09/13/2012,"Applebee's",21.00,restaurants
-133,09/13/2012,"Godfather's Pizza",6.00,restaurants
-134,09/14/2012,"Bakers Square",41.00,restaurants
-512,09/28/2012,"Newegg",361.00,home
-519,09/01/2012,"Spangles (restaurant)",44.00,restaurants
-953,09/01/2012,"Rainforest Cafe",29.00,restaurants
-135,10/21/2012,"subway",91.00,transportation
-136,10/31/2012,"Citgo",71.00,transportation
-137,10/18/2012,"Marathon Oil",45.00,transportation
-138,10/30/2012,"strand book store",5.00,entertainment
-139,10/08/2012,"hudson news",18.00,entertainment
-140,10/31/2012,"Regal",24.00,entertainment
-141,10/12/2012,"Tmobile",88.00,utilities
-142,10/02/2012,"Sprint",259.00,utilities
-143,10/07/2012,"Shane's Rib Shack",20.00,restaurants
-144,10/11/2012,"Pei Wei Asian Diner",15.00,restaurants
-145,10/31/2012,"Dave & Buster's",15.00,restaurants
-146,10/11/2012,"Applebee's",10.00,restaurants
-147,10/12/2012,"Hobee's Restaurant",21.00,restaurants
-148,10/23/2012,"Blimpie",43.00,restaurants
-149,10/15/2012,"Carrows",47.00,restaurants
-150,10/16/2012,"Qdoba Mexican Grill",27.00,restaurants
-151,10/31/2012,"Denny's",49.00,restaurants
-521,10/07/2012,"El Super",37.00,grocery
-535,10/24/2012,"GameWorks",41.00,restaurants
-968,10/25/2012,"H&M",129.00,shopping
-152,11/04/2012,"Spartan Stores",85.00,grocery
-153,11/23/2012,"Dierbergs",118.00,grocery
-154,11/29/2012,"Jons Marketplace",139.00,grocery
-155,11/16/2012,"Airport",40.00,transportation
-156,11/02/2012,"Gas City, Ltd.",45.00,transportation
-157,11/18/2012,"76",59.00,transportation
-158,11/15/2012,"Marathon Oil",37.00,transportation
-159,11/13/2012,"Love's",86.00,transportation
-160,11/18/2012,"Sunoco",74.00,transportation
-161,11/10/2012,"games",15.00,entertainment
-162,11/12/2012,"books a million",15.00,entertainment
-163,11/14/2012,"Netflix",22.00,entertainment
-164,11/27/2012,"UPS",253.00,home
-165,11/03/2012,"Home Depot",331.00,home
-166,11/14/2012,"Carson Pirie Scott",156.00,shopping
-167,11/01/2012,"Sweet Tomatoes",47.00,restaurants
-168,11/15/2012,"Fuddruckers",39.00,restaurants
-546,11/29/2012,"Domino's Pizza",24.00,restaurants
-547,11/12/2012,"Sneaky Pete's",34.00,restaurants
-982,11/26/2012,"strand book store",18.00,entertainment
-1403,11/01/2012,"Lion Food",48.00,grocery
-169,12/22/2012,"Sheetz",44.00,transportation
-170,12/19/2012,"BP",48.00,transportation
-171,12/17/2012,"Gulf",28.00,transportation
-172,12/06/2012,"Chevron",31.00,transportation
-173,12/02/2012,"books-a-million",23.00,entertainment
-174,12/22/2012,"book off usa",29.00,entertainment
-175,12/13/2012,"Home Depot",243.00,home
-176,12/18/2012,"Walmart",290.00,home
-177,12/15/2012,"Aeropostale",163.00,shopping
-178,12/19/2012,"Barneys New York",22.00,shopping
-179,12/30/2012,"Dish Network",66.00,utilities
-180,12/07/2012,"Chi-Chi's",42.00,restaurants
-181,12/05/2012,"Godfather's Pizza",21.00,restaurants
-182,12/09/2012,"Mitchell's Fish Market",30.00,restaurants
-183,12/10/2012,"Smokey Bones",47.00,restaurants
-184,12/10/2012,"Eegee's",42.00,restaurants
-185,12/04/2012,"Rubio's Fresh Mexican Grill",13.00,restaurants
-186,12/03/2012,"Huddle House",39.00,restaurants
-187,12/30/2012,"Red Robin",50.00,restaurants
-188,12/07/2012,"The Old Spaghetti Factory",25.00,restaurants
-189,12/27/2012,"Swensen's",11.00,restaurants
-1002,12/12/2012,"Jason's Deli",13.00,restaurants
-1007,12/14/2012,"Chevys Fresh Mex",50.00,restaurants
-1423,12/05/2012,"joseph-beth booksellers",19.00,entertainment
-1435,12/06/2012,"Papa Gino's",32.00,restaurants
-190,01/13/2013,"Mobil",51.00,transportation
-191,01/07/2013,"Cumberland Farms",29.00,transportation
-192,01/08/2013,"JetBlue",36.00,transportation
-193,01/01/2013,"Mobil",45.00,transportation
-194,01/13/2013,"Sunoco",37.00,transportation
-195,01/23/2013,"tree of life christian outlet",21.00,entertainment
-196,01/18/2013,"tree of life christian outlet",17.00,entertainment
-197,01/15/2013,"joseph-beth booksellers",15.00,entertainment
-198,01/10/2013,"Smashburger",21.00,restaurants
-199,01/07/2013,"Mrs. Fields",47.00,restaurants
-200,01/19/2013,"Boston Market",6.00,restaurants
-201,01/13/2013,"Dairy Queen",11.00,restaurants
-202,01/31/2013,"Ruby Tuesday",31.00,restaurants
-580,01/15/2013,"Georgia Tech",2103.00,special
-1008,01/27/2013,"Royal Ahold",127.00,grocery
-1020,01/04/2013,"Trader Vic's",50.00,restaurants
-1442,01/04/2013,"shakespeare and company",15.00,entertainment
-203,02/13/2013,"NSA Supernn,mnmarkets",60.00,grocery
-204,02/07/2013,"Home Economist",134.00,grocery
-205,02/15/2013,"Roth's Fresh Markets",162.00,grocery
-206,02/09/2013,"home",50.00,home
-207,02/05/2013,"hhgregg",396.00,home
-208,02/27/2013,"Home Depot",461.00,home
-209,02/25/2013,"Office Depot",334.00,home
-210,02/10/2013,"Boston Store",89.00,shopping
-211,02/19/2013,"Boscov's",151.00,shopping
-212,02/23/2013,"Ebaybv",114.00,shopping
-213,02/02/2013,"Younkers",137.00,shopping
-214,02/02/2013,"Sears Essentials",73.00,shopping
-215,02/24/2013,"Flint Energies",211.00,utilities
-216,02/06/2013,"verizon",57.00,utilities
-217,02/06/2013,"Joe's Crab Shack",22.00,restaurants
-218,02/24/2013,"Burger Street",38.00,restaurants
-1032,02/19/2013,"Target",245.00,home
-1033,02/15/2013,"Last Call Neiman Marcus",116.00,shopping
-1465,02/27/2013,"Houlihan's",29.00,restaurants
-219,03/14/2013,"Associated Grocers of New England",47.00,grocery
-220,03/07/2013,"Magruder's",43.00,grocery
-221,03/11/2013,"El Super",115.00,grocery
-222,03/19/2013,"Amtrak",34.00,transportation
-223,03/30/2013,"subway",82.00,transportation
-224,03/13/2013,"Wawa",21.00,transportation
-225,03/29/2013,"MARTA",78.00,transportation
-226,03/07/2013,"QuikTrip",72.00,transportation
-227,03/06/2013,"subway",23.00,transportation
-228,03/09/2013,"7-Eleven brand gasoline",25.00,transportation
-229,03/17/2013,"Murphy USA",99.00,transportation
-230,03/21/2013,"movies",15.00,entertainment
-231,03/16/2013,"barns & noble",20.00,entertainment
-232,03/21/2013,"bestbuy",26.00,home
-233,03/14/2013,"Staples",498.00,home
-234,03/31/2013,"officemax",169.00,home
-235,03/05/2013,"Bergdorf Goodman",29.00,shopping
-236,03/22/2013,"AT&T",180.00,utilities
-237,03/21/2013,"Flint Energies",63.00,utilities
-238,03/15/2013,"Green Mill",19.00,restaurants
-239,03/12/2013,"Golden Corral",6.00,restaurants
-240,03/20/2013,"Logan's Roadhouse",15.00,restaurants
-241,03/09/2013,"Uno Chicago Grill",12.00,restaurants
-242,03/13/2013,"Lone Star Steakhouse & Saloon",48.00,restaurants
-243,03/21/2013,"The Old Spaghetti Factory",21.00,restaurants
-244,03/26/2013,"Sub Station II",18.00,restaurants
-602,03/12/2013,"Airport",77.00,transportation
-605,03/16/2013,"Getty",63.00,transportation
-1047,03/31/2013,"Amoco",92.00,transportation
-1058,03/06/2013,"Comcast",167.00,utilities
-245,04/16/2013,"Sedano's",106.00,grocery
-246,04/19/2013,"99 Ranch Market",114.00,grocery
-247,04/21/2013,"subway",33.00,transportation
-248,04/15/2013,"Shell",54.00,transportation
-249,04/27/2013,"Citgo",81.00,transportation
-250,04/08/2013,"Marathon Oil",87.00,transportation
-251,04/07/2013,"Target",303.00,home
-252,04/15/2013,"Nordstrom",57.00,shopping
-253,04/18/2013,"Sears",171.00,shopping
-254,04/18/2013,"Amazon",34.00,shopping
-255,04/07/2013,"Younkers",139.00,shopping
-256,04/28/2013,"Comcast",283.00,utilities
-257,04/22/2013,"Golden Chick",26.00,restaurants
-258,04/10/2013,"LongHorn Steakhouse",31.00,restaurants
-259,04/14/2013,"Bahama Breeze",22.00,restaurants
-260,04/23/2013,"Champps Americana",21.00,restaurants
-261,04/27/2013,"Penn Station (restaurant)",20.00,restaurants
-262,04/14/2013,"Chipotle Mexican Grill",33.00,restaurants
-263,04/24/2013,"Donatos Pizza",15.00,restaurants
-264,04/20/2013,"Blimpie",21.00,restaurants
-628,04/24/2013,"Mobil",24.00,transportation
-638,04/30/2013,"Parisian (Bon-Ton)",61.00,shopping
-1071,04/24/2013,"books a million",23.00,entertainment
-1482,04/10/2013,"Nijiya Market",114.00,grocery
-1492,04/15/2013,"Nordstrom",72.00,shopping
-1493,04/11/2013,"Amazon.com",100.00,shopping
-1496,04/04/2013,"Mitchell's Fish Market",37.00,restaurants
-265,05/01/2013,"King Kullen",111.00,grocery
-266,05/29/2013,"Winn-Dixie",103.00,grocery
-267,05/17/2013,"Natural Grocers by Vitamin Cottage",180.00,grocery
-268,05/15/2013,"Hess",99.00,transportation
-269,05/21/2013,"Carnival",96.00,transportation
-270,05/26/2013,"bus",22.00,transportation
-271,05/07/2013,"BP",31.00,transportation
-272,05/16/2013,"Marathon Oil",27.00,transportation
-273,05/02/2013,"BP",45.00,transportation
-274,05/13/2013,"6pm",278.00,home
-275,05/22/2013,"UPS",12.00,home
-276,05/09/2013,"Mitchell's Fish Market",19.00,restaurants
-277,05/20/2013,"Johnny Rockets",33.00,restaurants
-278,05/10/2013,"Ledo Pizza",28.00,restaurants
-279,05/01/2013,"Naugles",46.00,restaurants
-641,05/06/2013,"Piggly Wiggly",142.00,grocery
-645,05/26/2013,"itunes",25.00,entertainment
-649,05/10/2013,"Chick Fil A",19.00,restaurants
-1087,05/18/2013,"Rouse's Supermarket",169.00,grocery
-280,06/11/2013,"Gulf",65.00,transportation
-281,06/18/2013,"Cumberland Farms",82.00,transportation
-282,06/03/2013,"hastings entertainment",9.00,entertainment
-283,06/07/2013,"family christian stores",24.00,entertainment
-284,06/04/2013,"Office Depot",345.00,home
-285,06/27/2013,"home",238.00,home
-286,06/24/2013,"Aeropostale",154.00,shopping
-287,06/26/2013,"Bergner's",145.00,shopping
-288,06/21/2013,"Att.com",291.00,utilities
-289,06/13/2013,"T-Mobile",218.00,utilities
-290,06/02/2013,"Bennigan's",28.00,restaurants
-662,06/24/2013,"RaceTrac/Raceway",29.00,transportation
-666,06/23/2013,"RaceTrac/Raceway",95.00,transportation
-1522,06/11/2013,"Walmart",462.00,home
-291,07/11/2013,"Trader Joe's",119.00,grocery
-292,07/01/2013,"Seller's Brothers",138.00,grocery
-293,07/18/2013,"Lion Food",195.00,grocery
-294,07/07/2013,"barns & noble",14.00,entertainment
-295,07/18/2013,"hudson news",28.00,entertainment
-296,07/08/2013,"deseret book",19.00,entertainment
-297,07/01/2013,"Costco",28.00,home
-298,07/30/2013,"Nordstrom",138.00,shopping
-299,07/15/2013,"Amazon.com",113.00,shopping
-300,07/22/2013,"Herberger's",52.00,shopping
-301,07/05/2013,"Burgerville",15.00,restaurants
-302,07/31/2013,"Charlie Brown's Steakhouse",14.00,restaurants
-303,07/29/2013,"Chick Fil A",42.00,restaurants
-304,07/27/2013,"Mr. Hero",31.00,restaurants
-305,07/17/2013,"Saladworks",50.00,restaurants
-306,07/11/2013,"Charlie Brown's Steakhouse",9.00,restaurants
-307,07/09/2013,"Mr. Hero",40.00,restaurants
-684,07/30/2013,"New Seasons Market",56.00,grocery
-1140,07/17/2013,"barns & noble",21.00,entertainment
-1141,07/21/2013,"Home Depot",177.00,home
-308,08/08/2013,"RaceTrac/Raceway",64.00,transportation
-309,08/18/2013,"Hess",23.00,transportation
-310,08/09/2013,"Phillips 66",84.00,transportation
-311,08/15/2013,"Gulf",40.00,transportation
-312,08/23/2013,"Citgo",39.00,transportation
-313,08/06/2013,"Amtrak",100.00,transportation
-314,08/11/2013,"Airport",68.00,transportation
-315,08/20/2013,"Ikea",366.00,home
-316,08/06/2013,"Target",156.00,home
-317,08/02/2013,"JCPenney",131.00,shopping
-318,08/08/2013,"Boston Store",110.00,shopping
-319,08/20/2013,"Dillard's",89.00,shopping
-320,08/16/2013,"Younkers",91.00,shopping
-321,08/10/2013,"Boston Store",75.00,shopping
-322,08/16/2013,"utilities",217.00,utilities
-323,08/11/2013,"Noodles & Company",42.00,restaurants
-324,08/27/2013,"restaurant",20.00,restaurants
-325,08/26/2013,"Perkins Restaurant and Bakery",28.00,restaurants
-326,08/03/2013,"Chi-Chi's",40.00,restaurants
-327,08/22/2013,"Ruby Tuesday",25.00,restaurants
-328,08/04/2013,"Tilted Kilt",26.00,restaurants
-329,08/27/2013,"Quaker Steak & Lube",49.00,restaurants
-330,08/10/2013,"Twin Peaks",20.00,restaurants
-331,08/06/2013,"Rax",13.00,restaurants
-332,08/17/2013,"Atlanta Bread Company",40.00,restaurants
-703,08/17/2013,"train",87.00,transportation
-1552,08/01/2013,"Andronico's",99.00,grocery
-333,09/08/2013,"Dahl's Foods",45.00,grocery
-334,09/10/2013,"Royal Farms",40.00,transportation
-335,09/20/2013,"Getty",34.00,transportation
-336,09/28/2013,"Citgo",37.00,transportation
-337,09/25/2013,"Cumberland Farms",28.00,transportation
-338,09/17/2013,"games",23.00,entertainment
-339,09/26/2013,"half price books",10.00,entertainment
-340,09/01/2013,"barns & noble",10.00,entertainment
-341,09/20/2013,"Home Depot",208.00,home
-342,09/28/2013,"officemax",56.00,home
-343,09/12/2013,"Hollister",144.00,shopping
-344,09/18/2013,"Southern Company",77.00,utilities
-345,09/28/2013,"Red Hot & Blue",49.00,restaurants
-346,09/17/2013,"Copeland's",32.00,restaurants
-347,09/22/2013,"Gatti's Pizza",29.00,restaurants
-348,09/13/2013,"Swensen's",24.00,restaurants
-349,09/30/2013,"Which Wich?",27.00,restaurants
-350,09/08/2013,"Cheesecake Factory",44.00,restaurants
-726,09/14/2013,"Taco John's",32.00,restaurants
-1568,09/16/2013,"Ukrop's",113.00,grocery
-1569,09/06/2013,"Lunardi's",112.00,grocery
-351,10/28/2013,"IGA",152.00,grocery
-352,10/10/2013,"QuickChek",35.00,transportation
-353,10/08/2013,"Travelcenters of America",58.00,transportation
-354,10/21/2013,"Hess",22.00,transportation
-355,10/07/2013,"Chevron",82.00,transportation
-356,10/20/2013,"Shell",57.00,transportation
-357,10/15/2013,"Getty",48.00,transportation
-358,10/30/2013,"Greyhound",51.00,transportation
-359,10/13/2013,"UPS",210.00,home
-360,10/28/2013,"home",30.00,home
-361,10/22/2013,"Bloomingdale's",161.00,shopping
-362,10/23/2013,"Sears",54.00,shopping
-363,10/30/2013,"Southern Company",273.00,utilities
-364,10/26/2013,"Lone Star Steakhouse & Saloon",33.00,restaurants
-365,10/18/2013,"Jamba Juice",31.00,restaurants
-366,10/15/2013,"Stir Crazy",25.00,restaurants
-367,10/31/2013,"Waffle House",45.00,restaurants
-368,10/15/2013,"Bojangles' Famous Chicken 'n Biscuits",23.00,restaurants
-369,10/29/2013,"Mr. Hero",22.00,restaurants
-370,10/14/2013,"Rock Bottom",37.00,restaurants
-371,10/29/2013,"Starbucks",14.00,restaurants
-372,10/29/2013,"Chuck E. Cheese's",38.00,restaurants
-727,10/10/2013,"Safeway Inc.",35.00,grocery
-373,11/06/2013,"lifeway christian resources",14.00,entertainment
-374,11/01/2013,"Cinemark",19.00,entertainment
-375,11/24/2013,"Kirkland's",383.00,home
-376,11/08/2013,"Home Depot",233.00,home
-377,11/10/2013,"Barneys New York",153.00,shopping
-378,11/17/2013,"Southern Company",178.00,utilities
-379,11/21/2013,"Tennesse Valley Authority",86.00,utilities
-380,11/23/2013,"Joe's Crab Shack",45.00,restaurants
-381,11/12/2013,"Checkers",48.00,restaurants
-382,11/27/2013,"Panera Bread",30.00,restaurants
-750,11/13/2013,"Att.com",85.00,utilities
-751,11/17/2013,"Chuck-A-Rama",28.00,restaurants
-383,12/31/2013,"Remke Markets bigg's",59.00,grocery
-384,12/17/2013,"Western Family Foods",111.00,grocery
-385,12/14/2013,"Sinclair",72.00,transportation
-386,12/12/2013,"JetBlue",81.00,transportation
-387,12/15/2013,"76",83.00,transportation
-388,12/29/2013,"RaceTrac/Raceway",52.00,transportation
-389,12/14/2013,"RaceTrac/Raceway",39.00,transportation
-390,12/06/2013,"Flying J",100.00,transportation
-391,12/29/2013,"Radioshack",479.00,home
-392,12/19/2013,"walgreens",200.00,home
-393,12/05/2013,"Hollister",65.00,shopping
-394,12/20/2013,"Amazon",176.00,shopping
-395,12/16/2013,"Qdoba Mexican Grill",37.00,restaurants
-396,12/12/2013,"Krystal",47.00,restaurants
-397,12/07/2013,"Chick-fil-A",23.00,restaurants
-754,12/21/2013,"QuikTrip",79.00,transportation
-763,12/28/2013,"Kohl's",200.00,shopping
-1215,12/01/2013,"Lunds",90.00,grocery
-1220,12/05/2013,"Southwest",59.00,transportation
-1222,12/28/2013,"MARTA",70.00,transportation
-1237,12/29/2013,"GameWorks",46.00,restaurants
-398,01/14/2012,"Food City",100.00,grocery
-399,01/30/2012,"González Northgate",117.00,grocery
-400,01/25/2012,"Getty",31.00,transportation
-401,01/09/2012,"Love's",74.00,transportation
-402,01/24/2012,"Greyhound",56.00,transportation
-403,01/25/2012,"Sunoco",58.00,transportation
-404,01/19/2012,"Airport",59.00,transportation
-405,01/23/2012,"books",19.00,entertainment
-406,01/17/2012,"deseret book",12.00,entertainment
-407,01/24/2012,"games",15.00,entertainment
-408,01/22/2012,"Office Depot",75.00,home
-409,01/05/2012,"bestbuy",170.00,home
-410,01/05/2012,"The Bon-Ton",191.00,shopping
-411,01/06/2012,"Boscov's",83.00,shopping
-412,01/26/2012,"Chick-fil-A",5.00,restaurants
-413,01/09/2012,"FATZ",43.00,restaurants
-414,01/18/2012,"IHOP",9.00,restaurants
-415,01/28/2012,"Seasons 52",23.00,restaurants
-416,01/04/2012,"Max & Erma's",16.00,restaurants
-417,01/05/2012,"Moe's Southwest Grill",44.00,restaurants
-418,01/22/2012,"Cheeseburger in Paradise",49.00,restaurants
-420,01/14/2012,"Cheesecake Factory",40.00,restaurants
-421,01/25/2012,"East of Chicago Pizza",40.00,restaurants
-793,01/18/2012,"Last Call Neiman Marcus",152.00,shopping
-422,02/22/2012,"Redner's Warehouse Markets",114.00,grocery
-423,02/18/2012,"Wegmans",171.00,grocery
-424,02/27/2012,"Mobil",82.00,transportation
-425,02/22/2012,"Rite aid",132.00,home
-426,02/05/2012,"6pm",136.00,home
-427,02/03/2012,"ACE",474.00,home
-428,02/03/2012,"Ebaybv",20.00,shopping
-429,02/23/2012,"Church's",7.00,restaurants
-430,02/28/2012,"bakery",29.00,restaurants
-431,02/16/2012,"Domino's Pizza",18.00,restaurants
-432,02/04/2012,"Eegee's",30.00,restaurants
-433,02/18/2012,"Mrs. Fields",12.00,restaurants
-434,02/15/2012,"El Pollo Loco",27.00,restaurants
-435,02/13/2012,"Penn Station (restaurant)",17.00,restaurants
-436,02/17/2012,"Don Pablo's",25.00,restaurants
-437,02/12/2012,"Checkers",41.00,restaurants
-806,02/22/2012,"Outback Steakhouse",40.00,restaurants
-1251,02/06/2012,"Carnival",61.00,transportation
-438,03/01/2012,"Lion Food",139.00,grocery
-439,03/26/2012,"Riesbeck's Food Markets",103.00,grocery
-440,03/03/2012,"QuikTrip",82.00,transportation
-441,03/10/2012,"subway",26.00,transportation
-442,03/03/2012,"dvd",12.00,entertainment
-443,03/20/2012,"Radioshack",97.00,home
-444,03/15/2012,"Macy's",194.00,shopping
-446,03/04/2012,"AT&T",275.00,utilities
-447,03/04/2012,"Taco Bueno",29.00,restaurants
-448,03/09/2012,"Long John Silver's",39.00,restaurants
-449,03/14/2012,"Ben & Jerry's",37.00,restaurants
-450,04/29/2012,"Reasors",80.00,grocery
-451,04/11/2012,"Penn Traffic",72.00,grocery
-452,04/25/2012,"RaceTrac/Raceway",69.00,transportation
-453,04/12/2012,"ferry",83.00,transportation
-454,04/03/2012,"QuikTrip",94.00,transportation
-455,04/14/2012,"powell's books",28.00,entertainment
-456,04/07/2012,"officemax",18.00,home
-457,04/29/2012,"Macy's",80.00,shopping
-458,04/26/2012,"Chili's",44.00,restaurants
-460,04/22/2012,"BJ's Restaurant & Brewery",48.00,restaurants
-461,04/04/2012,"El Chico",44.00,restaurants
-850,04/11/2012,"Quiznos",22.00,restaurants
-1291,04/17/2012,"movies",17.00,entertainment
-462,05/17/2012,"Rosauers",114.00,grocery
-463,05/18/2012,"Love's",24.00,transportation
-465,05/15/2012,"Love's",51.00,transportation
-466,05/30/2012,"Amoco",82.00,transportation
-467,05/08/2012,"Travelcenters of America",98.00,transportation
-468,05/01/2012,"Home Depot",229.00,home
-470,05/05/2012,"Sears Essentials",200.00,shopping
-471,05/03/2012,"Sears Essentials",50.00,shopping
-473,05/30/2012,"Neiman Marcus",90.00,shopping
-855,05/20/2012,"Royal Farms",21.00,transportation
-1319,05/14/2012,"Cold Stone Creamery",45.00,restaurants
-474,06/19/2012,"Whole Foods Market",104.00,grocery
-475,06/11/2012,"New Deal Market",104.00,grocery
-476,06/14/2012,"Fred Meyer",158.00,grocery
-478,06/30/2012,"Gulf",43.00,transportation
-479,06/25/2012,"Sheetz",75.00,transportation
-480,06/29/2012,"Shell",57.00,transportation
-481,06/09/2012,"Texaco",55.00,transportation
-482,06/01/2012,"Royal Farms",43.00,transportation
-483,06/06/2012,"Home Depot",126.00,home
-484,06/15/2012,"walgreens",143.00,home
-485,06/17/2012,"Office Depot",358.00,home
-486,06/25/2012,"hhgregg",460.00,home
-487,06/23/2012,"American Eagle",172.00,shopping
-488,06/18/2012,"Nordstrom",133.00,shopping
-489,06/20/2012,"Kohl's",34.00,shopping
-490,06/30/2012,"LongHorn Steakhouse",22.00,restaurants
-491,06/02/2012,"Krystal",6.00,restaurants
-492,07/14/2012,"76",43.00,transportation
-493,07/23/2012,"Bloomingdale's",46.00,shopping
-1348,07/07/2012,"Chicken Express",44.00,restaurants
-494,08/31/2012,"Pro's Ranch Market",91.00,grocery
-495,08/20/2012,"joseph-beth booksellers",13.00,entertainment
-496,08/28/2012,"ACE",182.00,home
-497,08/02/2012,"Walmart",362.00,home
-498,08/19/2012,"Office Depot",239.00,home
-499,08/08/2012,"Radioshack",144.00,home
-500,08/15/2012,"Elder-Beerman",177.00,shopping
-502,08/19/2012,"Lord & Taylor",148.00,shopping
-503,08/17/2012,"Chicken Express",49.00,restaurants
-504,08/29/2012,"Wendy's",15.00,restaurants
-505,08/11/2012,"Fatburger",11.00,restaurants
-506,08/09/2012,"Culver's",43.00,restaurants
-1358,08/11/2012,"Pilot",77.00,transportation
-507,09/21/2012,"Delta",39.00,transportation
-508,09/11/2012,"Greyhound",60.00,transportation
-509,09/14/2012,"Love's",60.00,transportation
-510,09/08/2012,"Murphy USA",66.00,transportation
-511,09/07/2012,"Speedway",43.00,transportation
-513,09/22/2012,"Bergner's",165.00,shopping
-514,09/04/2012,"utility",200.00,utilities
-515,09/13/2012,"Godfather's Pizza",35.00,restaurants
-516,09/23/2012,"Howard Johnson's",36.00,restaurants
-517,09/29/2012,"Cold Stone Creamery",24.00,restaurants
-518,09/27/2012,"Hooters",18.00,restaurants
-520,09/22/2012,"Ruth's Chris Steak House",36.00,restaurants
-943,09/23/2012,"home",485.00,home
-522,10/08/2012,"PriceRite",45.00,grocery
-523,10/14/2012,"Woodman's Food Market",148.00,grocery
-524,10/25/2012,"Love's",50.00,transportation
-525,10/12/2012,"JetBlue",37.00,transportation
-526,10/29/2012,"Nordstrom Rack",116.00,shopping
-527,10/10/2012,"Att.com",159.00,utilities
-528,10/13/2012,"Mazzio's Italian Eatery",10.00,restaurants
-529,10/10/2012,"Johnny Rockets",43.00,restaurants
-530,10/16/2012,"Cheddar's Casual Café",50.00,restaurants
-531,10/17/2012,"Lee Roy Selmon's",47.00,restaurants
-532,10/11/2012,"Portillo's Restaurants",18.00,restaurants
-533,10/07/2012,"Chick Fil A",46.00,restaurants
-534,10/13/2012,"Taco Bell",35.00,restaurants
-967,10/19/2012,"Boston Store",184.00,shopping
-1392,10/17/2012,"Bergdorf Goodman",104.00,shopping
-536,11/20/2012,"Minyard's",183.00,grocery
-537,11/07/2012,"QuickChek",48.00,transportation
-538,11/11/2012,"Shell",65.00,transportation
-539,11/05/2012,"Kroger brand gasoline",58.00,transportation
-540,11/15/2012,"Gulf",65.00,transportation
-541,11/19/2012,"gamestop",17.00,entertainment
-542,11/23/2012,"family christian stores",24.00,entertainment
-543,11/04/2012,"lifeway christian resources",19.00,entertainment
-544,11/26/2012,"Barneys New York",110.00,shopping
-545,11/20/2012,"Quiznos",14.00,restaurants
-548,11/07/2012,"Houston's Restaurant",29.00,restaurants
-549,11/01/2012,"Marie Callender's",21.00,restaurants
-550,11/06/2012,"Papa John's Pizza",8.00,restaurants
-551,11/05/2012,"Johnny Rockets",49.00,restaurants
-552,11/29/2012,"Coco's Bakery",39.00,restaurants
-553,11/08/2012,"El Chico",6.00,restaurants
-554,12/01/2012,"gas",58.00,transportation
-555,12/15/2012,"gas",36.00,transportation
-556,12/27/2012,"subway",94.00,transportation
-557,12/29/2012,"train",35.00,transportation
-558,12/15/2012,"Sheetz",35.00,transportation
-559,12/29/2012,"gas",74.00,transportation
-560,12/24/2012,"gas",63.00,transportation
-561,12/07/2012,"Southwest",63.00,transportation
-562,12/04/2012,"barns and noble",19.00,entertainment
-563,12/28/2012,"Att.com",276.00,utilities
-1425,12/10/2012,"walgreens",109.00,home
-564,01/06/2013,"Marsh",121.00,grocery
-565,01/20/2013,"Royal Ahold",21.00,grocery
-566,01/10/2013,"Aldi",130.00,grocery
-567,01/29/2013,"JetBlue",49.00,transportation
-568,01/07/2013,"Shell",34.00,transportation
-569,01/25/2013,"bus",89.00,transportation
-570,01/25/2013,"Lukoil",51.00,transportation
-571,01/31/2013,"Phillips 66",83.00,transportation
-572,01/31/2013,"deseret book",25.00,entertainment
-573,01/23/2013,"dvds",23.00,entertainment
-574,01/18/2013,"hudson news",15.00,entertainment
-575,01/11/2013,"Home Depot",486.00,home
-576,01/18/2013,"Costco",339.00,home
-577,01/22/2013,"Neiman Marcus",158.00,shopping
-578,01/14/2013,"metropcs",104.00,utilities
-579,01/25/2013,"bill",198.00,utilities
-581,01/25/2013,"Taco Bell",12.00,restaurants
-582,01/10/2013,"Black-eyed Pea",30.00,restaurants
-583,01/30/2013,"Golden Corral",15.00,restaurants
-584,01/17/2013,"Burger King",29.00,restaurants
-585,01/02/2013,"Naugles",31.00,restaurants
-586,01/24/2013,"CiCi's Pizza",41.00,restaurants
-587,01/25/2013,"Stir Crazy",22.00,restaurants
-588,01/15/2013,"Milo's Hamburgers",9.00,restaurants
-589,01/01/2013,"Ruth's Chris Steak House",28.00,restaurants
-1444,01/30/2013,"bestbuy",172.00,home
-590,02/09/2013,"WinCo Foods",182.00,grocery
-591,02/16/2013,"Home Depot",54.00,home
-592,02/25/2013,"Costco",289.00,home
-593,02/07/2013,"Rite aid",246.00,home
-594,02/15/2013,"Neiman Marcus",185.00,shopping
-595,02/16/2013,"Von Maur",87.00,shopping
-596,02/18/2013,"utilities",228.00,utilities
-597,02/10/2013,"Comcast",192.00,utilities
-598,02/27/2013,"Swensen's",21.00,restaurants
-599,02/27/2013,"Jim's Restaurants",23.00,restaurants
-1042,02/03/2013,"Chipotle Mexican Grill",28.00,restaurants
-1462,02/22/2013,"Buca di Beppo",28.00,restaurants
-600,03/11/2013,"Rosauers",51.00,grocery
-601,03/17/2013,"American Airlines",78.00,transportation
-603,03/13/2013,"Greyhound",99.00,transportation
-604,03/13/2013,"ARCO",96.00,transportation
-606,03/02/2013,"Citgo",98.00,transportation
-607,03/30/2013,"Greyhound",29.00,transportation
-608,03/25/2013,"Cumberland Farms",70.00,transportation
-609,03/10/2013,"hudson news",25.00,entertainment
-610,03/28/2013,"barns and noble",24.00,entertainment
-611,03/24/2013,"walgreens",73.00,home
-612,03/22/2013,"American Eagle",23.00,shopping
-613,03/08/2013,"Off 5th Saks Fifth Avenue Outlet",96.00,shopping
-614,03/04/2013,"Neiman Marcus",62.00,shopping
-615,03/15/2013,"Amazon.com",27.00,shopping
-616,03/10/2013,"Georgia Power",208.00,utilities
-617,03/19/2013,"Sprint",259.00,utilities
-618,03/08/2013,"GA Tech",4466.00,special
-619,03/16/2013,"Mazzio's Italian Eatery",28.00,restaurants
-620,03/21/2013,"Jimmy John's",7.00,restaurants
-621,03/07/2013,"Steak 'n Shake",43.00,restaurants
-622,03/27/2013,"Claim Jumper",40.00,restaurants
-623,03/05/2013,"CiCi's Pizza",9.00,restaurants
-624,03/22/2013,"Long John Silver's",29.00,restaurants
-625,04/26/2013,"Great Valu",46.00,grocery
-626,04/13/2013,"BP",64.00,transportation
-627,04/22/2013,"Travelcenters of America",83.00,transportation
-629,04/13/2013,"7-Eleven brand gasoline",86.00,transportation
-630,04/28/2013,"train",57.00,transportation
-631,04/11/2013,"Murphy USA",64.00,transportation
-632,04/15/2013,"Regal",13.00,entertainment
-633,04/26/2013,"lifeway christian resources",14.00,entertainment
-634,04/07/2013,"UPS",155.00,home
-635,04/27/2013,"Younkers",181.00,shopping
-636,04/24/2013,"Younkers",58.00,shopping
-637,04/06/2013,"Boscov's",169.00,shopping
-639,04/27/2013,"Raising Cane's Chicken Fingers",23.00,restaurants
-640,04/18/2013,"Olive Garden",35.00,restaurants
-1074,04/15/2013,"Belk",128.00,shopping
-1084,04/16/2013,"Atlanta Bread Company",25.00,restaurants
-642,05/14/2013,"Fresh and Easy",192.00,grocery
-643,05/30/2013,"Sullivan's Foods",64.00,grocery
-644,05/31/2013,"Cumberland Farms",67.00,transportation
-646,05/04/2013,"Herberger's",194.00,shopping
-647,05/09/2013,"Nordstrom",190.00,shopping
-648,05/11/2013,"Tmobile",286.00,utilities
-650,05/23/2013,"Taco Time",16.00,restaurants
-651,05/29/2013,"Friendly's",21.00,restaurants
-652,05/11/2013,"Panera Bread",48.00,restaurants
-653,05/25/2013,"Subway",20.00,restaurants
-654,05/01/2013,"P. F. Chang's China Bistro",37.00,restaurants
-655,05/31/2013,"Milo's Hamburgers",21.00,restaurants
-656,05/21/2013,"Sticky Fingers",21.00,restaurants
-657,05/16/2013,"Romano's Macaroni Grill",48.00,restaurants
-658,05/12/2013,"Johnny Rockets",16.00,restaurants
-1106,05/27/2013,"Runza",26.00,restaurants
-1506,05/13/2013,"Kirkland's",213.00,home
-659,06/29/2013,"Gerland's Food Fair",169.00,grocery
-660,06/19/2013,"Winn-Dixie",114.00,grocery
-661,06/21/2013,"Amtrak",46.00,transportation
-663,06/01/2013,"Gulf",41.00,transportation
-664,06/05/2013,"Cumberland Farms",39.00,transportation
-665,06/25/2013,"ferry",50.00,transportation
-667,06/12/2013,"Carnival",72.00,transportation
-668,06/21/2013,"QuikTrip",68.00,transportation
-669,06/12/2013,"game",17.00,entertainment
-670,06/09/2013,"Walmart",251.00,home
-671,06/06/2013,"Lord & Taylor",151.00,shopping
-672,06/25/2013,"Saks Fifth Avenue",196.00,shopping
-673,06/13/2013,"Flint Energies",110.00,utilities
-674,06/19/2013,"Sonic Drive-In",9.00,restaurants
-675,06/21/2013,"Sbarro",46.00,restaurants
-676,06/24/2013,"dining",23.00,restaurants
-677,06/24/2013,"Schlotzsky's",24.00,restaurants
-678,06/09/2013,"IHOP",12.00,restaurants
-679,06/14/2013,"Swensons",36.00,restaurants
-680,06/20/2013,"Sonic Drive-In",15.00,restaurants
-681,06/20/2013,"L&L Hawaiian Barbecue",37.00,restaurants
-1521,06/12/2013,"game",21.00,entertainment
-682,07/22/2013,"Murphy's Marketplace",149.00,grocery
-683,07/23/2013,"Meijer",26.00,grocery
-685,07/03/2013,"Citgo",39.00,transportation
-686,07/20/2013,"Murphy USA",91.00,transportation
-687,07/23/2013,"Hess",43.00,transportation
-688,07/01/2013,"Conoco",43.00,transportation
-689,07/19/2013,"Costco",362.00,home
-690,07/15/2013,"Boston Store",200.00,shopping
-691,07/06/2013,"Barneys New York",78.00,shopping
-692,07/13/2013,"Neiman Marcus",141.00,shopping
-693,07/01/2013,"Nordstrom Rack",90.00,shopping
-694,07/14/2013,"Rax",7.00,restaurants
-695,07/26/2013,"Ruby Tuesday",24.00,restaurants
-696,07/10/2013,"Rock Bottom",19.00,restaurants
-697,07/22/2013,"Quaker Steak & Lube",5.00,restaurants
-698,07/30/2013,"Carvel Ice Cream",36.00,restaurants
-699,07/30/2013,"Del Taco",39.00,restaurants
-700,07/12/2013,"Coco's Bakery",21.00,restaurants
-701,07/29/2013,"Rainforest Cafe",6.00,restaurants
-702,07/30/2013,"Luby's",9.00,restaurants
-1145,07/27/2013,"Burger Street",20.00,restaurants
-704,08/02/2013,"Greyhound",24.00,transportation
-705,08/28/2013,"Carnival",59.00,transportation
-706,08/02/2013,"Mobil",62.00,transportation
-707,08/28/2013,"game",7.00,entertainment
-708,08/27/2013,"Hulu",21.00,entertainment
-709,08/17/2013,"Kohl's",67.00,shopping
-710,08/03/2013,"bill",147.00,utilities
-711,08/14/2013,"Alabama Power",298.00,utilities
-1564,08/13/2013,"Swensen's",47.00,restaurants
-712,09/30/2013,"Getty",64.00,transportation
-713,09/11/2013,"Greyhound",33.00,transportation
-714,09/10/2013,"Pilot",83.00,transportation
-715,09/07/2013,"cinema",27.00,entertainment
-716,09/29/2013,"Ikea",187.00,home
-717,09/04/2013,"Lowes",191.00,home
-718,09/15/2013,"Home Depot",132.00,home
-719,09/01/2013,"GAP",33.00,shopping
-720,09/20/2013,"Aeropostale",139.00,shopping
-721,09/05/2013,"Younkers",29.00,shopping
-722,09/25/2013,"Elder-Beerman",190.00,shopping
-723,09/07/2013,"Bergner's",36.00,shopping
-724,09/01/2013,"DirectTV",70.00,utilities
-725,09/02/2013,"Black-eyed Pea",9.00,restaurants
-1580,09/05/2013,"CVS",81.00,home
-728,10/08/2013,"barns & noble",6.00,entertainment
-729,10/13/2013,"Kirkland's",498.00,home
-730,10/01/2013,"Office Depot",153.00,home
-731,10/09/2013,"Staples",422.00,home
-732,10/06/2013,"Neiman Marcus",104.00,shopping
-733,10/12/2013,""	"",37.00,restaurants
-734,10/02/2013,"El Pollo Loco",39.00,restaurants
-735,10/04/2013,"Seattle's Best Coffee",32.00,restaurants
-736,10/17/2013,"Gatti's Pizza",47.00,restaurants
-737,10/07/2013,"L&L Hawaiian Barbecue",18.00,restaurants
-738,11/24/2013,"CAM Asian Market",195.00,grocery
-739,11/01/2013,"gas",46.00,transportation
-740,11/10/2013,"7-Eleven brand gasoline",86.00,transportation
-741,11/28/2013,"Murphy USA",89.00,transportation
-742,11/26/2013,"Amtrak",54.00,transportation
-743,11/13/2013,"JetBlue",75.00,transportation
-744,11/02/2013,"Amoco",38.00,transportation
-745,11/15/2013,"barns and noble",5.00,entertainment
-746,11/09/2013,"tree of life christian outlet",24.00,entertainment
-747,11/11/2013,"books",18.00,entertainment
-748,11/16/2013,"Costco",238.00,home
-749,11/10/2013,"Alabama Power",291.00,utilities
-1191,11/02/2013,"train",99.00,transportation
-1613,11/20/2013,"Tennesse Valley Authority",255.00,utilities
-752,12/14/2013,"SuperTarget",130.00,grocery
-753,12/25/2013,"Amtrak",86.00,transportation
-755,12/10/2013,"Greyhound",75.00,transportation
-756,12/30/2013,"Wawa",34.00,transportation
-757,12/23/2013,"Lukoil",84.00,transportation
-758,12/16/2013,"Sunoco",39.00,transportation
-759,12/24/2013,"Love's",40.00,transportation
-760,12/03/2013,"Valero",71.00,transportation
-761,12/20/2013,"book off usa",11.00,entertainment
-762,12/02/2013,"GAP",38.00,shopping
-764,12/03/2013,"Herberger's",110.00,shopping
-765,12/06/2013,"Ebaybv",175.00,shopping
-766,12/25/2013,"utilities",196.00,utilities
-767,12/22/2013,"Carino's Italian Grill",15.00,restaurants
-768,12/30/2013,"White Castle",8.00,restaurants
-769,12/20/2013,"Moe's Southwest Grill",34.00,restaurants
-770,12/29/2013,"Spangles (restaurant)",20.00,restaurants
-771,12/04/2013,"Whataburger",46.00,restaurants
-772,12/16/2013,"Arby's",48.00,restaurants
-773,12/03/2013,"Fleming's Prime Steakhouse & Wine Bar",37.00,restaurants
-774,12/19/2013,"California Tortilla",16.00,restaurants
-775,12/06/2013,"O'Charley's",9.00,restaurants
-1619,12/09/2013,"DirectTV",69.00,utilities
-776,01/26/2012,"Hubbell and Hudson",150.00,grocery
-777,01/02/2012,"H-Mart",174.00,grocery
-778,01/02/2012,"NSA Supernn,mnmarkets",120.00,grocery
-779,01/06/2012,"QuikTrip",81.00,transportation
-780,01/19/2012,"Royal Farms",63.00,transportation
-781,01/31/2012,"Shell",34.00,transportation
-782,01/11/2012,"Love's",97.00,transportation
-783,01/02/2012,"Hess",81.00,transportation
-785,01/15/2012,"Greyhound",25.00,transportation
-786,01/27/2012,"Marathon Oil",70.00,transportation
-787,01/23/2012,"Cinemark",7.00,entertainment
-788,01/29/2012,"Costco",110.00,home
-789,01/13/2012,"hhgregg",82.00,home
-790,01/04/2012,"Home Depot",376.00,home
-791,01/11/2012,"bestbuy",93.00,home
-792,01/25/2012,"Ebaybv",183.00,shopping
-794,01/31/2012,"Lord & Taylor",25.00,shopping
-795,01/05/2012,"Parisian (Bon-Ton)",116.00,shopping
-796,01/08/2012,"Dish Network",283.00,utilities
-797,02/22/2012,"Cumberland Farms",34.00,transportation
-798,02/11/2012,"home",212.00,home
-799,02/10/2012,"Best Buy",32.00,home
-800,02/07/2012,"Home Depot",215.00,home
-801,02/26/2012,"Aeropostale",86.00,shopping
-802,02/20/2012,"Belk",139.00,shopping
-803,02/17/2012,"Georgia Power",78.00,utilities
-804,02/08/2012,"utility",246.00,utilities
-805,02/27/2012,"Fresh Choice",43.00,restaurants
-807,02/20/2012,"Saladworks",16.00,restaurants
-808,02/20/2012,"Qdoba Mexican Grill",42.00,restaurants
-809,02/18/2012,"Portillo's Restaurants",46.00,restaurants
-810,02/04/2012,"LongHorn Steakhouse",46.00,restaurants
-811,02/02/2012,"Portillo's Restaurants",49.00,restaurants
-812,03/21/2012,"Market Basket",168.00,grocery
-813,03/16/2012,"BP",33.00,transportation
-814,03/06/2012,"joseph-beth booksellers",6.00,entertainment
-815,03/26/2012,"Regal",28.00,entertainment
-816,03/16/2012,"Nordstrom",123.00,shopping
-819,03/29/2012,"Nordstrom",28.00,shopping
-820,03/19/2012,"Nordstrom",37.00,shopping
-821,03/16/2012,"Lyon's",37.00,restaurants
-822,03/20/2012,"Dairy Queen",12.00,restaurants
-823,03/18/2012,"Old Country Buffet",29.00,restaurants
-824,03/27/2012,"Fresh Choice",20.00,restaurants
-825,03/14/2012,"Bertucci's",47.00,restaurants
-826,03/24/2012,"Joe's Crab Shack",17.00,restaurants
-827,03/12/2012,"Marie Callender's",18.00,restaurants
-828,03/22/2012,"A&W Restaurants",5.00,restaurants
-829,03/07/2012,"Tilted Kilt",27.00,restaurants
-1274,03/22/2012,"UPS",491.00,home
-830,04/06/2012,"Associated Supermarkets",64.00,grocery
-831,04/14/2012,"Lunds",197.00,grocery
-832,04/02/2012,"7-Eleven brand gasoline",71.00,transportation
-833,04/07/2012,"Airport",72.00,transportation
-834,04/10/2012,"cinema",20.00,entertainment
-835,04/18/2012,"follett's",25.00,entertainment
-836,04/10/2012,"gamestop",9.00,entertainment
-837,04/16/2012,"bestbuy",433.00,home
-838,04/02/2012,"Lord & Taylor",62.00,shopping
-839,04/03/2012,"Boston Store",115.00,shopping
-840,04/10/2012,"Bergner's",89.00,shopping
-841,04/25/2012,"American Eagle",77.00,shopping
-842,04/27/2012,"Flint Energies",156.00,utilities
-843,04/25/2012,"metropcs",197.00,utilities
-844,04/03/2012,"El Chico",20.00,restaurants
-845,04/13/2012,"Checkers",16.00,restaurants
-846,04/18/2012,"Perkins Restaurant and Bakery",46.00,restaurants
-847,04/16/2012,"Mrs. Fields",48.00,restaurants
-848,04/26/2012,"The Melting Pot",22.00,restaurants
-849,04/08/2012,"Little Caesars",16.00,restaurants
-851,04/06/2012,"Panda Express",45.00,restaurants
-852,05/26/2012,"FreshDirect",197.00,grocery
-853,05/08/2012,"QuickChek",41.00,transportation
-854,05/19/2012,"Love's",42.00,transportation
-856,05/27/2012,"American Airlines",21.00,transportation
-857,05/09/2012,"BP",64.00,transportation
-858,05/06/2012,"Hess",24.00,transportation
-859,05/08/2012,"subway",29.00,transportation
-860,05/06/2012,"lifeway christian resources",19.00,entertainment
-861,05/11/2012,"half price books",7.00,entertainment
-862,05/03/2012,"CVS",59.00,home
-863,05/12/2012,"Office Depot",445.00,home
-864,05/11/2012,"JCPenney",51.00,shopping
-865,05/18/2012,"The Bon-Ton",60.00,shopping
-866,05/14/2012,"Barneys New York",127.00,shopping
-867,05/22/2012,"Comcast",108.00,utilities
-868,05/26/2012,"Southern Company",107.00,utilities
-869,05/26/2012,"bistro",15.00,restaurants
-870,05/28/2012,"Shoney's",29.00,restaurants
-871,05/23/2012,"Benihana",41.00,restaurants
-872,05/18/2012,"Damon's Grill",46.00,restaurants
-873,05/03/2012,"FATZ",22.00,restaurants
-874,05/02/2012,"CiCi's Pizza",23.00,restaurants
-875,06/21/2012,"Shell",90.00,transportation
-876,06/12/2012,"Carnival",48.00,transportation
-877,06/14/2012,"Pilot",80.00,transportation
-878,06/07/2012,"Conoco",49.00,transportation
-879,06/29/2012,"Love's",64.00,transportation
-880,06/14/2012,"Chevron",63.00,transportation
-881,06/25/2012,"Hess",99.00,transportation
-882,06/02/2012,"book off usa",14.00,entertainment
-883,06/16/2012,"barns and noble",17.00,entertainment
-884,06/12/2012,"6pm",90.00,home
-885,06/07/2012,"walgreens",317.00,home
-887,06/23/2012,"UPS",370.00,home
-888,06/24/2012,"Hollister",125.00,shopping
-889,06/25/2012,"Nordstrom",110.00,shopping
-890,06/19/2012,"Younkers",43.00,shopping
-892,06/18/2012,"Arby's",34.00,restaurants
-893,06/29/2012,"Jersey Mike's Subs",17.00,restaurants
-894,06/13/2012,"Charlie Brown's Steakhouse",13.00,restaurants
-895,06/08/2012,"Shane's Rib Shack",5.00,restaurants
-896,06/07/2012,"LongHorn Steakhouse",23.00,restaurants
-897,06/06/2012,"Robeks",24.00,restaurants
-898,06/28/2012,"Sneaky Pete's",16.00,restaurants
-899,06/30/2012,"Panda Express",26.00,restaurants
-900,07/23/2012,"David's Supermarkets",128.00,grocery
-901,07/18/2012,"QuikTrip",48.00,transportation
-902,07/02/2012,"Cumberland Farms",30.00,transportation
-903,07/23/2012,"QuickChek",21.00,transportation
-904,07/07/2012,"Getty",25.00,transportation
-905,07/24/2012,"Flying J",88.00,transportation
-906,07/29/2012,"Conoco",37.00,transportation
-907,07/26/2012,"shakespeare and company",27.00,entertainment
-908,07/03/2012,"printsasia",9.00,entertainment
-909,07/31/2012,"ACE",78.00,home
-910,07/24/2012,"Office Depot",415.00,home
-911,07/23/2012,"Home Depot",251.00,home
-912,07/23/2012,"Younkers",29.00,shopping
-913,07/01/2012,"metropcs",103.00,utilities
-914,07/23/2012,"Little Caesars",37.00,restaurants
-915,07/13/2012,"Taco Bell",10.00,restaurants
-916,07/02/2012,"On the Border Mexican Grill & Cantina",29.00,restaurants
-917,07/28/2012,"Showmars",32.00,restaurants
-918,07/11/2012,"Saladworks",47.00,restaurants
-919,08/24/2012,"Arteagas Food Center",130.00,grocery
-920,08/08/2012,"FoodFair",47.00,grocery
-921,08/08/2012,"Hess",32.00,transportation
-922,08/12/2012,"BP",82.00,transportation
-923,08/20/2012,"Chevron",28.00,transportation
-924,08/11/2012,"schuler books & music",29.00,entertainment
-925,08/10/2012,"Costco",131.00,home
-926,08/30/2012,"Staples",485.00,home
-927,08/12/2012,"Macy's",189.00,shopping
-928,08/19/2012,"Amazon",38.00,shopping
-929,08/13/2012,"Carson Pirie Scott",81.00,shopping
-930,08/26/2012,"Boston Store",32.00,shopping
-931,08/03/2012,"Last Call Neiman Marcus",185.00,shopping
-932,08/27/2012,"Dish Network",179.00,utilities
-933,08/17/2012,"Sprint",66.00,utilities
-934,08/02/2012,"Seattle's Best Coffee",35.00,restaurants
-935,08/24/2012,"RA Sushi",36.00,restaurants
-936,08/15/2012,"Panda Express",28.00,restaurants
-937,08/19/2012,"Smokey Bones",30.00,restaurants
-1368,08/31/2012,"AT&T",161.00,utilities
-938,09/20/2012,"Victory Supermarkets",162.00,grocery
-939,09/10/2012,"train",82.00,transportation
-940,09/04/2012,"Getty",31.00,transportation
-941,09/26/2012,"ARCO",26.00,transportation
-942,09/08/2012,"Hess",27.00,transportation
-944,09/29/2012,"Target",66.00,home
-945,09/01/2012,"Kirkland's",47.00,home
-946,09/28/2012,"Amazon.com",142.00,shopping
-947,09/03/2012,"Ebaybv",70.00,shopping
-948,09/15/2012,"The Bon-Ton",45.00,shopping
-949,09/06/2012,"Macy's",42.00,shopping
-950,09/07/2012,"Boston Store",50.00,shopping
-951,09/08/2012,"Southern Company",107.00,utilities
-952,09/21/2012,"Wendy's",11.00,restaurants
-954,09/22/2012,"Stir Crazy",6.00,restaurants
-955,09/09/2012,"Tony Roma's",29.00,restaurants
-956,09/09/2012,"Milo's Hamburgers",25.00,restaurants
-957,09/22/2012,"Dunkin' Donuts",12.00,restaurants
-958,10/24/2012,"Andronico's",145.00,grocery
-959,10/14/2012,"Affiliated Foods Midwest",132.00,grocery
-960,10/29/2012,"Martin's Food Markets",48.00,grocery
-961,10/08/2012,"Chevron",54.00,transportation
-962,10/09/2012,"gas",36.00,transportation
-963,10/03/2012,"train",29.00,transportation
-964,10/24/2012,"76",87.00,transportation
-965,10/21/2012,"subway",69.00,transportation
-966,10/05/2012,"Flying J",56.00,transportation
-969,10/10/2012,"Bergner's",145.00,shopping
-970,10/12/2012,"Joe's Crab Shack",10.00,restaurants
-971,10/26/2012,"Pizza Ranch",7.00,restaurants
-972,10/17/2012,"Chevys Fresh Mex",11.00,restaurants
-973,10/26/2012,"Sneaky Pete's",21.00,restaurants
-974,10/14/2012,"Big Boy",17.00,restaurants
-975,10/30/2012,"Church's",13.00,restaurants
-1394,10/10/2012,"AT&T",276.00,utilities
-976,11/12/2012,"Amoco",33.00,transportation
-977,11/08/2012,"Lukoil",96.00,transportation
-978,11/27/2012,"Sunoco",32.00,transportation
-979,11/16/2012,"Lukoil",95.00,transportation
-980,11/14/2012,"Hess",99.00,transportation
-981,11/24/2012,"Kroger brand gasoline",53.00,transportation
-983,11/27/2012,"Boston Store",96.00,shopping
-984,11/26/2012,"Sears",167.00,shopping
-985,11/25/2012,"The Bon-Ton",193.00,shopping
-986,11/10/2012,"Belk",172.00,shopping
-987,11/09/2012,"Camille's Sidewalk Cafe",35.00,restaurants
-988,11/07/2012,"O'Charley's",47.00,restaurants
-989,11/15/2012,"Chi-Chi's",15.00,restaurants
-990,11/24/2012,"Bahama Breeze",7.00,restaurants
-991,11/03/2012,"McDonald's",27.00,restaurants
-992,11/14/2012,"Panda Express",39.00,restaurants
-993,11/01/2012,"Texas Roadhouse",41.00,restaurants
-994,12/13/2012,"train",45.00,transportation
-995,12/15/2012,"movies",11.00,entertainment
-996,12/26/2012,"dvds",27.00,entertainment
-997,12/01/2012,"Lord & Taylor",152.00,shopping
-998,12/24/2012,"Flint Energies",120.00,utilities
-999,12/04/2012,"Cheesecake Factory",13.00,restaurants
-1000,12/07/2012,"The Original Pancake House",18.00,restaurants
-1001,12/11/2012,"Swensen's",25.00,restaurants
-1003,12/03/2012,"Fresh Choice",16.00,restaurants
-1004,12/26/2012,"Long John Silver's",41.00,restaurants
-1005,12/15/2012,"Applebee's",24.00,restaurants
-1006,12/25/2012,"Dairy Queen",38.00,restaurants
-1009,01/19/2013,"Lion Food",41.00,grocery
-1010,01/14/2013,"New Deal Market",26.00,grocery
-1011,01/26/2013,"Delta",88.00,transportation
-1012,01/30/2013,"QuikTrip",33.00,transportation
-1013,01/10/2013,"Chevron",20.00,transportation
-1014,01/13/2013,"books a million",18.00,entertainment
-1015,01/22/2013,"strand book store",11.00,entertainment
-1016,01/07/2013,"hastings entertainment",30.00,entertainment
-1017,01/01/2013,"Parisian (Bon-Ton)",128.00,shopping
-1018,01/02/2013,"Nordstrom Rack",42.00,shopping
-1019,01/03/2013,"AT&T",101.00,utilities
-1021,01/05/2013,"EatZi's",35.00,restaurants
-1022,01/26/2013,"Chi-Chi's",27.00,restaurants
-1023,01/11/2013,"Blimpie",23.00,restaurants
-1024,01/02/2013,"Seasons 52",9.00,restaurants
-1025,01/21/2013,"Red Lobster",15.00,restaurants
-1026,01/05/2013,"Landry's Restaurants",35.00,restaurants
-1027,02/22/2013,"Roundy's",119.00,grocery
-1028,02/25/2013,"Nijiya Market",54.00,grocery
-1029,02/06/2013,"Airport",61.00,transportation
-1030,02/26/2013,"Hulu",20.00,entertainment
-1031,02/17/2013,"Ikea",342.00,home
-1034,02/06/2013,"GAP",183.00,shopping
-1035,02/02/2013,"bill",266.00,utilities
-1036,02/05/2013,"FATZ",25.00,restaurants
-1037,02/25/2013,"HuHot Mongolian Grill",9.00,restaurants
-1038,02/11/2013,"Krystal",10.00,restaurants
-1039,02/16/2013,"Chuck-A-Rama",35.00,restaurants
-1040,02/04/2013,"bakery",24.00,restaurants
-1041,02/27/2013,"Eegee's",26.00,restaurants
-1043,02/12/2013,"Mrs. Fields",12.00,restaurants
-1044,02/19/2013,"Country Buffet",8.00,restaurants
-1045,03/07/2013,"Fiesta Mart",144.00,grocery
-1046,03/17/2013,"Marathon Oil",60.00,transportation
-1048,03/04/2013,"Wawa",95.00,transportation
-1049,03/16/2013,"Exxon",58.00,transportation
-1050,03/28/2013,"lifeway christian resources",23.00,entertainment
-1051,03/03/2013,"schuler books & music",13.00,entertainment
-1052,03/09/2013,"Target",411.00,home
-1053,03/31/2013,"UPS",375.00,home
-1054,03/17/2013,"Newegg",98.00,home
-1055,03/02/2013,"home",378.00,home
-1056,03/07/2013,"Ebaybv",162.00,shopping
-1057,03/29/2013,"Last Call Neiman Marcus",78.00,shopping
-1059,03/04/2013,"Dish Network",271.00,utilities
-1060,03/09/2013,"Jim's Restaurants",32.00,restaurants
-1061,03/17/2013,"Panda Express",13.00,restaurants
-1062,03/15/2013,"Denny's",35.00,restaurants
-1063,03/19/2013,"Potbelly Sandwich Works",22.00,restaurants
-1064,04/21/2013,"Home Economist",47.00,grocery
-1065,04/04/2013,"NSA Supernn,mnmarkets",146.00,grocery
-1066,04/04/2013,"BP",48.00,transportation
-1067,04/21/2013,"Texaco",52.00,transportation
-1068,04/18/2013,"JetBlue",77.00,transportation
-1069,04/12/2013,"Airport",41.00,transportation
-1070,04/22/2013,"BP",74.00,transportation
-1072,04/19/2013,"Costco",380.00,home
-1073,04/10/2013,"GAP",70.00,shopping
-1075,04/06/2013,"Boscov's",186.00,shopping
-1076,04/08/2013,"Off 5th Saks Fifth Avenue Outlet",74.00,shopping
-1077,04/21/2013,"Amazon.com",146.00,shopping
-1078,04/12/2013,"Hardee's",25.00,restaurants
-1079,04/13/2013,"Jersey Mike's Subs",8.00,restaurants
-1080,04/27/2013,"Jack's",5.00,restaurants
-1081,04/22/2013,"Buca di Beppo",14.00,restaurants
-1082,04/01/2013,"Auntie Anne's",22.00,restaurants
-1083,04/03/2013,"Arctic Circle Restaurants",5.00,restaurants
-1085,04/10/2013,"Rainforest Cafe",32.00,restaurants
-1086,05/14/2013,"Scolari's Food and Drug",188.00,grocery
-1088,05/08/2013,"Speedway",57.00,transportation
-1089,05/30/2013,"subway",84.00,transportation
-1090,05/17/2013,"Gas City, Ltd.",39.00,transportation
-1091,05/28/2013,"Travelcenters of America",97.00,transportation
-1092,05/31/2013,"Flying J",99.00,transportation
-1093,05/01/2013,"7-Eleven brand gasoline",98.00,transportation
-1094,05/14/2013,"JetBlue",100.00,transportation
-1095,05/04/2013,"Netflix",29.00,entertainment
-1096,05/19/2013,"Rite aid",206.00,home
-1097,05/15/2013,"Walmart",219.00,home
-1098,05/20/2013,"Home Depot",422.00,home
-1099,05/23/2013,"walgreens",280.00,home
-1100,05/21/2013,"American Eagle",156.00,shopping
-1101,05/28/2013,"Elder-Beerman",140.00,shopping
-1102,05/26/2013,"Sears Essentials",110.00,shopping
-1103,05/16/2013,"American Eagle",54.00,shopping
-1104,05/05/2013,"Comcast",244.00,utilities
-1105,05/18/2013,"Friendly's",20.00,restaurants
-1107,05/22/2013,"Sneaky Pete's",32.00,restaurants
-1108,05/06/2013,"Dairy Queen",12.00,restaurants
-1109,05/31/2013,"FATZ",24.00,restaurants
-1110,05/01/2013,"Redstone American Grill",50.00,restaurants
-1111,05/06/2013,"Roy's",40.00,restaurants
-1112,05/18/2013,"Blimpie",42.00,restaurants
-1113,05/02/2013,"Captain D's",23.00,restaurants
-1114,05/04/2013,"Denny's",11.00,restaurants
-1115,06/18/2013,"Food City",32.00,grocery
-1116,06/28/2013,"subway",39.00,transportation
-1117,06/24/2013,"JetBlue",78.00,transportation
-1118,06/27/2013,"Travelcenters of America",92.00,transportation
-1119,06/13/2013,"Chevron",98.00,transportation
-1120,06/12/2013,"Chevron",88.00,transportation
-1121,06/05/2013,"Chevron",51.00,transportation
-1122,06/09/2013,"Cinemark",5.00,entertainment
-1123,06/03/2013,"family christian stores",27.00,entertainment
-1124,06/15/2013,"Staples",94.00,home
-1125,06/21/2013,"Home Depot",321.00,home
-1126,06/14/2013,"Bergdorf Goodman",58.00,shopping
-1127,06/18/2013,"Ebaybv",70.00,shopping
-1128,06/09/2013,"Off 5th Saks Fifth Avenue Outlet",90.00,shopping
-1129,06/20/2013,"Hollister",132.00,shopping
-1130,06/27/2013,"H&M",116.00,shopping
-1131,06/03/2013,"utilities",90.00,utilities
-1132,06/24/2013,"Dunkin' Donuts",19.00,restaurants
-1133,07/15/2013,"Roundy's",158.00,grocery
-1134,07/10/2013,"Exxon",85.00,transportation
-1135,07/07/2013,"bus",85.00,transportation
-1136,07/23/2013,"Speedway",21.00,transportation
-1137,07/28/2013,"Valero",91.00,transportation
-1138,07/02/2013,"Flying J",82.00,transportation
-1139,07/12/2013,"barns & noble",21.00,entertainment
-1142,07/05/2013,"Costco",361.00,home
-1143,07/17/2013,"Ikea",177.00,home
-1144,07/06/2013,"Lowes",466.00,home
-1146,07/07/2013,"Bonefish Grill",43.00,restaurants
-1147,07/26/2013,"Golden Corral",22.00,restaurants
-1544,07/26/2013,"Kroger brand gasoline",94.00,transportation
-1148,08/08/2013,"CAM Asian Market",193.00,grocery
-1149,08/05/2013,"Marathon Oil",98.00,transportation
-1150,08/07/2013,"Southwest",68.00,transportation
-1151,08/20/2013,"Delta",81.00,transportation
-1152,08/01/2013,"Southwest",25.00,transportation
-1153,08/27/2013,"deseret book",5.00,entertainment
-1154,08/28/2013,"Kirkland's",284.00,home
-1155,08/23/2013,"Staples",305.00,home
-1156,08/07/2013,"6pm",214.00,home
-1157,08/06/2013,"Ledo Pizza",14.00,restaurants
-1158,08/27/2013,"Naugles",16.00,restaurants
-1159,08/08/2013,"RA Sushi",16.00,restaurants
-1160,08/16/2013,"Cracker Barrel Old Country Store",33.00,restaurants
-1161,09/07/2013,"Shop n' Save",68.00,grocery
-1162,09/20/2013,"Arteagas Food Center",171.00,grocery
-1163,09/09/2013,"Travelcenters of America",69.00,transportation
-1164,09/12/2013,"Gas City, Ltd.",89.00,transportation
-1165,09/30/2013,"American Airlines",52.00,transportation
-1166,09/08/2013,"Shell",69.00,transportation
-1167,09/28/2013,"Royal Farms",83.00,transportation
-1168,09/29/2013,"books a million",28.00,entertainment
-1169,09/06/2013,"books",29.00,entertainment
-1170,09/08/2013,"Bergdorf Goodman",180.00,shopping
-1171,09/03/2013,"Bergdorf Goodman",77.00,shopping
-1172,09/23/2013,"Lord & Taylor",77.00,shopping
-1173,09/24/2013,"Sears",112.00,shopping
-1174,09/01/2013,"T-Mobile",202.00,utilities
-1175,09/05/2013,"Valentino's",23.00,restaurants
-1176,09/23/2013,"Braum's",40.00,restaurants
-1177,09/29/2013,"El Pollo Loco",25.00,restaurants
-1178,10/19/2013,"CAM Asian Market",89.00,grocery
-1179,10/07/2013,"Nugget Markets",155.00,grocery
-1180,10/24/2013,"Sheetz",87.00,transportation
-1181,10/19/2013,"Amtrak",58.00,transportation
-1182,10/01/2013,"JetBlue",64.00,transportation
-1183,10/31/2013,"dvds",12.00,entertainment
-1184,10/01/2013,"Cinemark",22.00,entertainment
-1185,10/04/2013,"H&M",70.00,shopping
-1186,10/25/2013,"Dish Network",137.00,utilities
-1187,10/23/2013,"Jack in the Box",5.00,restaurants
-1188,10/04/2013,"Wendy's",33.00,restaurants
-1189,10/18/2013,"Swensons",6.00,restaurants
-1190,10/13/2013,"Marie Callender's",19.00,restaurants
-1192,11/04/2013,"Getty",56.00,transportation
-1193,11/21/2013,"Mobil",22.00,transportation
-1194,11/09/2013,"BP",99.00,transportation
-1195,11/19/2013,"Love's",80.00,transportation
-1196,11/05/2013,"Amtrak",24.00,transportation
-1197,11/02/2013,"Travelcenters of America",22.00,transportation
-1198,11/23/2013,"Hess",61.00,transportation
-1199,11/24/2013,"follett's",29.00,entertainment
-1200,11/20/2013,"joseph-beth booksellers",25.00,entertainment
-1201,11/16/2013,"Newegg",360.00,home
-1202,11/22/2013,"Staples",470.00,home
-1203,11/13/2013,"Target",390.00,home
-1204,11/04/2013,"bestbuy",350.00,home
-1205,11/12/2013,"Aeropostale",188.00,shopping
-1206,11/25/2013,"Carson Pirie Scott",107.00,shopping
-1207,11/01/2013,"Barneys New York",90.00,shopping
-1208,11/02/2013,"Off 5th Saks Fifth Avenue Outlet",50.00,shopping
-1209,11/10/2013,"verizon",284.00,utilities
-1210,11/07/2013,"Comcast",280.00,utilities
-1211,11/07/2013,"Pei Wei Asian Diner",36.00,restaurants
-1212,11/26/2013,"Rubio's Fresh Mexican Grill",23.00,restaurants
-1213,11/05/2013,"Church's",7.00,restaurants
-1214,11/26/2013,"Rubio's Fresh Mexican Grill",20.00,restaurants
-1216,12/12/2013,"MARTA",66.00,transportation
-1217,12/18/2013,"Citgo",62.00,transportation
-1218,12/04/2013,"subway",47.00,transportation
-1219,12/15/2013,"Chevron",92.00,transportation
-1221,12/25/2013,"Kroger brand gasoline",29.00,transportation
-1223,12/31/2013,"Amoco",68.00,transportation
-1224,12/19/2013,"movies",22.00,entertainment
-1225,12/07/2013,"Radioshack",421.00,home
-1226,12/22/2013,"hhgregg",170.00,home
-1227,12/31/2013,"hhgregg",404.00,home
-1228,12/08/2013,"Saks Fifth Avenue",200.00,shopping
-1229,12/04/2013,"Nordstrom",199.00,shopping
-1230,12/06/2013,"Kohl's",59.00,shopping
-1231,12/13/2013,"Herberger's",168.00,shopping
-1232,12/28/2013,"Hollister",105.00,shopping
-1233,12/11/2013,"DirectTV",227.00,utilities
-1234,12/10/2013,"metropcs",217.00,utilities
-1235,12/23/2013,"Swensen's",42.00,restaurants
-1236,12/14/2013,"Papa John's Pizza",43.00,restaurants
-1238,12/01/2013,"Ponderosa Steakhouse and Bonanza Steakhouse",11.00,restaurants
-1239,12/12/2013,"CiCi's Pizza",36.00,restaurants
-1240,12/01/2013,"Hooters",18.00,restaurants
-1241,12/17/2013,"restaurants",17.00,restaurants
-1243,01/08/2012,"Elder-Beerman",149.00,shopping
-1244,01/07/2012,"Chili's",36.00,restaurants
-1245,01/18/2012,"Panera Bread",34.00,restaurants
-1246,01/21/2012,"Red Hot & Blue",18.00,restaurants
-1247,02/11/2012,"Meijer",29.00,grocery
-1248,02/07/2012,"Gulf",59.00,transportation
-1249,02/13/2012,"Amtrak",84.00,transportation
-1250,02/13/2012,"Gulf",79.00,transportation
-1252,02/14/2012,"Hess",37.00,transportation
-1253,02/28/2012,"Exxon",80.00,transportation
-1254,02/02/2012,"Love's",24.00,transportation
-1255,02/15/2012,"Amtrak",49.00,transportation
-1256,02/07/2012,"shakespeare and company",15.00,entertainment
-1258,02/16/2012,"strand book store",13.00,entertainment
-1259,02/15/2012,"Walmart",455.00,home
-1260,02/24/2012,"hhgregg",310.00,home
-1261,02/23/2012,"GAP",191.00,shopping
-1262,02/10/2012,"Last Call Neiman Marcus",164.00,shopping
-1263,02/03/2012,"Carson Pirie Scott",168.00,shopping
-1264,02/22/2012,"T-Mobile",238.00,utilities
-1265,02/26/2012,"Georgia Power",232.00,utilities
-1266,02/23/2012,"Checkers",48.00,restaurants
-1267,02/06/2012,"FATZ",8.00,restaurants
-1268,02/24/2012,"Auntie Anne's",22.00,restaurants
-1269,02/13/2012,"Lone Star Steakhouse & Saloon",24.00,restaurants
-1270,02/14/2012,"Sbarro",28.00,restaurants
-1271,02/21/2012,"Joe's Crab Shack",5.00,restaurants
-1275,03/26/2012,"Hollister",126.00,shopping
-1276,03/30/2012,"Von Maur",125.00,shopping
-1277,03/14/2012,"Sears Essentials",200.00,shopping
-1278,03/28/2012,"Last Call Neiman Marcus",50.00,shopping
-1279,03/07/2012,"DirectTV",110.00,utilities
-1280,03/06/2012,"Long John Silver's",49.00,restaurants
-1281,03/22/2012,"Landry's Restaurants",40.00,restaurants
-1282,03/14/2012,"Jason's Deli",20.00,restaurants
-1283,03/15/2012,"Roy's",37.00,restaurants
-1284,03/16/2012,"Outback Steakhouse",40.00,restaurants
-1285,03/28/2012,"Whataburger",11.00,restaurants
-1287,04/25/2012,"Flying J",39.00,transportation
-1288,04/11/2012,"Phillips 66",61.00,transportation
-1289,04/25/2012,"RaceTrac/Raceway",34.00,transportation
-1290,04/08/2012,"hastings entertainment",20.00,entertainment
-1292,04/10/2012,"half price books",22.00,entertainment
-1293,04/26/2012,"hhgregg",246.00,home
-1294,04/29/2012,"Neiman Marcus",131.00,shopping
-1295,04/26/2012,"utilities",187.00,utilities
-1296,04/01/2012,"The Original Italian Pie",26.00,restaurants
-1297,04/27/2012,"Denny's",50.00,restaurants
-1298,04/09/2012,"Roy Rogers Restaurants",5.00,restaurants
-1299,04/14/2012,"Popeyes Chicken & Biscuits",6.00,restaurants
-1300,04/24/2012,"York Steak House",28.00,restaurants
-1301,04/23/2012,""	"",39.00,restaurants
-1302,04/22/2012,"Godfather's Pizza",14.00,restaurants
-1303,04/17/2012,"York Steak House",14.00,restaurants
-1304,04/05/2012,"Robeks",47.00,restaurants
-1305,05/27/2012,"Sentry Foods",25.00,grocery
-1306,05/18/2012,"Marsh",22.00,grocery
-1307,05/26/2012,"Food Lion",138.00,grocery
-1308,05/18/2012,"Murphy USA",54.00,transportation
-1309,05/21/2012,"Mobil",52.00,transportation
-1310,05/16/2012,"QuickChek",54.00,transportation
-1311,05/18/2012,"JetBlue",96.00,transportation
-1312,05/27/2012,"QuickChek",55.00,transportation
-1313,05/29/2012,"BP",74.00,transportation
-1314,05/13/2012,"dvd",21.00,entertainment
-1316,05/11/2012,"Cheddar's Casual Café",48.00,restaurants
-1317,05/30/2012,"Carrows",46.00,restaurants
-1318,05/12/2012,"Stir Crazy",43.00,restaurants
-1320,05/24/2012,"McAlister's Deli",46.00,restaurants
-1321,05/26/2012,"Smokey Bones",41.00,restaurants
-1322,05/27/2012,"Waffle House",43.00,restaurants
-1323,05/06/2012,"Tilted Kilt",30.00,restaurants
-1324,05/24/2012,"Papa John's Pizza",15.00,restaurants
-1325,06/22/2012,"Walmart Supercenters",98.00,grocery
-1326,06/03/2012,"Speedway",59.00,transportation
-1327,06/09/2012,"QuickChek",29.00,transportation
-1328,06/17/2012,"QuikTrip",92.00,transportation
-1329,06/18/2012,"cinema",28.00,entertainment
-1330,06/23/2012,"barns & noble",24.00,entertainment
-1331,06/22/2012,"Walmart",52.00,home
-1332,06/11/2012,"Belk",102.00,shopping
-1333,06/02/2012,"Macy's",147.00,shopping
-1334,06/09/2012,"H&M",33.00,shopping
-1335,06/28/2012,"Georgia Power",241.00,utilities
-1336,06/29/2012,"Tennesse Valley Authority",298.00,utilities
-1337,06/11/2012,"Jason's Deli",21.00,restaurants
-1338,06/10/2012,"Wienerschnitzel",18.00,restaurants
-1339,07/20/2012,"United",102.00,grocery
-1340,07/16/2012,"Houchens Industries",93.00,grocery
-1341,07/12/2012,"Brookshire Brothers",175.00,grocery
-1342,07/12/2012,"Lowes",117.00,home
-1343,07/19/2012,"Sears",23.00,shopping
-1344,07/16/2012,"Sears",47.00,shopping
-1345,07/01/2012,"American Eagle",81.00,shopping
-1346,07/23/2012,"metropcs",71.00,utilities
-1347,07/28/2012,"Alabama Power",238.00,utilities
-1349,07/05/2012,"Outback Steakhouse",10.00,restaurants
-1350,07/12/2012,"Hardee's",11.00,restaurants
-1351,07/29/2012,"Subway",18.00,restaurants
-1352,07/06/2012,"Ben & Jerry's",21.00,restaurants
-1353,07/13/2012,"Popeyes Chicken & Biscuits",28.00,restaurants
-1354,07/18/2012,"Subway",7.00,restaurants
-1355,08/18/2012,"Sinclair",35.00,transportation
-1356,08/30/2012,"76",96.00,transportation
-1357,08/23/2012,"Southwest",38.00,transportation
-1359,08/20/2012,"BP",55.00,transportation
-1360,08/16/2012,"76",53.00,transportation
-1362,08/02/2012,"Regal",22.00,entertainment
-1363,08/25/2012,"Rite aid",223.00,home
-1364,08/18/2012,"Office Depot",363.00,home
-1365,08/22/2012,"American Eagle",150.00,shopping
-1366,08/03/2012,"Amazon.com",85.00,shopping
-1367,08/04/2012,"Amazon.com",120.00,shopping
-1369,08/25/2012,"DirectTV",274.00,utilities
-1370,08/10/2012,"Dave & Buster's",16.00,restaurants
-1371,08/31/2012,"The Melting Pot",6.00,restaurants
-1372,08/02/2012,"Seattle's Best Coffee",39.00,restaurants
-1373,08/07/2012,"Ground Round",27.00,restaurants
-1374,08/06/2012,"Jerry's Subs & Pizza",17.00,restaurants
-1375,08/19/2012,"Chi-Chi's",11.00,restaurants
-1376,08/12/2012,"Rally's",10.00,restaurants
-1377,08/21/2012,"Braum's",38.00,restaurants
-1378,09/16/2012,"Gelson's Markets",180.00,grocery
-1379,09/22/2012,"Lowes",281.00,home
-1380,09/28/2012,"Southern Company",298.00,utilities
-1381,09/18/2012,"utility",86.00,utilities
-1382,09/16/2012,"Qdoba Mexican Grill",26.00,restaurants
-1383,09/23/2012,"bakery",38.00,restaurants
-1384,09/16/2012,"Roy Rogers Restaurants",50.00,restaurants
-1385,09/03/2012,"Noodles & Company",23.00,restaurants
-1386,10/01/2012,"Flying J",79.00,transportation
-1387,10/30/2012,"Shell",29.00,transportation
-1388,10/31/2012,"half price books",23.00,entertainment
-1389,10/19/2012,"barns and noble",10.00,entertainment
-1390,10/21/2012,"officemax",192.00,home
-1391,10/15/2012,"The Bon-Ton",22.00,shopping
-1393,10/14/2012,"Belk",61.00,shopping
-1395,10/03/2012,"Checkers",7.00,restaurants
-1396,10/20/2012,"bakery",15.00,restaurants
-1397,10/03/2012,"Pizza Hut",38.00,restaurants
-1398,10/10/2012,"Gatti's Pizza",21.00,restaurants
-1399,10/31/2012,"York Steak House",25.00,restaurants
-1400,10/02/2012,"Taco Bell",23.00,restaurants
-1401,10/02/2012,"FATZ",29.00,restaurants
-1402,11/06/2012,"Quality Foods",111.00,grocery
-1404,11/23/2012,"Foodland",180.00,grocery
-1405,11/08/2012,"follett's",12.00,entertainment
-1406,11/27/2012,"movies",5.00,entertainment
-1407,11/09/2012,"hastings entertainment",26.00,entertainment
-1408,11/22/2012,"Newegg",322.00,home
-1409,11/06/2012,"Lowes",460.00,home
-1410,11/19/2012,"CVS",61.00,home
-1411,11/15/2012,"Aeropostale",43.00,shopping
-1412,11/25/2012,"Off 5th Saks Fifth Avenue Outlet",52.00,shopping
-1413,11/10/2012,"Bloomingdale's",178.00,shopping
-1414,11/23/2012,"Younkers",125.00,shopping
-1415,11/30/2012,"Dillard's",77.00,shopping
-1416,11/01/2012,"Shane's Rib Shack",26.00,restaurants
-1417,11/18/2012,"Black-eyed Pea",48.00,restaurants
-1418,12/24/2012,"Super 88 Market",96.00,grocery
-1419,12/05/2012,"Western Family Foods",165.00,grocery
-1420,12/05/2012,"Seller's Brothers",21.00,grocery
-1421,12/15/2012,"Getty",47.00,transportation
-1422,12/23/2012,"Getty",53.00,transportation
-1424,12/16/2012,"home",334.00,home
-1426,12/09/2012,"Walmart",367.00,home
-1427,12/25/2012,"6pm",55.00,home
-1428,12/20/2012,"Last Call Neiman Marcus",79.00,shopping
-1429,12/29/2012,"The Bon-Ton",140.00,shopping
-1430,12/07/2012,"Aeropostale",48.00,shopping
-1431,12/21/2012,"Amazon",117.00,shopping
-1432,12/14/2012,"Last Call Neiman Marcus",154.00,shopping
-1433,12/06/2012,"utility",270.00,utilities
-1434,12/24/2012,"Tennesse Valley Authority",155.00,utilities
-1436,12/02/2012,"dining",9.00,restaurants
-1437,12/02/2012,"Cracker Barrel Old Country Store",32.00,restaurants
-1438,01/11/2013,"Exxon",100.00,transportation
-1439,01/22/2013,"76",24.00,transportation
-1440,01/17/2013,"books inc",6.00,entertainment
-1441,01/15/2013,"lifeway christian resources",7.00,entertainment
-1443,01/23/2013,"bestbuy",299.00,home
-1445,01/16/2013,"bestbuy",332.00,home
-1446,01/28/2013,"JCPenney",39.00,shopping
-1447,01/12/2013,"Younkers",179.00,shopping
-1448,01/21/2013,"Redstone American Grill",7.00,restaurants
-1449,01/09/2013,"Pei Wei Asian Diner",29.00,restaurants
-1450,01/29/2013,"Twin Peaks",5.00,restaurants
-1451,01/01/2013,"Fuddruckers",38.00,restaurants
-1452,02/15/2013,"JetBlue",53.00,transportation
-1453,02/03/2013,"printsasia",29.00,entertainment
-1454,02/24/2013,"tree of life christian outlet",20.00,entertainment
-1455,02/28/2013,"Sears",47.00,shopping
-1456,02/01/2013,"Aeropostale",162.00,shopping
-1457,02/18/2013,"Last Call Neiman Marcus",162.00,shopping
-1458,02/24/2013,"Bergner's",45.00,shopping
-1459,02/06/2013,"Braum's",43.00,restaurants
-1460,02/10/2013,"The Melting Pot",44.00,restaurants
-1461,02/17/2013,"Boston Market",8.00,restaurants
-1463,02/01/2013,"Culver's",12.00,restaurants
-1464,02/08/2013,"National Coney Island",42.00,restaurants
-1466,02/07/2013,"Eat'n Park",47.00,restaurants
-1467,03/28/2013,"Compare Foods Supermarket",113.00,grocery
-1468,03/11/2013,"Bruno's Supermarkets",197.00,grocery
-1469,03/30/2013,"Royal Farms",86.00,transportation
-1470,03/07/2013,"Delta",66.00,transportation
-1471,03/04/2013,"Texaco",50.00,transportation
-1472,03/30/2013,"76",42.00,transportation
-1473,03/08/2013,"Target",60.00,home
-1474,03/22/2013,"bestbuy",262.00,home
-1475,03/27/2013,"JCPenney",88.00,shopping
-1476,03/16/2013,"The Bon-Ton",97.00,shopping
-1477,03/08/2013,"Nordstrom",67.00,shopping
-1478,03/14/2013,"Neiman Marcus",33.00,shopping
-1479,03/28/2013,"Lord & Taylor",109.00,shopping
-1480,03/06/2013,"metropcs",52.00,utilities
-1481,03/19/2013,"Hobee's Restaurant",25.00,restaurants
-1483,04/24/2013,"bus",63.00,transportation
-1484,04/24/2013,"books inc",13.00,entertainment
-1485,04/09/2013,"Hulu",16.00,entertainment
-1486,04/03/2013,"itunes",27.00,entertainment
-1487,04/30/2013,"Costco",13.00,home
-1488,04/12/2013,"Newegg",427.00,home
-1489,04/12/2013,"Costco",347.00,home
-1490,04/14/2013,"hhgregg",127.00,home
-1491,04/21/2013,"Dillard's",180.00,shopping
-1494,04/17/2013,"Trader Vic's",29.00,restaurants
-1495,04/09/2013,"National Coney Island",33.00,restaurants
-1497,04/17/2013,"Chuck E. Cheese's",30.00,restaurants
-1498,04/17/2013,"Fatburger",39.00,restaurants
-1499,05/19/2013,"Travelcenters of America",25.00,transportation
-1500,05/02/2013,"7-Eleven brand gasoline",45.00,transportation
-1501,05/18/2013,"Sunoco",59.00,transportation
-1502,05/30/2013,"MARTA",27.00,transportation
-1503,05/16/2013,"BP",92.00,transportation
-1504,05/31/2013,"games",13.00,entertainment
-1505,05/22/2013,"6pm",327.00,home
-1507,05/22/2013,"Costco",36.00,home
-1508,05/24/2013,"CVS",216.00,home
-1509,05/06/2013,"Lord & Taylor",192.00,shopping
-1510,05/27/2013,"Neiman Marcus",100.00,shopping
-1511,05/10/2013,"Herberger's",96.00,shopping
-1512,05/25/2013,"Macy's",37.00,shopping
-1513,05/10/2013,"JCPenney",200.00,shopping
-1514,05/20/2013,"Chuck E. Cheese's",37.00,restaurants
-1515,05/07/2013,"Quaker Steak & Lube",15.00,restaurants
-1516,05/02/2013,"Which Wich?",45.00,restaurants
-1517,05/14/2013,"Taco Time",7.00,restaurants
-1518,05/10/2013,"Cracker Barrel Old Country Store",32.00,restaurants
-1519,05/27/2013,"KFC",24.00,restaurants
-1520,05/18/2013,"Sneaky Pete's",29.00,restaurants
-1523,06/28/2013,"Costco",150.00,home
-1524,06/25/2013,"Belk",133.00,shopping
-1525,06/17/2013,"Bergdorf Goodman",43.00,shopping
-1526,06/05/2013,"Neiman Marcus",54.00,shopping
-1527,06/02/2013,"Ebaybv",196.00,shopping
-1528,06/21/2013,"Boscov's",88.00,shopping
-1529,06/03/2013,"verizon",241.00,utilities
-1530,06/09/2013,"Sprint",115.00,utilities
-1531,06/08/2013,"Bubba Gump Shrimp Company",41.00,restaurants
-1532,06/14/2013,"A&W Restaurants",50.00,restaurants
-1533,06/28/2013,"White Castle",15.00,restaurants
-1534,06/04/2013,"Pizza Inn",28.00,restaurants
-1535,06/09/2013,"Taco John's",30.00,restaurants
-1536,06/28/2013,"Fleming's Prime Steakhouse & Wine Bar",13.00,restaurants
-1537,06/30/2013,"Green Burrito",49.00,restaurants
-1538,06/01/2013,"Naugles",35.00,restaurants
-1539,06/02/2013,"California Pizza Kitchen",43.00,restaurants
-1540,07/27/2013,"Acme Fresh Market",99.00,grocery
-1541,07/16/2013,"Meijer",156.00,grocery
-1542,07/14/2013,"New Deal Market",104.00,grocery
-1543,07/27/2013,"Wawa",89.00,transportation
-1545,07/17/2013,"QuikTrip",79.00,transportation
-1546,07/09/2013,"Kroger brand gasoline",91.00,transportation
-1547,07/21/2013,"Cumberland Farms",42.00,transportation
-1548,07/29/2013,"Boscov's",78.00,shopping
-1549,07/08/2013,"Barneys New York",78.00,shopping
-1550,07/30/2013,"Blimpie",19.00,restaurants
-1551,08/09/2013,"Safeway Inc.",100.00,grocery
-1553,08/17/2013,"D&W Food Centers",79.00,grocery
-1554,08/09/2013,"books a million",6.00,entertainment
-1555,08/20/2013,"shakespeare and company",21.00,entertainment
-1556,08/23/2013,"AMC",24.00,entertainment
-1557,08/18/2013,"Elder-Beerman",149.00,shopping
-1558,08/19/2013,"Green Burrito",37.00,restaurants
-1559,08/09/2013,"Quaker Steak & Lube",34.00,restaurants
-1560,08/30/2013,"Captain D's",16.00,restaurants
-1561,08/31/2013,"Burger King",12.00,restaurants
-1562,08/17/2013,"Naugles",12.00,restaurants
-1563,08/21/2013,"KFC",16.00,restaurants
-1565,08/27/2013,"Coco's Bakery",22.00,restaurants
-1566,08/03/2013,"Carino's Italian Grill",41.00,restaurants
-1567,09/08/2013,"DeMoulas' Market Basket",95.00,grocery
-1570,09/12/2013,"Gulf",47.00,transportation
-1571,09/26/2013,"76",79.00,transportation
-1572,09/27/2013,"Shell",98.00,transportation
-1573,09/21/2013,"Carnival",52.00,transportation
-1574,09/23/2013,"Amoco",100.00,transportation
-1575,09/21/2013,"gas",37.00,transportation
-1576,09/15/2013,"Sinclair",57.00,transportation
-1577,09/08/2013,"Citgo",71.00,transportation
-1578,09/16/2013,"Hulu",25.00,entertainment
-1579,09/10/2013,"lifeway christian resources",17.00,entertainment
-1581,09/24/2013,"Costco",59.00,home
-1582,09/17/2013,"Target",384.00,home
-1583,09/03/2013,"Comcast",59.00,utilities
-1584,10/27/2013,"Kroger",63.00,grocery
-1585,10/22/2013,"Wakefern Food Corporation",59.00,grocery
-1586,10/06/2013,"Earth Fare",38.00,grocery
-1587,10/07/2013,"Love's",42.00,transportation
-1588,10/02/2013,"Shell",62.00,transportation
-1589,10/31/2013,"Murphy USA",34.00,transportation
-1590,10/03/2013,"Shell",39.00,transportation
-1591,10/28/2013,"BP",87.00,transportation
-1592,10/28/2013,"CVS",333.00,home
-1593,10/11/2013,"Home Depot",136.00,home
-1594,10/16/2013,"Bergdorf Goodman",73.00,shopping
-1595,10/05/2013,"Big Boy",15.00,restaurants
-1596,10/28/2013,"Camille's Sidewalk Cafe",36.00,restaurants
-1597,10/23/2013,"Sticky Fingers",37.00,restaurants
-1598,10/19/2013,"RA Sushi",31.00,restaurants
-1599,10/30/2013,"Cheesecake Factory",23.00,restaurants
-1600,11/17/2013,"Thrift Way/Shop n Bag",99.00,grocery
-1601,11/18/2013,"Sunoco",26.00,transportation
-1602,11/23/2013,"Shell",75.00,transportation
-1603,11/10/2013,"Southwest",99.00,transportation
-1604,11/11/2013,"Carnival",86.00,transportation
-1605,11/11/2013,"subway",69.00,transportation
-1606,11/17/2013,"76",64.00,transportation
-1607,11/27/2013,"books a million",19.00,entertainment
-1608,11/14/2013,"Hulu",12.00,entertainment
-1609,11/02/2013,"Best Buy",208.00,home
-1610,11/02/2013,"Radioshack",365.00,home
-1611,11/01/2013,"Belk",57.00,shopping
-1612,11/04/2013,"DirectTV",210.00,utilities
-1614,11/21/2013,"Ledo Pizza",9.00,restaurants
-1615,12/18/2013,"books inc",19.00,entertainment
-1616,12/24/2013,"Netflix",20.00,entertainment
-1617,12/18/2013,"Elder-Beerman",58.00,shopping
-1618,12/06/2013,"Sears Essentials",95.00,shopping
-1620,12/27/2013,"Eegee's",43.00,restaurants
-1621,12/18/2013,"Gatti's Pizza",42.00,restaurants
-1622,12/27/2013,"Krystal",17.00,restaurants
-1623,12/09/2013,"Farmer Boys",25.00,restaurants
-1624,12/06/2013,"Ponderosa Steakhouse and Bonanza Steakhouse",41.00,restaurants
+1,01/04/2012,"train",95.00,transportation
+2,01/15/2012,"Flying J",85.00,transportation
+3,01/28/2012,"Texaco",89.00,transportation
+4,01/13/2012,"train",49.00,transportation
+5,01/19/2012,"Citgo",95.00,transportation
+6,01/10/2012,"Valero",51.00,transportation
+7,01/05/2012,"Chevron",30.00,transportation
+8,01/27/2012,"BP",75.00,transportation
+9,01/11/2012,"Cinemark",15.00,entertainment
+10,01/13/2012,"Best Buy",409.00,home
+11,01/28/2012,"Home Depot",403.00,home
+12,01/09/2012,"Rite aid",464.00,home
+13,01/09/2012,"Amazon.com",139.00,shopping
+14,01/18/2012,"Boscov's",70.00,shopping
+15,01/02/2012,"Qdoba Mexican Grill",23.00,restaurants
+16,01/14/2012,"RA Sushi",18.00,restaurants
+17,01/22/2012,"Gino's Pizza and Spaghetti",20.00,restaurants
+877,01/15/2012,"Off 5th Saks Fifth Avenue Outlet",34.00,shopping
+18,02/03/2012,"Minyard's",58.00,grocery
+19,02/04/2012,"schuler books & music",24.00,entertainment
+20,02/04/2012,"deseret book",9.00,entertainment
+21,02/23/2012,"Kirkland's",68.00,home
+22,02/01/2012,"walgreens",419.00,home
+23,02/06/2012,"Aeropostale",172.00,shopping
+24,02/21/2012,"Amazon",86.00,shopping
+25,02/02/2012,"BJ's Restaurant & Brewery",41.00,restaurants
+26,02/24/2012,"Cheddar's Casual Café",42.00,restaurants
+27,02/04/2012,"Elephant Bar",42.00,restaurants
+28,02/28/2012,"Arby's",21.00,restaurants
+29,02/28/2012,"Howard Johnson's",46.00,restaurants
+30,02/17/2012,"Black-eyed Pea",48.00,restaurants
+31,02/06/2012,"Mazzio's Italian Eatery",33.00,restaurants
+32,02/02/2012,"EatZi's",37.00,restaurants
+33,02/12/2012,"Applebee's",23.00,restaurants
+34,02/06/2012,"Chronic Tacos",33.00,restaurants
+460,02/02/2012,"Charlie Brown's Steakhouse",16.00,restaurants
+887,02/16/2012,"MARTA",84.00,transportation
+892,02/19/2012,"Conoco",64.00,transportation
+893,02/01/2012,"Shell",83.00,transportation
+1362,02/04/2012,"Uno Chicago Grill",45.00,restaurants
+35,03/02/2012,"Fairway Market",120.00,grocery
+36,03/10/2012,"Super Market Mexico",93.00,grocery
+37,03/15/2012,"Stater Brothers",56.00,grocery
+38,03/23/2012,"Amtrak",74.00,transportation
+39,03/06/2012,"Staples",301.00,home
+40,03/08/2012,"officemax",53.00,home
+41,03/02/2012,"Ikea",240.00,home
+42,03/09/2012,"Hollister",176.00,shopping
+43,03/25/2012,"Tennesse Valley Authority",105.00,utilities
+44,03/27/2012,"Sprint",152.00,utilities
+45,03/30/2012,"Dave & Buster's",19.00,restaurants
+46,03/31/2012,"Pita Pit",35.00,restaurants
+47,03/17/2012,"Sweet Tomatoes",28.00,restaurants
+48,03/28/2012,"Braum's",35.00,restaurants
+465,03/20/2012,"QuikTrip",53.00,transportation
+916,03/23/2012,"Twin Peaks",35.00,restaurants
+917,03/21/2012,"Braum's",24.00,restaurants
+1375,03/15/2012,"Cheeburger Cheeburger",50.00,restaurants
+49,04/27/2012,"Associated Grocers of New England",66.00,grocery
+50,04/13/2012,"QuikTrip",40.00,transportation
+51,04/26/2012,"blockbuster",11.00,entertainment
+52,04/23/2012,"Home Depot",407.00,home
+53,04/20/2012,"Target",225.00,home
+54,04/20/2012,"Herberger's",189.00,shopping
+55,04/18/2012,"Macy's",117.00,shopping
+56,04/14/2012,"Last Call Neiman Marcus",165.00,shopping
+57,04/10/2012,"Sears",77.00,shopping
+58,04/15/2012,"Landry's Restaurants",43.00,restaurants
+59,04/20/2012,"Camille's Sidewalk Cafe",32.00,restaurants
+60,04/10/2012,"Outback Steakhouse",45.00,restaurants
+61,04/13/2012,"Jerry's Subs & Pizza",48.00,restaurants
+481,04/07/2012,"Staples",333.00,home
+62,05/10/2012,"Associated Supermarkets",73.00,grocery
+63,05/11/2012,"Associated Grocers of New England",118.00,grocery
+64,05/11/2012,"MARTA",67.00,transportation
+65,05/19/2012,"Texaco",92.00,transportation
+66,05/31/2012,"Chevron",95.00,transportation
+67,05/19/2012,"Texaco",95.00,transportation
+68,05/03/2012,"games",24.00,entertainment
+69,05/10/2012,"hudson news",10.00,entertainment
+70,05/07/2012,"game",13.00,entertainment
+71,05/07/2012,"Bergner's",49.00,shopping
+72,05/02/2012,"Alabama Power",236.00,utilities
+73,05/21/2012,"Southern Company",67.00,utilities
+74,05/21/2012,"Papa John's Pizza",45.00,restaurants
+493,05/05/2012,"Yoke's Fresh Market",84.00,grocery
+501,05/02/2012,"Radioshack",47.00,home
+948,05/15/2012,"Sears Essentials",141.00,shopping
+950,05/22/2012,"Att.com",278.00,utilities
+1408,05/24/2012,"Qdoba Mexican Grill",30.00,restaurants
+75,06/10/2012,"Quality Markets",105.00,grocery
+76,06/07/2012,"Phillips 66",61.00,transportation
+77,06/27/2012,"Citgo",53.00,transportation
+78,06/02/2012,"dvd",25.00,entertainment
+79,06/11/2012,"dvd",21.00,entertainment
+80,06/16/2012,"Home Depot",156.00,home
+81,06/28/2012,"Ikea",176.00,home
+82,06/19/2012,"walgreens",231.00,home
+83,06/29/2012,"Pita Pit",23.00,restaurants
+84,06/15/2012,"Long John Silver's",22.00,restaurants
+85,06/30/2012,"Lee Roy Selmon's",24.00,restaurants
+86,06/28/2012,"Lyon's",41.00,restaurants
+87,06/08/2012,"Don Pablo's",12.00,restaurants
+88,06/09/2012,"Green Burrito",45.00,restaurants
+89,06/10/2012,"Luby's",50.00,restaurants
+90,06/20/2012,""	"",38.00,restaurants
+91,06/06/2012,"Seattle's Best Coffee",40.00,restaurants
+520,06/06/2012,"Kroger brand gasoline",75.00,transportation
+521,06/14/2012,"Mobil",28.00,transportation
+1432,06/11/2012,"Papa John's Pizza",26.00,restaurants
+92,07/16/2012,"Flying J",41.00,transportation
+93,07/09/2012,"Pilot",50.00,transportation
+94,07/02/2012,"American Airlines",60.00,transportation
+95,07/22/2012,"Pilot",79.00,transportation
+96,07/06/2012,"ferry",30.00,transportation
+97,07/29/2012,"Murphy USA",65.00,transportation
+98,07/21/2012,"Airport",51.00,transportation
+99,07/06/2012,"powell's books",9.00,entertainment
+100,07/04/2012,"6pm",67.00,home
+101,07/13/2012,"Von Maur",164.00,shopping
+102,07/16/2012,"Dish Network",129.00,utilities
+103,07/03/2012,"Flint Energies",200.00,utilities
+104,07/06/2012,"Hard Rock Cafe",47.00,restaurants
+105,07/04/2012,"National Coney Island",40.00,restaurants
+106,07/03/2012,"L&L Hawaiian Barbecue",28.00,restaurants
+543,07/10/2012,"train",30.00,transportation
+547,07/14/2012,"Hulu",16.00,entertainment
+970,07/30/2012,"Texaco",42.00,transportation
+107,08/29/2012,"QuikTrip",64.00,transportation
+108,08/27/2012,"Delta",74.00,transportation
+109,08/09/2012,"Shell",52.00,transportation
+110,08/05/2012,"Love's",59.00,transportation
+111,08/07/2012,"Carnival",47.00,transportation
+112,08/27/2012,"Exxon",65.00,transportation
+113,08/08/2012,"Sheetz",21.00,transportation
+114,08/18/2012,"Southwest",22.00,transportation
+115,08/15/2012,"movies",19.00,entertainment
+116,08/29/2012,"follett's",13.00,entertainment
+117,08/21/2012,"Kirkland's",56.00,home
+118,08/30/2012,"Best Buy",167.00,home
+119,08/21/2012,"Boston Store",131.00,shopping
+120,08/28/2012,"utilities",58.00,utilities
+121,08/13/2012,"Burgerville",29.00,restaurants
+122,08/29/2012,"Village Inn",15.00,restaurants
+123,08/24/2012,"EatZi's",10.00,restaurants
+573,08/08/2012,"National Coney Island",27.00,restaurants
+124,09/25/2012,"Riesbeck's Food Markets",79.00,grocery
+125,09/21/2012,"Victory Supermarkets",162.00,grocery
+126,09/24/2012,"Weis Markets",150.00,grocery
+127,09/28/2012,"American Airlines",42.00,transportation
+128,09/02/2012,"RaceTrac/Raceway",37.00,transportation
+129,09/28/2012,"Regal",6.00,entertainment
+130,09/07/2012,"blockbuster",30.00,entertainment
+131,09/25/2012,"Dish Network",210.00,utilities
+132,09/12/2012,"Att.com",131.00,utilities
+133,09/30/2012,"Chili's",9.00,restaurants
+134,09/22/2012,"Chuck E. Cheese's",22.00,restaurants
+135,09/16/2012,"L&L Hawaiian Barbecue",9.00,restaurants
+136,09/08/2012,"Lone Star Steakhouse & Saloon",16.00,restaurants
+137,09/25/2012,"Taco Bueno",7.00,restaurants
+138,09/05/2012,"Raising Cane's Chicken Fingers",38.00,restaurants
+1018,09/07/2012,"Dunkin' Donuts",21.00,restaurants
+1465,09/05/2012,"Von Maur",100.00,shopping
+1477,09/20/2012,""	"",44.00,restaurants
+1478,09/19/2012,"Seasons 52",22.00,restaurants
+1479,09/08/2012,"Krystal",41.00,restaurants
+139,10/14/2012,"Rosauers",103.00,grocery
+140,10/09/2012,"Wawa",38.00,transportation
+141,10/12/2012,"Mobil",35.00,transportation
+142,10/16/2012,"Hess",65.00,transportation
+143,10/20/2012,"Texaco",82.00,transportation
+144,10/08/2012,"gas",50.00,transportation
+145,10/06/2012,"Flying J",73.00,transportation
+146,10/02/2012,"barns & noble",20.00,entertainment
+147,10/06/2012,"lifeway christian resources",27.00,entertainment
+148,10/27/2012,"book off usa",8.00,entertainment
+149,10/18/2012,"Walmart",275.00,home
+150,10/29/2012,"Costco",386.00,home
+151,10/04/2012,"Ikea",19.00,home
+152,10/13/2012,"home",270.00,home
+153,10/31/2012,"Saks Fifth Avenue",154.00,shopping
+154,10/20/2012,"Carson Pirie Scott",82.00,shopping
+155,10/15/2012,"Alabama Power",149.00,utilities
+156,10/08/2012,"Tennesse Valley Authority",279.00,utilities
+157,10/24/2012,"Uno Chicago Grill",14.00,restaurants
+158,10/17/2012,"Black-eyed Pea",40.00,restaurants
+159,10/17/2012,"California Tortilla",13.00,restaurants
+160,10/28/2012,"Waffle House",47.00,restaurants
+161,10/18/2012,"Milo's Hamburgers",34.00,restaurants
+162,10/23/2012,"Ruby Tuesday",38.00,restaurants
+163,10/23/2012,"Jason's Deli",21.00,restaurants
+164,10/28/2012,"Black Angus Steakhouse",7.00,restaurants
+165,10/20/2012,"Chi-Chi's",7.00,restaurants
+166,11/08/2012,"ShopRite",51.00,grocery
+167,11/18/2012,"Whole Foods Market",149.00,grocery
+168,11/03/2012,"ARCO",77.00,transportation
+169,11/11/2012,"Staples",71.00,home
+170,11/04/2012,"Costco",154.00,home
+171,11/11/2012,"Bloomingdale's",116.00,shopping
+172,11/16/2012,"Off 5th Saks Fifth Avenue Outlet",133.00,shopping
+173,11/03/2012,"verizon",89.00,utilities
+174,11/29/2012,"DirectTV",291.00,utilities
+175,11/30/2012,"Charlie Brown's Steakhouse",26.00,restaurants
+613,11/16/2012,"Kirkland's",438.00,home
+1049,11/13/2012,"books",23.00,entertainment
+176,12/19/2012,"QFC",68.00,grocery
+177,12/15/2012,"Associated Grocers",47.00,grocery
+178,12/05/2012,"PriceRite",118.00,grocery
+179,12/11/2012,"Carnival",78.00,transportation
+180,12/06/2012,"6pm",439.00,home
+181,12/16/2012,"Staples",124.00,home
+182,12/30/2012,"bestbuy",149.00,home
+183,12/21/2012,"Off 5th Saks Fifth Avenue Outlet",143.00,shopping
+184,12/26/2012,"Aeropostale",69.00,shopping
+185,12/03/2012,"The Bon-Ton",95.00,shopping
+186,12/04/2012,"American Eagle",34.00,shopping
+187,12/16/2012,"Comcast",208.00,utilities
+622,12/21/2012,"Bloomingdale's",122.00,shopping
+1065,12/02/2012,"RaceTrac/Raceway",30.00,transportation
+1075,12/27/2012,"Von Maur",181.00,shopping
+1076,12/02/2012,"Chicken Express",37.00,restaurants
+1079,12/16/2012,"Jack in the Box",28.00,restaurants
+1080,12/23/2012,"Chipotle Mexican Grill",28.00,restaurants
+188,01/14/2013,"Carnival",29.00,transportation
+189,01/29/2013,"RaceTrac/Raceway",35.00,transportation
+190,01/23/2013,"Costco",201.00,home
+191,01/31/2013,"Ikea",355.00,home
+192,01/02/2013,"Elder-Beerman",63.00,shopping
+193,01/07/2013,"Elder-Beerman",140.00,shopping
+194,01/13/2013,"Bergdorf Goodman",122.00,shopping
+195,01/12/2013,"Bloomingdale's",199.00,shopping
+196,01/27/2013,"Kohl's",81.00,shopping
+197,01/27/2013,"Att.com",123.00,utilities
+198,01/03/2013,"Comcast",147.00,utilities
+642,01/27/2013,"Cumberland Farms",71.00,transportation
+653,01/30/2013,"Naugles",18.00,restaurants
+1086,01/04/2013,"Phillips 66",44.00,transportation
+1091,01/20/2013,"AMC",23.00,entertainment
+1100,01/08/2013,"Neiman Marcus",122.00,shopping
+199,02/25/2013,"Gelson's Markets",87.00,grocery
+200,02/03/2013,"Flying J",69.00,transportation
+201,02/26/2013,"bus",99.00,transportation
+202,02/04/2013,"Murphy USA",45.00,transportation
+203,02/09/2013,"JetBlue",69.00,transportation
+204,02/25/2013,"Travelcenters of America",53.00,transportation
+205,02/25/2013,"books-a-million",30.00,entertainment
+206,02/09/2013,"Neiman Marcus",144.00,shopping
+207,02/26/2013,"Boscov's",123.00,shopping
+208,02/09/2013,"Boston Store",166.00,shopping
+209,02/28/2013,"Dish Network",138.00,utilities
+210,02/07/2013,"Runza",18.00,restaurants
+211,02/26/2013,"Outback Steakhouse",30.00,restaurants
+212,02/17/2013,"Green Burrito",20.00,restaurants
+213,02/04/2013,"Bonefish Grill",26.00,restaurants
+214,02/08/2013,"Applebee's",35.00,restaurants
+215,02/20/2013,"Outback Steakhouse",5.00,restaurants
+216,02/12/2013,"Ponderosa Steakhouse and Bonanza Steakhouse",31.00,restaurants
+217,02/08/2013,"Don Pablo's",8.00,restaurants
+218,02/12/2013,"Carino's Italian Grill",19.00,restaurants
+219,02/21/2013,"Captain D's",7.00,restaurants
+1109,02/04/2013,"Amtrak",76.00,transportation
+1533,02/04/2013,"Marathon Oil",32.00,transportation
+220,03/16/2013,"New Seasons Market",109.00,grocery
+221,03/10/2013,"Haggen Food & Pharmacy",169.00,grocery
+222,03/06/2013,"Marathon Oil",85.00,transportation
+223,03/27/2013,"half price books",25.00,entertainment
+224,03/16/2013,"gamestop",17.00,entertainment
+225,03/05/2013,"game",16.00,entertainment
+226,03/10/2013,"Ebaybv",200.00,shopping
+227,03/18/2013,"Nordstrom Rack",111.00,shopping
+228,03/10/2013,"Macy's",157.00,shopping
+229,03/31/2013,"Kohl's",71.00,shopping
+230,03/31/2013,"Last Call Neiman Marcus",191.00,shopping
+231,03/18/2013,"bill",167.00,utilities
+232,03/14/2013,"Maggiano's Little Italy",14.00,restaurants
+233,03/31/2013,"Panera Bread",23.00,restaurants
+234,03/05/2013,"The Capital Grille",37.00,restaurants
+235,03/08/2013,"Fleming's Prime Steakhouse & Wine Bar",32.00,restaurants
+236,03/20/2013,"Fleming's Prime Steakhouse & Wine Bar",14.00,restaurants
+237,03/02/2013,"Carvel Ice Cream",17.00,restaurants
+671,03/26/2013,"Giant Eagle",27.00,grocery
+1573,03/02/2013,"Bojangles' Famous Chicken 'n Biscuits",22.00,restaurants
+238,04/08/2013,"Sinclair",57.00,transportation
+239,04/28/2013,"gas",43.00,transportation
+240,04/13/2013,"Kroger brand gasoline",97.00,transportation
+241,04/19/2013,"train",55.00,transportation
+242,04/26/2013,"Cumberland Farms",88.00,transportation
+243,04/10/2013,"Marathon Oil",96.00,transportation
+244,04/21/2013,"BP",57.00,transportation
+245,04/15/2013,"Cumberland Farms",55.00,transportation
+246,04/20/2013,"blockbuster",6.00,entertainment
+247,04/03/2013,"Cinemark",19.00,entertainment
+248,04/06/2013,"Nordstrom",128.00,shopping
+249,04/18/2013,"Parisian (Bon-Ton)",27.00,shopping
+250,04/09/2013,"Southern Company",229.00,utilities
+251,04/09/2013,"Southern Company",95.00,utilities
+252,04/01/2013,"Captain D's",21.00,restaurants
+253,04/03/2013,"Quiznos",11.00,restaurants
+254,04/08/2013,"Showmars",21.00,restaurants
+255,04/06/2013,"Rubio's Fresh Mexican Grill",25.00,restaurants
+256,04/04/2013,"Country Buffet",6.00,restaurants
+257,04/17/2013,"McAlister's Deli",11.00,restaurants
+258,04/19/2013,"Runza",42.00,restaurants
+259,04/19/2013,"Pizza Hut",13.00,restaurants
+260,04/22/2013,"Dixie Chili and Deli",7.00,restaurants
+261,04/20/2013,"Whataburger",41.00,restaurants
+1161,04/02/2013,"Sunoco",62.00,transportation
+1163,04/28/2013,"RaceTrac/Raceway",40.00,transportation
+1171,04/19/2013,"Staples",203.00,home
+1173,04/22/2013,"Carson Pirie Scott",178.00,shopping
+1176,04/15/2013,"Planet Hollywood",47.00,restaurants
+262,05/26/2013,"Shell",87.00,transportation
+263,05/18/2013,"Greyhound",57.00,transportation
+264,05/04/2013,"Amoco",42.00,transportation
+265,05/16/2013,"QuickChek",89.00,transportation
+266,05/19/2013,"76",70.00,transportation
+267,05/24/2013,"Flying J",67.00,transportation
+268,05/03/2013,"Shell",85.00,transportation
+269,05/19/2013,"family christian stores",15.00,entertainment
+270,05/08/2013,"itunes",7.00,entertainment
+271,05/29/2013,"dvds",16.00,entertainment
+272,05/08/2013,"6pm",371.00,home
+273,05/04/2013,"Boscov's",185.00,shopping
+274,05/14/2013,"Aeropostale",47.00,shopping
+275,05/08/2013,"Nordstrom Rack",197.00,shopping
+276,05/18/2013,"JCPenney",134.00,shopping
+277,05/03/2013,"Big Boy",7.00,restaurants
+278,05/28/2013,"Swensen's",30.00,restaurants
+279,05/01/2013,"National Coney Island",47.00,restaurants
+280,05/14/2013,"Green Burrito",11.00,restaurants
+281,05/23/2013,"Taco Cabana",5.00,restaurants
+282,05/16/2013,"Taco Cabana",20.00,restaurants
+283,05/21/2013,"Braum's",11.00,restaurants
+284,05/16/2013,"Ben & Jerry's",39.00,restaurants
+285,05/19/2013,"Which Wich?",6.00,restaurants
+705,05/24/2013,"Sheetz",88.00,transportation
+716,05/06/2013,"Bloomingdale's",68.00,shopping
+720,05/29/2013,"bistro",17.00,restaurants
+1185,05/20/2013,"ARCO",53.00,transportation
+1189,05/03/2013,"Phillips 66",75.00,transportation
+1194,05/17/2013,"Boscov's",157.00,shopping
+1605,05/19/2013,"barns & noble",14.00,entertainment
+286,06/13/2013,"Kmart Supercenters",187.00,grocery
+287,06/28/2013,"Gas City, Ltd.",64.00,transportation
+288,06/06/2013,"Sunoco",23.00,transportation
+289,06/20/2013,"American Airlines",76.00,transportation
+290,06/24/2013,"Sheetz",99.00,transportation
+291,06/23/2013,"Lukoil",63.00,transportation
+292,06/21/2013,"QuickChek",37.00,transportation
+293,06/14/2013,"Sinclair",92.00,transportation
+294,06/20/2013,"Bergner's",139.00,shopping
+295,06/13/2013,"Amazon",64.00,shopping
+296,06/12/2013,"Von Maur",81.00,shopping
+297,06/29/2013,"Alabama Power",219.00,utilities
+298,06/10/2013,"BJ's Restaurant & Brewery",7.00,restaurants
+299,06/22/2013,"Village Inn",6.00,restaurants
+300,06/28/2013,"Smashburger",18.00,restaurants
+301,06/29/2013,""	"",50.00,restaurants
+302,06/01/2013,"Godfather's Pizza",48.00,restaurants
+303,06/04/2013,"Johnny Rockets",21.00,restaurants
+304,06/19/2013,"Freebirds World Burrito",15.00,restaurants
+305,06/04/2013,"Burger King",32.00,restaurants
+306,06/09/2013,"Round Table Pizza",21.00,restaurants
+1208,06/22/2013,"Burger Street",33.00,restaurants
+1622,06/22/2013,"Dillard's",164.00,shopping
+307,07/01/2013,"Royal Ahold",25.00,grocery
+308,07/18/2013,"Lunardi's",27.00,grocery
+309,07/28/2013,"Rio Ranch Markets",88.00,grocery
+310,07/06/2013,"Kroger brand gasoline",48.00,transportation
+311,07/02/2013,"MARTA",46.00,transportation
+312,07/21/2013,"BP",85.00,transportation
+313,07/07/2013,"RaceTrac/Raceway",50.00,transportation
+314,07/25/2013,"Sunoco",65.00,transportation
+315,07/18/2013,"Lukoil",89.00,transportation
+316,07/29/2013,"Flying J",52.00,transportation
+317,07/17/2013,"gas",82.00,transportation
+318,07/17/2013,"ACE",65.00,home
+319,07/06/2013,"Sears",58.00,shopping
+320,07/10/2013,"Sprint",259.00,utilities
+321,08/17/2013,"Pilot",74.00,transportation
+322,08/19/2013,"Speedway",62.00,transportation
+323,08/26/2013,"Phillips 66",53.00,transportation
+324,08/30/2013,"QuikTrip",76.00,transportation
+325,08/09/2013,"American Airlines",97.00,transportation
+326,08/14/2013,"Cumberland Farms",83.00,transportation
+327,08/09/2013,"follett's",13.00,entertainment
+328,08/09/2013,"Regal",14.00,entertainment
+329,08/20/2013,"books inc",9.00,entertainment
+330,08/18/2013,"Target",289.00,home
+331,08/24/2013,"6pm",300.00,home
+332,08/28/2013,"Kirkland's",22.00,home
+333,08/31/2013,"Newegg",281.00,home
+334,08/03/2013,"Nordstrom",127.00,shopping
+335,08/27/2013,"Bergdorf Goodman",132.00,shopping
+336,08/20/2013,"Bloomingdale's",55.00,shopping
+337,08/07/2013,"Boston Store",119.00,shopping
+338,08/20/2013,"Southern Company",78.00,utilities
+772,08/16/2013,"IGA",114.00,grocery
+1240,08/04/2013,"CVS",430.00,home
+1243,08/17/2013,"JCPenney",45.00,shopping
+1244,08/08/2013,"Herberger's",95.00,shopping
+1249,08/19/2013,"IHOP",35.00,restaurants
+1251,08/04/2013,"Panda Express",13.00,restaurants
+339,09/21/2013,"Associated Grocers of the South",121.00,grocery
+340,09/20/2013,"Acme Fresh Market",143.00,grocery
+341,09/19/2013,"Trader Joe's",161.00,grocery
+342,09/26/2013,"Conoco",23.00,transportation
+343,09/02/2013,"Flying J",50.00,transportation
+344,09/07/2013,"Lowes",111.00,home
+345,09/11/2013,"Kohl's",196.00,shopping
+346,09/11/2013,"Sears",64.00,shopping
+347,09/04/2013,"Dillard's",64.00,shopping
+348,09/04/2013,"Bergner's",112.00,shopping
+349,09/09/2013,"Dillard's",124.00,shopping
+350,09/27/2013,"Flint Energies",74.00,utilities
+351,09/11/2013,"Sprint",126.00,utilities
+352,09/30/2013,"Fresh Choice",47.00,restaurants
+353,09/29/2013,"Houlihan's",34.00,restaurants
+1256,09/06/2013,"Gulf",57.00,transportation
+1258,09/16/2013,"Mobil",96.00,transportation
+1268,09/12/2013,"O'Charley's",21.00,restaurants
+1273,09/20/2013,"Cheesecake Factory",30.00,restaurants
+354,10/08/2013,"SuperTarget",77.00,grocery
+355,10/12/2013,"CAM Asian Market",72.00,grocery
+356,10/16/2013,"Stater Brothers",143.00,grocery
+357,10/10/2013,"Southwest",59.00,transportation
+358,10/12/2013,"schuler books & music",16.00,entertainment
+359,10/19/2013,"AMC",12.00,entertainment
+360,10/30/2013,"Nordstrom",153.00,shopping
+361,10/26/2013,"Sears Essentials",200.00,shopping
+362,10/05/2013,"Parisian (Bon-Ton)",25.00,shopping
+363,10/09/2013,"Sears Essentials",37.00,shopping
+364,10/14/2013,"Sears",23.00,shopping
+365,10/11/2013,"metropcs",196.00,utilities
+366,10/26/2013,"utilities",223.00,utilities
+367,10/16/2013,"Hungry Howie's Pizza",47.00,restaurants
+368,10/18/2013,"Arctic Circle Restaurants",30.00,restaurants
+369,10/29/2013,"Schlotzsky's",26.00,restaurants
+370,10/27/2013,"Howard Johnson's",20.00,restaurants
+824,10/10/2013,"RA Sushi",32.00,restaurants
+371,11/30/2013,"Lukoil",30.00,transportation
+372,11/12/2013,"Marathon Oil",48.00,transportation
+373,11/06/2013,"Carnival",58.00,transportation
+374,11/17/2013,"Citgo",30.00,transportation
+375,11/01/2013,"books inc",28.00,entertainment
+376,11/16/2013,"strand book store",20.00,entertainment
+377,11/18/2013,"barns & noble",7.00,entertainment
+378,11/04/2013,"ACE",182.00,home
+379,11/24/2013,"Nordstrom",49.00,shopping
+380,11/13/2013,"Bergner's",25.00,shopping
+381,11/21/2013,"Boscov's",174.00,shopping
+382,11/28/2013,"Lord & Taylor",161.00,shopping
+383,11/07/2013,"Hollister",104.00,shopping
+384,11/14/2013,"Att.com",70.00,utilities
+385,11/27/2013,"Marie Callender's",22.00,restaurants
+386,11/24/2013,"Wienerschnitzel",28.00,restaurants
+387,11/03/2013,"Panda Express",21.00,restaurants
+388,11/03/2013,"Montana Mike's",27.00,restaurants
+389,11/16/2013,"Pizza Hut",23.00,restaurants
+390,11/16/2013,"Perkins Restaurant and Bakery",49.00,restaurants
+391,11/13/2013,"Pizza Ranch",48.00,restaurants
+392,11/05/2013,"Golden Corral",38.00,restaurants
+393,11/20/2013,"The Capital Grille",32.00,restaurants
+394,11/08/2013,"Swensons",12.00,restaurants
+1696,11/03/2013,"Gas City, Ltd.",79.00,transportation
+1699,11/28/2013,"hastings entertainment",21.00,entertainment
+395,12/11/2013,"Getty",46.00,transportation
+396,12/30/2013,"QuickChek",90.00,transportation
+397,12/26/2013,"Phillips 66",65.00,transportation
+398,12/21/2013,"Greyhound",50.00,transportation
+399,12/18/2013,"BP",76.00,transportation
+400,12/15/2013,"books a million",14.00,entertainment
+401,12/09/2013,"Cinemark",18.00,entertainment
+402,12/07/2013,"officemax",290.00,home
+403,12/29/2013,"Office Depot",414.00,home
+404,12/11/2013,"verizon",96.00,utilities
+405,12/31/2013,"bill",141.00,utilities
+406,12/06/2013,"Popeyes Chicken & Biscuits",42.00,restaurants
+407,12/13/2013,"Freebirds World Burrito",16.00,restaurants
+408,12/22/2013,"On the Border Mexican Grill & Cantina",37.00,restaurants
+409,12/24/2013,"Jack in the Box",32.00,restaurants
+410,12/11/2013,"The Capital Grille",7.00,restaurants
+411,12/08/2013,"Robeks",44.00,restaurants
+412,12/06/2013,"Seasons 52",40.00,restaurants
+847,12/07/2013,"Gas City, Ltd.",98.00,transportation
+859,12/10/2013,"El Pollo Loco",16.00,restaurants
+1299,12/14/2013,"Superior Grocers",87.00,grocery
+1304,12/10/2013,"games",23.00,entertainment
+1717,12/13/2013,"Regal",22.00,entertainment
+1725,12/21/2013,"utilities",235.00,utilities
+413,01/08/2012,"ShopRite",197.00,grocery
+414,01/04/2012,"Conoco",72.00,transportation
+415,01/28/2012,"subway",82.00,transportation
+416,01/10/2012,"Chevron",56.00,transportation
+417,01/19/2012,"ferry",97.00,transportation
+418,01/29/2012,"ferry",36.00,transportation
+419,01/03/2012,"Greyhound",44.00,transportation
+420,01/15/2012,"Mobil",59.00,transportation
+421,01/03/2012,"Phillips 66",26.00,transportation
+422,01/27/2012,"hudson news",17.00,entertainment
+423,01/07/2012,"books inc",18.00,entertainment
+424,01/20/2012,"Staples",445.00,home
+425,01/22/2012,"Barneys New York",59.00,shopping
+426,01/31/2012,"Sears Essentials",190.00,shopping
+427,01/18/2012,"Amazon",66.00,shopping
+428,01/09/2012,"Younkers",46.00,shopping
+429,01/27/2012,"Amazon",84.00,shopping
+430,01/31/2012,"Taco Bell",11.00,restaurants
+431,01/21/2012,"Eegee's",15.00,restaurants
+432,01/01/2012,"Hobee's Restaurant",47.00,restaurants
+433,01/23/2012,"Sweet Tomatoes",34.00,restaurants
+434,01/22/2012,"Jason's Deli",15.00,restaurants
+435,01/04/2012,"Culver's",44.00,restaurants
+436,01/25/2012,"National Coney Island",23.00,restaurants
+437,01/06/2012,"Qdoba Mexican Grill",30.00,restaurants
+883,01/22/2012,"dining",28.00,restaurants
+1318,01/24/2012,"Food Town",192.00,grocery
+438,02/21/2012,"American Airlines",60.00,transportation
+439,02/14/2012,"Getty",39.00,transportation
+440,02/04/2012,"Shell",91.00,transportation
+441,02/02/2012,"bus",59.00,transportation
+442,02/07/2012,"Exxon",32.00,transportation
+443,02/14/2012,"Sheetz",94.00,transportation
+444,02/16/2012,"Greyhound",32.00,transportation
+445,02/04/2012,"dvd",6.00,entertainment
+446,02/02/2012,"hudson news",8.00,entertainment
+447,02/13/2012,"books",9.00,entertainment
+448,02/10/2012,"Ikea",460.00,home
+449,02/10/2012,"home",195.00,home
+450,02/12/2012,"Newegg",432.00,home
+451,02/28/2012,"Barneys New York",178.00,shopping
+452,02/12/2012,"Off 5th Saks Fifth Avenue Outlet",50.00,shopping
+453,02/03/2012,"JCPenney",38.00,shopping
+454,02/07/2012,"Tmobile",52.00,utilities
+455,02/19/2012,"Saladworks",30.00,restaurants
+456,02/02/2012,"Panera Bread",18.00,restaurants
+457,02/19/2012,"Sticky Fingers",34.00,restaurants
+458,02/25/2012,"Little Caesars",41.00,restaurants
+459,02/28/2012,"Ledo Pizza",18.00,restaurants
+461,02/07/2012,"Chili's",37.00,restaurants
+462,02/16/2012,"Souplantation and Sweet Tomatoes",41.00,restaurants
+463,02/02/2012,"P. F. Chang's China Bistro",35.00,restaurants
+464,02/25/2012,"Fatburger",39.00,restaurants
+466,03/07/2012,"JetBlue",71.00,transportation
+467,03/19/2012,"Sunoco",76.00,transportation
+468,03/26/2012,"Pilot",71.00,transportation
+469,03/06/2012,"Kirkland's",142.00,home
+470,03/28/2012,"hhgregg",334.00,home
+471,03/31/2012,"Ikea",146.00,home
+472,03/27/2012,"Newegg",386.00,home
+473,03/30/2012,"Saks Fifth Avenue",131.00,shopping
+474,03/23/2012,"Georgia Tech",1761.00,special
+475,03/09/2012,"Gatti's Pizza",45.00,restaurants
+476,04/08/2012,"Martin's Super Markets",153.00,grocery
+477,04/03/2012,"Aldi",56.00,grocery
+478,04/28/2012,"Associated Grocers of New England",65.00,grocery
+479,04/21/2012,"hhgregg",455.00,home
+480,04/02/2012,"Radioshack",143.00,home
+482,04/19/2012,"Target",165.00,home
+483,04/18/2012,"Herberger's",171.00,shopping
+484,04/05/2012,"AT&T",76.00,utilities
+485,04/28/2012,"hospital",2771.00,special
+486,04/10/2012,"Buca di Beppo",5.00,restaurants
+487,04/14/2012,"Arby's",43.00,restaurants
+488,04/14/2012,"The Old Spaghetti Factory",39.00,restaurants
+489,04/01/2012,"Dixie Chili and Deli",30.00,restaurants
+490,04/28/2012,"Moe's Southwest Grill",28.00,restaurants
+491,05/05/2012,"Publix",149.00,grocery
+492,05/01/2012,"Trade Fair",51.00,grocery
+494,05/03/2012,"BP",88.00,transportation
+495,05/07/2012,"Gulf",32.00,transportation
+496,05/23/2012,"QuikTrip",72.00,transportation
+497,05/24/2012,"Shell",34.00,transportation
+498,05/21/2012,"Southwest",26.00,transportation
+499,05/28/2012,"Hulu",15.00,entertainment
+500,05/18/2012,"itunes",8.00,entertainment
+502,05/01/2012,"UPS",127.00,home
+503,05/12/2012,"Lord & Taylor",91.00,shopping
+504,05/08/2012,"H&M",80.00,shopping
+505,05/25/2012,"Nordstrom",45.00,shopping
+506,05/20/2012,"Parisian (Bon-Ton)",169.00,shopping
+507,05/16/2012,"utilities",84.00,utilities
+508,05/04/2012,"Sprint",75.00,utilities
+509,05/12/2012,"Ponderosa Steakhouse and Bonanza Steakhouse",13.00,restaurants
+510,05/20/2012,"Sizzler",23.00,restaurants
+511,05/08/2012,"Howard Johnson's",14.00,restaurants
+512,05/30/2012,"Auntie Anne's",6.00,restaurants
+513,05/19/2012,"Buca di Beppo",14.00,restaurants
+514,05/11/2012,"Captain D's",49.00,restaurants
+515,05/17/2012,"Sweet Tomatoes",20.00,restaurants
+516,05/27/2012,"FATZ",24.00,restaurants
+517,05/13/2012,"Boston Market",44.00,restaurants
+518,05/24/2012,"Trader Vic's",23.00,restaurants
+949,05/15/2012,"Georgia Power",265.00,utilities
+519,06/08/2012,"76",62.00,transportation
+522,06/04/2012,"Phillips 66",93.00,transportation
+523,06/21/2012,"Greyhound",75.00,transportation
+524,06/28/2012,"QuikTrip",78.00,transportation
+525,06/05/2012,"Pilot",50.00,transportation
+526,06/15/2012,"Netflix",28.00,entertainment
+527,06/11/2012,"powell's books",30.00,entertainment
+528,06/21/2012,"family christian stores",22.00,entertainment
+529,06/09/2012,"Boscov's",51.00,shopping
+530,06/19/2012,"Sears",111.00,shopping
+531,06/23/2012,"Boscov's",70.00,shopping
+532,06/29/2012,"Nordstrom",123.00,shopping
+533,06/10/2012,"Tmobile",114.00,utilities
+534,06/05/2012,"Tmobile",196.00,utilities
+535,06/04/2012,"Subway",46.00,restaurants
+536,06/18/2012,"Chronic Tacos",16.00,restaurants
+959,06/25/2012,"Bergdorf Goodman",55.00,shopping
+537,07/17/2012,"The Fresh Market",170.00,grocery
+538,07/04/2012,"Sunset Foods",136.00,grocery
+539,07/19/2012,"Shell",20.00,transportation
+540,07/15/2012,"Hess",41.00,transportation
+541,07/03/2012,"BP",55.00,transportation
+542,07/08/2012,"Murphy USA",67.00,transportation
+544,07/07/2012,"Speedway",33.00,transportation
+545,07/10/2012,"Gulf",25.00,transportation
+546,07/05/2012,"AMC",5.00,entertainment
+548,07/11/2012,"Parisian (Bon-Ton)",52.00,shopping
+549,07/24/2012,"The Bon-Ton",78.00,shopping
+550,07/30/2012,"Nordstrom",50.00,shopping
+551,07/10/2012,"AT&T",202.00,utilities
+552,07/16/2012,"Planet Hollywood",50.00,restaurants
+553,07/14/2012,"Taco Bell",34.00,restaurants
+554,07/03/2012,"Elephant Bar",34.00,restaurants
+555,07/17/2012,"Burger King",21.00,restaurants
+556,07/29/2012,"Ledo Pizza",6.00,restaurants
+557,07/15/2012,"Tony Roma's",26.00,restaurants
+558,07/31/2012,"Chi-Chi's",6.00,restaurants
+559,08/27/2012,"Gelson's Markets",133.00,grocery
+560,08/22/2012,"Speedway",70.00,transportation
+561,08/16/2012,"Wawa",48.00,transportation
+562,08/26/2012,"Phillips 66",42.00,transportation
+563,08/01/2012,"Cumberland Farms",49.00,transportation
+564,08/20/2012,"cinema",22.00,entertainment
+565,08/20/2012,"6pm",203.00,home
+566,08/26/2012,"Flint Energies",209.00,utilities
+567,08/22/2012,"DirectTV",84.00,utilities
+568,08/13/2012,"Jack in the Box",40.00,restaurants
+569,08/04/2012,"Papa Gino's",47.00,restaurants
+570,08/20/2012,"Cheddar's Casual Café",18.00,restaurants
+571,08/27/2012,"Donatos Pizza",10.00,restaurants
+572,08/14/2012,"Milo's Hamburgers",38.00,restaurants
+574,09/15/2012,"Westborn Market",114.00,grocery
+575,09/23/2012,"Shell",57.00,transportation
+576,09/13/2012,"Gas City, Ltd.",63.00,transportation
+577,09/02/2012,"RaceTrac/Raceway",29.00,transportation
+578,09/02/2012,"Cinemark",27.00,entertainment
+579,09/12/2012,"deseret book",20.00,entertainment
+580,09/05/2012,"home",55.00,home
+581,09/22/2012,"Best Buy",366.00,home
+582,09/26/2012,"Kirkland's",311.00,home
+583,09/21/2012,"Lowes",106.00,home
+584,09/25/2012,"Carson Pirie Scott",108.00,shopping
+585,09/12/2012,"Boscov's",92.00,shopping
+586,09/25/2012,"JCPenney",139.00,shopping
+587,09/25/2012,"Sears Essentials",39.00,shopping
+1466,09/24/2012,"Sears Essentials",195.00,shopping
+588,10/06/2012,"ARCO",56.00,transportation
+589,10/19/2012,"Exxon",59.00,transportation
+590,10/17/2012,"ARCO",80.00,transportation
+591,10/27/2012,"gas",29.00,transportation
+592,10/12/2012,"Texaco",64.00,transportation
+593,10/20/2012,"Gas City, Ltd.",26.00,transportation
+594,10/05/2012,"Conoco",23.00,transportation
+595,10/03/2012,"Chevron",22.00,transportation
+596,10/13/2012,"cinema",29.00,entertainment
+597,10/27/2012,"UPS",350.00,home
+598,10/06/2012,"Office Depot",360.00,home
+599,10/10/2012,"Best Buy",77.00,home
+600,10/30/2012,"Elder-Beerman",42.00,shopping
+601,10/27/2012,"Neiman Marcus",132.00,shopping
+602,10/04/2012,"Hollister",80.00,shopping
+603,10/04/2012,"Bergdorf Goodman",88.00,shopping
+604,10/12/2012,"Elder-Beerman",78.00,shopping
+605,10/22/2012,"DirectTV",300.00,utilities
+606,10/19/2012,"Elephant Bar",48.00,restaurants
+607,11/21/2012,"Mars",35.00,grocery
+608,11/03/2012,"Mobil",35.00,transportation
+609,11/05/2012,"BP",24.00,transportation
+610,11/24/2012,"strand book store",25.00,entertainment
+611,11/29/2012,"strand book store",29.00,entertainment
+612,11/11/2012,"Rite aid",172.00,home
+614,11/24/2012,"officemax",402.00,home
+615,11/07/2012,"Home Depot",297.00,home
+616,11/20/2012,"JCPenney",154.00,shopping
+617,11/12/2012,"Ebaybv",180.00,shopping
+618,11/23/2012,"T-Mobile",281.00,utilities
+619,12/04/2012,"Rancho Liborio",170.00,grocery
+620,12/31/2012,"7-Eleven brand gasoline",29.00,transportation
+621,12/08/2012,"officemax",442.00,home
+623,12/19/2012,"Hollister",153.00,shopping
+624,12/25/2012,"Tmobile",118.00,utilities
+625,12/13/2012,"T-Mobile",185.00,utilities
+626,12/17/2012,"Gino's Pizza and Spaghetti",36.00,restaurants
+627,12/23/2012,"Miller's Ale House",42.00,restaurants
+628,12/15/2012,"Checkers",23.00,restaurants
+629,12/29/2012,"Friendly's",47.00,restaurants
+630,12/30/2012,"A&W Restaurants",29.00,restaurants
+631,12/03/2012,"Robeks",26.00,restaurants
+632,12/01/2012,"Famous Dave's",8.00,restaurants
+633,12/08/2012,"Noodles & Company",43.00,restaurants
+634,12/13/2012,"Cold Stone Creamery",7.00,restaurants
+635,12/31/2012,"Farmer Boys",50.00,restaurants
+1511,12/16/2012,"Younkers",190.00,shopping
+636,01/29/2013,"train",76.00,transportation
+637,01/24/2013,"Lukoil",80.00,transportation
+638,01/18/2013,"Chevron",70.00,transportation
+639,01/29/2013,"JetBlue",82.00,transportation
+640,01/07/2013,"Exxon",95.00,transportation
+641,01/09/2013,"Delta",51.00,transportation
+643,01/23/2013,"Murphy USA",57.00,transportation
+644,01/04/2013,"AMC",22.00,entertainment
+645,01/31/2013,"printsasia",8.00,entertainment
+646,01/04/2013,"Target",96.00,home
+647,01/15/2013,"Ebaybv",161.00,shopping
+648,01/12/2013,"Quaker Steak & Lube",7.00,restaurants
+649,01/19/2013,"Naugles",33.00,restaurants
+650,01/12/2013,"Champps Americana",13.00,restaurants
+651,01/24/2013,"El Chico",31.00,restaurants
+652,01/14/2013,"IHOP",28.00,restaurants
+654,01/11/2013,"Jim's Restaurants",44.00,restaurants
+655,01/08/2013,"Fazoli's",25.00,restaurants
+1101,01/13/2013,"utility",258.00,utilities
+1515,01/16/2013,"Sprouts Farmers Market",78.00,grocery
+656,02/01/2013,"Compare Foods",48.00,grocery
+657,02/06/2013,"Karns Quality Foods",129.00,grocery
+658,02/17/2013,"Giant Eagle",127.00,grocery
+659,02/20/2013,"hhgregg",126.00,home
+660,02/19/2013,"ACE",124.00,home
+661,02/26/2013,"Staples",192.00,home
+662,02/11/2013,"Target",157.00,home
+663,02/24/2013,"Off 5th Saks Fifth Avenue Outlet",156.00,shopping
+664,02/07/2013,"Sears",64.00,shopping
+665,02/13/2013,"Herberger's",148.00,shopping
+666,02/06/2013,"Aeropostale",169.00,shopping
+667,02/15/2013,"restaurants",7.00,restaurants
+668,02/12/2013,"Cheesecake Factory",39.00,restaurants
+669,02/25/2013,"Bahama Breeze",37.00,restaurants
+670,02/21/2013,"Ledo Pizza",43.00,restaurants
+672,03/20/2013,"Riesbeck's Food Markets",42.00,grocery
+673,03/01/2013,"Central Market",200.00,grocery
+674,03/26/2013,"barns & noble",5.00,entertainment
+675,03/02/2013,"movies",27.00,entertainment
+676,03/21/2013,"Radioshack",305.00,home
+677,03/28/2013,"Costco",335.00,home
+678,03/09/2013,"Elder-Beerman",72.00,shopping
+679,03/01/2013,"bill",131.00,utilities
+680,03/07/2013,"Captain D's",49.00,restaurants
+681,03/13/2013,"Chevys Fresh Mex",32.00,restaurants
+682,03/17/2013,"Jerry's Subs & Pizza",37.00,restaurants
+683,03/29/2013,"Redstone American Grill",46.00,restaurants
+684,03/08/2013,"Lone Star Steakhouse & Saloon",9.00,restaurants
+685,03/31/2013,"Lyon's",25.00,restaurants
+686,03/23/2013,"Skyline Chili",23.00,restaurants
+1133,03/04/2013,"Raley's",123.00,grocery
+1135,03/27/2013,"Cumberland Farms",73.00,transportation
+687,04/07/2013,"Pacific Ocean Market",182.00,grocery
+688,04/27/2013,"Winn-Dixie",28.00,grocery
+689,04/02/2013,"Shell",76.00,transportation
+690,04/01/2013,"Gas City, Ltd.",52.00,transportation
+691,04/13/2013,"Kroger brand gasoline",78.00,transportation
+692,04/04/2013,"QuickChek",96.00,transportation
+693,04/11/2013,"Sunoco",20.00,transportation
+694,04/30/2013,"hastings entertainment",13.00,entertainment
+695,04/13/2013,"movie",26.00,entertainment
+696,04/25/2013,"Newegg",300.00,home
+697,04/29/2013,"Taco Time",43.00,restaurants
+698,04/03/2013,"Godfather's Pizza",44.00,restaurants
+699,04/03/2013,"Sizzler",10.00,restaurants
+700,04/28/2013,"Jerry's Subs & Pizza",45.00,restaurants
+701,04/26/2013,"Taco Cabana",10.00,restaurants
+702,05/13/2013,"Lunds",143.00,grocery
+703,05/27/2013,"Sheetz",60.00,transportation
+704,05/27/2013,"Mobil",29.00,transportation
+706,05/11/2013,"JetBlue",53.00,transportation
+707,05/21/2013,"Love's",94.00,transportation
+708,05/14/2013,"Royal Farms",82.00,transportation
+709,05/21/2013,"movie",12.00,entertainment
+710,05/10/2013,"shakespeare and company",24.00,entertainment
+711,05/03/2013,"itunes",13.00,entertainment
+712,05/24/2013,"Newegg",121.00,home
+713,05/25/2013,"ACE",213.00,home
+714,05/24/2013,"Home Depot",388.00,home
+715,05/14/2013,"officemax",69.00,home
+717,05/09/2013,"Amazon.com",189.00,shopping
+718,05/27/2013,"Parisian (Bon-Ton)",155.00,shopping
+719,05/03/2013,"Landry's Restaurants",21.00,restaurants
+721,05/09/2013,"Eegee's",46.00,restaurants
+1610,05/03/2013,"AT&T",146.00,utilities
+722,06/07/2013,"Brookshire Brothers",149.00,grocery
+723,06/27/2013,"Sinclair",51.00,transportation
+724,06/30/2013,"Conoco",26.00,transportation
+725,06/11/2013,"Chevron",20.00,transportation
+726,06/26/2013,"Texaco",74.00,transportation
+727,06/17/2013,"Marathon Oil",79.00,transportation
+728,06/07/2013,"Sunoco",80.00,transportation
+729,06/15/2013,"printsasia",29.00,entertainment
+730,06/21/2013,"Regal",17.00,entertainment
+731,06/05/2013,"cinema",28.00,entertainment
+732,06/19/2013,"Walmart",427.00,home
+733,06/06/2013,"home",209.00,home
+734,06/23/2013,"Costco",40.00,home
+735,06/10/2013,"Boston Store",85.00,shopping
+736,06/19/2013,"American Eagle",72.00,shopping
+737,06/24/2013,"Barneys New York",62.00,shopping
+738,06/17/2013,"Nordstrom",145.00,shopping
+739,06/18/2013,"T-Mobile",114.00,utilities
+740,06/27/2013,"utilities",143.00,utilities
+741,06/14/2013,"Donatos Pizza",9.00,restaurants
+742,06/26/2013,"Seattle's Best Coffee",46.00,restaurants
+743,06/30/2013,"Burger King",45.00,restaurants
+744,06/19/2013,"Bertucci's",15.00,restaurants
+745,06/11/2013,"Taco John's",33.00,restaurants
+1625,06/20/2013,"Georgia Power",189.00,utilities
+746,07/14/2013,"Seller's Brothers",161.00,grocery
+747,07/13/2013,"Chevron",87.00,transportation
+748,07/16/2013,"RaceTrac/Raceway",86.00,transportation
+749,07/02/2013,"Amtrak",49.00,transportation
+750,07/12/2013,"gas",59.00,transportation
+751,07/27/2013,"family christian stores",12.00,entertainment
+752,07/31/2013,"schuler books & music",17.00,entertainment
+753,07/04/2013,"Staples",493.00,home
+754,07/19/2013,"Newegg",464.00,home
+755,07/13/2013,"Walmart",487.00,home
+756,07/14/2013,"Home Depot",80.00,home
+757,07/03/2013,"The Bon-Ton",85.00,shopping
+758,07/19/2013,"Kohl's",170.00,shopping
+759,07/12/2013,"Saks Fifth Avenue",83.00,shopping
+760,07/25/2013,"Att.com",85.00,utilities
+761,07/15/2013,"Att.com",184.00,utilities
+762,07/07/2013,"Georgia Tech",1942.00,special
+763,07/21/2013,"Huddle House",32.00,restaurants
+764,07/15/2013,"Taco Time",46.00,restaurants
+765,07/31/2013,"Souplantation and Sweet Tomatoes",38.00,restaurants
+766,07/29/2013,"Skyline Chili",39.00,restaurants
+767,07/10/2013,"Burger Street",27.00,restaurants
+768,07/24/2013,"LongHorn Steakhouse",47.00,restaurants
+769,07/19/2013,"Domino's Pizza",24.00,restaurants
+770,07/31/2013,"Auntie Anne's",11.00,restaurants
+771,07/17/2013,"restaurants",32.00,restaurants
+1631,07/05/2013,"ARCO",43.00,transportation
+1633,07/23/2013,"Sheetz",90.00,transportation
+773,08/11/2013,"Hy-Vee Food Stores",178.00,grocery
+774,08/25/2013,"Foodtown",157.00,grocery
+775,08/23/2013,"Airport",80.00,transportation
+776,08/16/2013,"Sinclair",44.00,transportation
+777,08/05/2013,"Southwest",21.00,transportation
+778,08/16/2013,"Royal Farms",99.00,transportation
+779,08/24/2013,"Sheetz",67.00,transportation
+780,08/21/2013,"train",61.00,transportation
+781,08/22/2013,"Chevron",75.00,transportation
+782,08/03/2013,"Chevron",35.00,transportation
+783,08/05/2013,"blockbuster",17.00,entertainment
+784,08/28/2013,"Netflix",10.00,entertainment
+785,08/25/2013,"GAP",161.00,shopping
+786,08/16/2013,"Bergdorf Goodman",175.00,shopping
+787,08/16/2013,"Kohl's",182.00,shopping
+788,08/01/2013,"Dillard's",139.00,shopping
+789,08/10/2013,"Amazon",175.00,shopping
+790,08/17/2013,"Georgia Power",280.00,utilities
+791,08/29/2013,"Alabama Power",57.00,utilities
+792,09/15/2013,"train",30.00,transportation
+793,09/09/2013,"Getty",77.00,transportation
+794,09/25/2013,"Wawa",27.00,transportation
+795,09/20/2013,"Amtrak",90.00,transportation
+796,09/23/2013,"train",42.00,transportation
+797,09/21/2013,"officemax",465.00,home
+798,09/15/2013,"Hollister",77.00,shopping
+799,09/14/2013,"Bloomingdale's",200.00,shopping
+800,09/09/2013,"Von Maur",145.00,shopping
+801,09/24/2013,"Carson Pirie Scott",158.00,shopping
+802,09/22/2013,"Tmobile",229.00,utilities
+803,09/26/2013,"DirectTV",209.00,utilities
+804,09/27/2013,"Gatti's Pizza",23.00,restaurants
+805,09/01/2013,"Twin Peaks",26.00,restaurants
+806,09/20/2013,"Mazzio's Italian Eatery",8.00,restaurants
+807,09/22/2013,"Waffle House",8.00,restaurants
+808,09/24/2013,"The Original Italian Pie",50.00,restaurants
+809,10/31/2013,"Arteagas Food Center",143.00,grocery
+810,10/07/2013,"Trade Fair",21.00,grocery
+811,10/23/2013,"Associated Wholesale Grocers",139.00,grocery
+812,10/05/2013,"Murphy USA",62.00,transportation
+813,10/14/2013,"Amtrak",84.00,transportation
+814,10/15/2013,"Wawa",77.00,transportation
+815,10/15/2013,"half price books",26.00,entertainment
+816,10/31/2013,"tree of life christian outlet",16.00,entertainment
+817,10/15/2013,"game",7.00,entertainment
+818,10/20/2013,"bestbuy",172.00,home
+819,10/21/2013,"6pm",370.00,home
+820,10/01/2013,"hhgregg",420.00,home
+821,10/26/2013,"Dillard's",21.00,shopping
+822,10/09/2013,"Bloomingdale's",64.00,shopping
+823,10/04/2013,"Boston Store",122.00,shopping
+825,10/20/2013,"Papa Gino's",34.00,restaurants
+826,10/26/2013,"Blimpie",9.00,restaurants
+827,10/04/2013,"Logan's Roadhouse",15.00,restaurants
+828,10/11/2013,"Fazoli's",23.00,restaurants
+829,10/01/2013,"Bob Evans Restaurants",11.00,restaurants
+830,10/14/2013,"Captain D's",13.00,restaurants
+831,10/29/2013,"Which Wich?",16.00,restaurants
+832,10/24/2013,"Rainforest Cafe",49.00,restaurants
+1279,10/18/2013,"Southwest",46.00,transportation
+833,11/30/2013,"Acme Fresh Market",167.00,grocery
+834,11/06/2013,"Kroger",69.00,grocery
+835,11/10/2013,"ShopRite",160.00,grocery
+836,11/17/2013,"subway",24.00,transportation
+837,11/25/2013,"Travelcenters of America",78.00,transportation
+838,11/30/2013,"Murphy USA",29.00,transportation
+839,11/22/2013,"barns and noble",16.00,entertainment
+840,11/24/2013,"barns & noble",10.00,entertainment
+841,11/22/2013,"Herberger's",172.00,shopping
+842,11/06/2013,"Amazon",57.00,shopping
+843,11/25/2013,"Ebaybv",27.00,shopping
+844,11/02/2013,"Younkers",74.00,shopping
+845,11/13/2013,"bill",185.00,utilities
+846,12/29/2013,"American Airlines",76.00,transportation
+848,12/07/2013,"Shell",80.00,transportation
+849,12/05/2013,"strand book store",17.00,entertainment
+850,12/23/2013,"blockbuster",22.00,entertainment
+851,12/01/2013,"Staples",13.00,home
+852,12/14/2013,"Walmart",41.00,home
+853,12/28/2013,"Belk",75.00,shopping
+854,12/15/2013,"Barneys New York",143.00,shopping
+855,12/31/2013,"Tmobile",215.00,utilities
+856,12/20/2013,"DirectTV",160.00,utilities
+857,12/17/2013,"Romano's Macaroni Grill",32.00,restaurants
+858,12/28/2013,"Port of Subs",29.00,restaurants
+860,12/16/2013,"Whataburger",36.00,restaurants
+861,12/19/2013,"Big Boy",32.00,restaurants
+862,12/21/2013,"Maggiano's Little Italy",8.00,restaurants
+863,12/01/2013,"Chili's",6.00,restaurants
+864,12/04/2013,"Don Pablo's",26.00,restaurants
+865,12/26/2013,"Big Boy",12.00,restaurants
+866,01/31/2012,"Brookshire's",197.00,grocery
+867,01/10/2012,"Superior Grocers",145.00,grocery
+868,01/11/2012,"Rosauers",101.00,grocery
+869,01/05/2012,"Greyhound",26.00,transportation
+870,01/29/2012,"Murphy USA",74.00,transportation
+871,01/02/2012,"Royal Farms",66.00,transportation
+872,01/17/2012,"Mobil",81.00,transportation
+873,01/20/2012,"Pilot",40.00,transportation
+874,01/23/2012,"barns and noble",6.00,entertainment
+875,01/12/2012,"cinema",17.00,entertainment
+876,01/05/2012,"Herberger's",197.00,shopping
+878,01/20/2012,"Last Call Neiman Marcus",190.00,shopping
+879,01/10/2012,"Carson Pirie Scott",194.00,shopping
+880,01/15/2012,"Saks Fifth Avenue",185.00,shopping
+881,01/10/2012,"Tmobile",271.00,utilities
+882,01/13/2012,"DirectTV",125.00,utilities
+884,01/06/2012,"Jack's",30.00,restaurants
+885,01/28/2012,"Red Hot & Blue",40.00,restaurants
+886,01/21/2012,"Whataburger",42.00,restaurants
+888,02/05/2012,"Phillips 66",62.00,transportation
+889,02/28/2012,"subway",99.00,transportation
+890,02/12/2012,"Getty",43.00,transportation
+891,02/25/2012,"Gulf",72.00,transportation
+894,02/23/2012,"Chevron",85.00,transportation
+895,02/20/2012,"itunes",9.00,entertainment
+896,02/19/2012,"books inc",21.00,entertainment
+897,02/19/2012,"bestbuy",89.00,home
+898,02/15/2012,"Home Depot",221.00,home
+899,02/17/2012,"Costco",101.00,home
+900,02/13/2012,"Von Maur",158.00,shopping
+901,02/14/2012,"GAP",43.00,shopping
+902,02/10/2012,"American Eagle",45.00,shopping
+903,02/09/2012,"DirectTV",134.00,utilities
+904,02/27/2012,"Portillo's Restaurants",35.00,restaurants
+905,02/02/2012,"Subway",32.00,restaurants
+906,03/09/2012,"Associated Grocers of the South",176.00,grocery
+907,03/21/2012,"Winn-Dixie",147.00,grocery
+908,03/31/2012,"RaceTrac/Raceway",58.00,transportation
+909,03/01/2012,"books a million",13.00,entertainment
+910,03/05/2012,"family christian stores",25.00,entertainment
+911,03/30/2012,"itunes",11.00,entertainment
+912,03/05/2012,"Kirkland's",296.00,home
+913,03/31/2012,"Target",426.00,home
+914,03/27/2012,"Walmart",174.00,home
+915,03/20/2012,"hhgregg",127.00,home
+918,03/06/2012,"Jack's",36.00,restaurants
+919,03/03/2012,"California Pizza Kitchen",39.00,restaurants
+920,04/12/2012,"Compare Foods Supermarket",142.00,grocery
+921,04/04/2012,"Glen's Market",104.00,grocery
+922,04/02/2012,"Hugo's",130.00,grocery
+923,04/23/2012,"Greyhound",60.00,transportation
+924,04/04/2012,"Exxon",35.00,transportation
+925,04/29/2012,"American Airlines",100.00,transportation
+926,04/28/2012,"MARTA",54.00,transportation
+927,04/08/2012,"QuikTrip",94.00,transportation
+928,04/14/2012,"Delta",79.00,transportation
+929,04/25/2012,"Lukoil",86.00,transportation
+930,04/06/2012,"Gulf",88.00,transportation
+931,04/16/2012,"6pm",13.00,home
+932,04/06/2012,"UPS",190.00,home
+933,04/03/2012,"Ebaybv",106.00,shopping
+934,04/24/2012,"Bloomingdale's",88.00,shopping
+935,04/01/2012,"Carson Pirie Scott",178.00,shopping
+936,04/12/2012,"Bloomingdale's",185.00,shopping
+937,04/21/2012,"GAP",176.00,shopping
+938,04/01/2012,"metropcs",144.00,utilities
+939,04/11/2012,"Att.com",157.00,utilities
+940,04/13/2012,"Taco Time",38.00,restaurants
+941,04/08/2012,"Redstone American Grill",37.00,restaurants
+942,05/04/2012,"Regal",29.00,entertainment
+943,05/03/2012,"strand book store",10.00,entertainment
+944,05/31/2012,"Netflix",8.00,entertainment
+945,05/18/2012,"Barneys New York",172.00,shopping
+946,05/26/2012,"Nordstrom",45.00,shopping
+947,05/08/2012,"Younkers",190.00,shopping
+951,06/02/2012,"Bristol Farms",42.00,grocery
+952,06/28/2012,"Foodtown",133.00,grocery
+953,06/02/2012,"New Deal Supermarket",68.00,grocery
+954,06/24/2012,"Wawa",41.00,transportation
+955,06/23/2012,"Southwest",99.00,transportation
+956,06/12/2012,"Sinclair",38.00,transportation
+957,06/03/2012,"games",15.00,entertainment
+958,06/15/2012,"cinema",23.00,entertainment
+960,06/19/2012,"Barneys New York",59.00,shopping
+961,06/15/2012,"Parisian (Bon-Ton)",59.00,shopping
+962,06/17/2012,"bill",62.00,utilities
+963,06/21/2012,"Souplantation and Sweet Tomatoes",40.00,restaurants
+964,06/30/2012,"Carl's Jr.",34.00,restaurants
+965,06/05/2012,"McDonald's",9.00,restaurants
+966,06/11/2012,"Taco Cabana",14.00,restaurants
+967,06/27/2012,"Uno Chicago Grill",43.00,restaurants
+968,07/18/2012,"Delta",32.00,transportation
+969,07/21/2012,"Amtrak",46.00,transportation
+971,07/19/2012,"bus",70.00,transportation
+972,07/17/2012,"Gas City, Ltd.",23.00,transportation
+973,07/06/2012,"7-Eleven brand gasoline",21.00,transportation
+974,07/01/2012,"Amoco",95.00,transportation
+975,07/07/2012,"Flying J",95.00,transportation
+976,07/01/2012,"walgreens",460.00,home
+977,07/13/2012,"hhgregg",122.00,home
+978,07/30/2012,"GAP",136.00,shopping
+979,07/29/2012,"dining",28.00,restaurants
+980,08/06/2012,"FoodLand Supermarkets",97.00,grocery
+981,08/29/2012,"Strack and Van Til",145.00,grocery
+982,08/22/2012,"Market Basket",186.00,grocery
+983,08/10/2012,"Citgo",65.00,transportation
+984,08/18/2012,"Royal Farms",96.00,transportation
+985,08/25/2012,"Amoco",86.00,transportation
+986,08/18/2012,"Amoco",98.00,transportation
+987,08/27/2012,"Wawa",64.00,transportation
+988,08/01/2012,"Marathon Oil",67.00,transportation
+989,08/04/2012,"Shell",76.00,transportation
+990,08/25/2012,"joseph-beth booksellers",12.00,entertainment
+991,08/08/2012,"Cinemark",24.00,entertainment
+992,08/14/2012,"Radioshack",105.00,home
+993,08/15/2012,"Ikea",425.00,home
+994,08/25/2012,"Smokey Bones",40.00,restaurants
+995,08/17/2012,"Pizza Inn",21.00,restaurants
+996,08/18/2012,"Camille's Sidewalk Cafe",5.00,restaurants
+997,08/14/2012,"Godfather's Pizza",36.00,restaurants
+998,08/24/2012,"Friendly's",35.00,restaurants
+999,08/26/2012,"P. F. Chang's China Bistro",27.00,restaurants
+1000,08/18/2012,"Chili's",47.00,restaurants
+1001,09/24/2012,"PriceRite",162.00,grocery
+1002,09/26/2012,"Walmart Supercenters",94.00,grocery
+1003,09/15/2012,"Central Grocers Cooperative",178.00,grocery
+1004,09/21/2012,"Love's",100.00,transportation
+1005,09/04/2012,"train",30.00,transportation
+1006,09/15/2012,"Sheetz",25.00,transportation
+1007,09/17/2012,"Hess",98.00,transportation
+1008,09/21/2012,"Phillips 66",100.00,transportation
+1009,09/11/2012,"BP",96.00,transportation
+1010,09/28/2012,"RaceTrac/Raceway",66.00,transportation
+1011,09/09/2012,"Amtrak",27.00,transportation
+1012,09/01/2012,"Lowes",444.00,home
+1013,09/05/2012,"Carson Pirie Scott",79.00,shopping
+1014,09/10/2012,"JCPenney",143.00,shopping
+1015,09/06/2012,"Sears",57.00,shopping
+1016,09/17/2012,"Southern Company",119.00,utilities
+1017,09/19/2012,"Pei Wei Asian Diner",16.00,restaurants
+1019,09/21/2012,"Waffle House",12.00,restaurants
+1020,09/11/2012,"Eat'n Park",36.00,restaurants
+1021,09/29/2012,"Maggiano's Little Italy",39.00,restaurants
+1022,09/06/2012,"Sticky Fingers",39.00,restaurants
+1023,09/14/2012,"Eegee's",18.00,restaurants
+1024,09/17/2012,"Miller's Ale House",33.00,restaurants
+1025,09/17/2012,"Godfather's Pizza",29.00,restaurants
+1464,09/04/2012,"Herberger's",39.00,shopping
+1026,10/20/2012,"Southwest",82.00,transportation
+1027,10/19/2012,"Lukoil",97.00,transportation
+1028,10/04/2012,"gamestop",21.00,entertainment
+1029,10/08/2012,"joseph-beth booksellers",10.00,entertainment
+1030,10/28/2012,"Staples",195.00,home
+1031,10/19/2012,"Radioshack",349.00,home
+1032,10/26/2012,"Rite aid",332.00,home
+1033,10/08/2012,"CVS",493.00,home
+1034,10/04/2012,"Boscov's",94.00,shopping
+1035,10/03/2012,"Bergner's",30.00,shopping
+1036,10/24/2012,"Dillard's",74.00,shopping
+1037,10/25/2012,"Sears",67.00,shopping
+1038,10/08/2012,"Southern Company",245.00,utilities
+1039,10/30/2012,"Sprint",119.00,utilities
+1040,10/31/2012,"Tony Roma's",39.00,restaurants
+1041,10/07/2012,"Cold Stone Creamery",38.00,restaurants
+1042,10/24/2012,"Souplantation and Sweet Tomatoes",15.00,restaurants
+1043,11/14/2012,"Arlan's Market",162.00,grocery
+1044,11/06/2012,"Food Town",92.00,grocery
+1045,11/08/2012,"Greyhound",33.00,transportation
+1046,11/01/2012,"Southwest",29.00,transportation
+1047,11/24/2012,"Shell",23.00,transportation
+1048,11/13/2012,"Exxon",47.00,transportation
+1050,11/01/2012,"game",20.00,entertainment
+1051,11/29/2012,"lifeway christian resources",22.00,entertainment
+1052,11/19/2012,"Kirkland's",118.00,home
+1053,11/24/2012,"Lowes",378.00,home
+1054,11/08/2012,"Office Depot",321.00,home
+1055,11/26/2012,"Ikea",261.00,home
+1056,11/18/2012,"JCPenney",129.00,shopping
+1057,11/30/2012,"Off 5th Saks Fifth Avenue Outlet",42.00,shopping
+1058,11/28/2012,"Boscov's",143.00,shopping
+1059,11/14/2012,"Carson Pirie Scott",47.00,shopping
+1060,11/22/2012,"utility",243.00,utilities
+1061,11/29/2012,"AT&T",145.00,utilities
+1062,11/12/2012,"Cinnabon",34.00,restaurants
+1063,12/01/2012,"Citgo",82.00,transportation
+1064,12/20/2012,"Wawa",83.00,transportation
+1066,12/20/2012,"lifeway christian resources",27.00,entertainment
+1067,12/15/2012,"itunes",10.00,entertainment
+1068,12/29/2012,"Best Buy",437.00,home
+1069,12/08/2012,"officemax",42.00,home
+1070,12/25/2012,"ACE",400.00,home
+1071,12/30/2012,"Off 5th Saks Fifth Avenue Outlet",134.00,shopping
+1072,12/10/2012,"Amazon",58.00,shopping
+1073,12/17/2012,"Herberger's",65.00,shopping
+1074,12/07/2012,"H&M",22.00,shopping
+1077,12/29/2012,"Chick-fil-A",28.00,restaurants
+1078,12/05/2012,"Swensen's",26.00,restaurants
+1081,12/19/2012,"Tilted Kilt",42.00,restaurants
+1082,12/09/2012,"Skyline Chili",9.00,restaurants
+1083,01/02/2013,"Delta",32.00,transportation
+1084,01/27/2013,"Gulf",90.00,transportation
+1085,01/02/2013,"Amtrak",80.00,transportation
+1087,01/13/2013,"Love's",51.00,transportation
+1088,01/01/2013,"Wawa",37.00,transportation
+1089,01/13/2013,"gas",55.00,transportation
+1090,01/29/2013,"Marathon Oil",96.00,transportation
+1092,01/05/2013,"Regal",5.00,entertainment
+1093,01/16/2013,"Home Depot",138.00,home
+1094,01/06/2013,"Ikea",133.00,home
+1095,01/28/2013,"Ikea",64.00,home
+1096,01/01/2013,"Target",491.00,home
+1097,01/20/2013,"Elder-Beerman",128.00,shopping
+1098,01/27/2013,"Parisian (Bon-Ton)",178.00,shopping
+1099,01/15/2013,"American Eagle",61.00,shopping
+1102,01/03/2013,"AT&T",206.00,utilities
+1103,01/11/2013,"Milo's Hamburgers",39.00,restaurants
+1104,01/19/2013,"Robeks",38.00,restaurants
+1105,01/16/2013,"Hard Rock Cafe",44.00,restaurants
+1106,01/21/2013,"Miller's Ale House",49.00,restaurants
+1107,02/01/2013,"Shop n' Save",50.00,grocery
+1108,02/12/2013,"Stater Brothers",26.00,grocery
+1110,02/01/2013,"subway",20.00,transportation
+1111,02/05/2013,"bus",26.00,transportation
+1112,02/02/2013,"Exxon",36.00,transportation
+1113,02/21/2013,"shakespeare and company",24.00,entertainment
+1114,02/04/2013,"Hulu",16.00,entertainment
+1115,02/04/2013,"strand book store",9.00,entertainment
+1116,02/13/2013,"Newegg",97.00,home
+1117,02/25/2013,"UPS",419.00,home
+1118,02/26/2013,"hhgregg",145.00,home
+1119,02/23/2013,"Amazon.com",197.00,shopping
+1120,02/24/2013,"Ebaybv",50.00,shopping
+1121,02/02/2013,"T-Mobile",247.00,utilities
+1122,02/11/2013,"Souplantation and Sweet Tomatoes",17.00,restaurants
+1123,02/03/2013,"Ruby Tuesday",23.00,restaurants
+1124,02/27/2013,"Benihana",40.00,restaurants
+1125,02/05/2013,"Naugles",23.00,restaurants
+1126,02/10/2013,"Old Country Buffet",17.00,restaurants
+1127,02/17/2013,"Taco Time",11.00,restaurants
+1128,02/26/2013,"Ledo Pizza",7.00,restaurants
+1129,02/15/2013,"California Tortilla",7.00,restaurants
+1130,02/03/2013,"Waffle House",40.00,restaurants
+1131,02/23/2013,"Lyon's",49.00,restaurants
+1132,03/12/2013,"Martin's Food Markets",184.00,grocery
+1134,03/18/2013,"Wakefern Food Corporation",39.00,grocery
+1136,03/26/2013,"ferry",54.00,transportation
+1137,03/07/2013,"Amtrak",60.00,transportation
+1138,03/11/2013,"bus",69.00,transportation
+1139,03/10/2013,"Conoco",50.00,transportation
+1140,03/18/2013,"Amtrak",37.00,transportation
+1141,03/16/2013,"Speedway",22.00,transportation
+1142,03/20/2013,"movie",26.00,entertainment
+1143,03/01/2013,"barns & noble",25.00,entertainment
+1144,03/23/2013,"follett's",16.00,entertainment
+1145,03/19/2013,"officemax",377.00,home
+1146,03/05/2013,"bestbuy",145.00,home
+1147,03/09/2013,"Amazon",65.00,shopping
+1148,03/16/2013,"LongHorn Steakhouse",47.00,restaurants
+1149,03/20/2013,"Eat'n Park",36.00,restaurants
+1150,03/30/2013,"Red Robin",44.00,restaurants
+1151,03/08/2013,"Romano's Macaroni Grill",21.00,restaurants
+1152,03/08/2013,"Moe's Southwest Grill",45.00,restaurants
+1153,03/08/2013,"McAlister's Deli",18.00,restaurants
+1154,03/05/2013,"Seasons 52",39.00,restaurants
+1155,03/02/2013,"Black Angus Steakhouse",19.00,restaurants
+1156,03/27/2013,"Marie Callender's",18.00,restaurants
+1157,04/06/2013,"C-Town",66.00,grocery
+1158,04/28/2013,"Delta",24.00,transportation
+1159,04/25/2013,"train",74.00,transportation
+1160,04/12/2013,"BP",60.00,transportation
+1162,04/25/2013,"Love's",99.00,transportation
+1164,04/07/2013,"subway",57.00,transportation
+1165,04/04/2013,"itunes",24.00,entertainment
+1166,04/14/2013,"game",15.00,entertainment
+1167,04/20/2013,"books inc",21.00,entertainment
+1168,04/16/2013,"6pm",372.00,home
+1169,04/03/2013,"Rite aid",173.00,home
+1170,04/25/2013,"Ikea",368.00,home
+1172,04/03/2013,"Herberger's",25.00,shopping
+1174,04/04/2013,"Last Call Neiman Marcus",117.00,shopping
+1175,04/29/2013,"Chick-fil-A",32.00,restaurants
+1177,04/14/2013,"Sweet Tomatoes",9.00,restaurants
+1178,04/30/2013,"Ponderosa Steakhouse and Bonanza Steakhouse",17.00,restaurants
+1179,04/25/2013,"Donatos Pizza",38.00,restaurants
+1180,04/28/2013,"Gino's Pizza and Spaghetti",7.00,restaurants
+1181,04/26/2013,"Papa John's Pizza",7.00,restaurants
+1182,05/23/2013,"Greyhound",49.00,transportation
+1183,05/28/2013,"Exxon",75.00,transportation
+1184,05/23/2013,"bus",81.00,transportation
+1186,05/18/2013,"BP",74.00,transportation
+1187,05/13/2013,"Conoco",64.00,transportation
+1188,05/20/2013,"Citgo",92.00,transportation
+1190,05/22/2013,"joseph-beth booksellers",19.00,entertainment
+1191,05/17/2013,"ACE",29.00,home
+1192,05/24/2013,"Kohl's",107.00,shopping
+1193,05/13/2013,"Saks Fifth Avenue",61.00,shopping
+1195,05/21/2013,"Neiman Marcus",26.00,shopping
+1196,05/22/2013,"Kohl's",103.00,shopping
+1197,05/26/2013,"Southern Company",77.00,utilities
+1198,06/01/2013,"Sinclair",94.00,transportation
+1199,06/11/2013,"Valero",90.00,transportation
+1200,06/26/2013,"Chevron",83.00,transportation
+1201,06/04/2013,"Love's",41.00,transportation
+1202,06/20/2013,"Chevron",24.00,transportation
+1203,06/15/2013,"Valero",80.00,transportation
+1204,06/26/2013,"Staples",335.00,home
+1205,06/01/2013,"Costco",152.00,home
+1206,06/29/2013,"Rite aid",75.00,home
+1207,06/01/2013,"H&M",67.00,shopping
+1209,06/28/2013,"Raising Cane's Chicken Fingers",41.00,restaurants
+1210,06/22/2013,"Taco Time",39.00,restaurants
+1211,06/15/2013,"Quiznos",46.00,restaurants
+1212,06/13/2013,"Starbucks",17.00,restaurants
+1213,06/11/2013,"Fatburger",25.00,restaurants
+1214,06/08/2013,"Cracker Barrel Old Country Store",48.00,restaurants
+1215,06/28/2013,"Bob Evans Restaurants",8.00,restaurants
+1216,06/09/2013,"Cheeburger Cheeburger",37.00,restaurants
+1217,06/14/2013,"White Castle",6.00,restaurants
+1218,07/02/2013,"Greyhound",83.00,transportation
+1219,07/06/2013,"Gas City, Ltd.",55.00,transportation
+1220,07/16/2013,"ferry",36.00,transportation
+1221,07/28/2013,"Marathon Oil",73.00,transportation
+1222,07/26/2013,"game",19.00,entertainment
+1223,07/20/2013,"shakespeare and company",24.00,entertainment
+1224,07/31/2013,"shakespeare and company",26.00,entertainment
+1225,07/02/2013,"Staples",183.00,home
+1226,07/02/2013,"6pm",451.00,home
+1227,07/29/2013,"home",180.00,home
+1228,07/15/2013,"Rite aid",347.00,home
+1229,07/16/2013,"Parisian (Bon-Ton)",53.00,shopping
+1230,07/26/2013,"Off 5th Saks Fifth Avenue Outlet",129.00,shopping
+1231,07/13/2013,"Von Maur",162.00,shopping
+1232,07/18/2013,"Kohl's",38.00,shopping
+1233,07/31/2013,"Tuition",2008.00,special
+1234,07/08/2013,"Pizza Hut",19.00,restaurants
+1235,08/04/2013,"Gristedes",30.00,grocery
+1236,08/01/2013,"dvd",10.00,entertainment
+1237,08/13/2013,"walgreens",119.00,home
+1238,08/04/2013,"home",484.00,home
+1239,08/27/2013,"6pm",69.00,home
+1241,08/10/2013,"Amazon.com",124.00,shopping
+1242,08/10/2013,"Lord & Taylor",50.00,shopping
+1245,08/22/2013,"Bloomingdale's",192.00,shopping
+1246,08/30/2013,"Southern Company",189.00,utilities
+1247,08/21/2013,"Panda Express",23.00,restaurants
+1248,08/11/2013,"El Pollo Loco",50.00,restaurants
+1250,08/27/2013,"Bojangles' Famous Chicken 'n Biscuits",7.00,restaurants
+1252,08/04/2013,"Rubio's Fresh Mexican Grill",24.00,restaurants
+1253,09/24/2013,"FoodLand Supermarkets",152.00,grocery
+1254,09/25/2013,"Love's",86.00,transportation
+1255,09/27/2013,"Exxon",29.00,transportation
+1257,09/06/2013,"BP",22.00,transportation
+1259,09/05/2013,"gas",62.00,transportation
+1260,09/13/2013,"Rite aid",362.00,home
+1261,09/23/2013,"Rite aid",476.00,home
+1262,09/19/2013,"Aeropostale",25.00,shopping
+1263,09/08/2013,"American Eagle",55.00,shopping
+1264,09/02/2013,"Belk",56.00,shopping
+1265,09/18/2013,"Parisian (Bon-Ton)",130.00,shopping
+1266,09/03/2013,"T-Mobile",156.00,utilities
+1267,09/01/2013,"bill",280.00,utilities
+1269,09/30/2013,"Ground Round",10.00,restaurants
+1270,09/03/2013,"Godfather's Pizza",47.00,restaurants
+1271,09/01/2013,"Gino's Pizza and Spaghetti",31.00,restaurants
+1272,09/05/2013,"California Pizza Kitchen",34.00,restaurants
+1274,09/29/2013,"Benihana",5.00,restaurants
+1275,09/07/2013,"RA Sushi",27.00,restaurants
+1276,09/16/2013,"Carvel Ice Cream",17.00,restaurants
+1277,09/25/2013,"Cracker Barrel Old Country Store",43.00,restaurants
+1278,10/22/2013,"IGA",60.00,grocery
+1280,10/06/2013,"Wawa",60.00,transportation
+1281,10/15/2013,"tree of life christian outlet",16.00,entertainment
+1282,10/30/2013,"books inc",13.00,entertainment
+1283,10/01/2013,"home",326.00,home
+1284,10/10/2013,"Home Depot",251.00,home
+1285,10/25/2013,"Costco",439.00,home
+1286,10/25/2013,"Dillard's",126.00,shopping
+1287,10/09/2013,"Sizzler",35.00,restaurants
+1288,11/02/2013,"Exxon",86.00,transportation
+1289,11/26/2013,"Home Depot",375.00,home
+1290,11/07/2013,"Rite aid",405.00,home
+1291,11/06/2013,"Target",333.00,home
+1292,11/30/2013,"Captain D's",26.00,restaurants
+1293,11/01/2013,"Carrows",14.00,restaurants
+1294,11/26/2013,"Denny's",6.00,restaurants
+1295,11/10/2013,"Jack in the Box",31.00,restaurants
+1296,11/08/2013,"Gino's Pizza and Spaghetti",34.00,restaurants
+1297,12/03/2013,"Patel Brothers",180.00,grocery
+1298,12/08/2013,"Gristedes",106.00,grocery
+1300,12/04/2013,"Marathon Oil",33.00,transportation
+1301,12/17/2013,"Mobil",39.00,transportation
+1302,12/11/2013,"books a million",17.00,entertainment
+1303,12/19/2013,"books-a-million",14.00,entertainment
+1305,12/08/2013,"Ikea",188.00,home
+1306,12/10/2013,"Best Buy",389.00,home
+1307,12/22/2013,"Office Depot",489.00,home
+1308,12/23/2013,"CVS",136.00,home
+1309,12/29/2013,"Southern Company",169.00,utilities
+1310,12/14/2013,"Flint Energies",62.00,utilities
+1311,12/04/2013,"Carl's Jr.",50.00,restaurants
+1312,12/20/2013,"Burgerville",26.00,restaurants
+1313,12/10/2013,"Jersey Mike's Subs",31.00,restaurants
+1314,12/21/2013,"Pizza Hut",47.00,restaurants
+1315,12/07/2013,"Donatos Pizza",31.00,restaurants
+1316,12/16/2013,"Jack in the Box",15.00,restaurants
+1317,12/31/2013,"Famous Dave's",34.00,restaurants
+1319,01/23/2012,"Sunoco",29.00,transportation
+1320,01/08/2012,"RaceTrac/Raceway",93.00,transportation
+1321,01/06/2012,"Kroger brand gasoline",79.00,transportation
+1322,01/15/2012,"ARCO",65.00,transportation
+1323,01/09/2012,"Southwest",40.00,transportation
+1324,01/10/2012,"AMC",27.00,entertainment
+1325,01/25/2012,"book off usa",13.00,entertainment
+1326,01/24/2012,"Lord & Taylor",28.00,shopping
+1327,01/13/2012,"Hollister",23.00,shopping
+1328,01/30/2012,"Boscov's",54.00,shopping
+1329,01/25/2012,"The Bon-Ton",172.00,shopping
+1330,01/05/2012,"verizon",298.00,utilities
+1331,01/08/2012,"Arctic Circle Restaurants",18.00,restaurants
+1332,01/09/2012,"The Capital Grille",47.00,restaurants
+1333,01/12/2012,"Showmars",12.00,restaurants
+1334,01/17/2012,"McAlister's Deli",13.00,restaurants
+1335,01/07/2012,"Golden Chick",44.00,restaurants
+1336,01/08/2012,"Auntie Anne's",32.00,restaurants
+1337,01/06/2012,"Planet Hollywood",48.00,restaurants
+1338,01/17/2012,"Red Robin",17.00,restaurants
+1339,01/14/2012,"Old Country Buffet",31.00,restaurants
+1340,01/01/2012,"Mrs. Fields",10.00,restaurants
+1341,02/15/2012,"Andronico's",24.00,grocery
+1342,02/14/2012,"Piggly Wiggly",53.00,grocery
+1343,02/28/2012,"MARTA",88.00,transportation
+1344,02/15/2012,"Sunoco",39.00,transportation
+1345,02/15/2012,"Newegg",284.00,home
+1346,02/28/2012,"officemax",179.00,home
+1347,02/04/2012,"Lord & Taylor",168.00,shopping
+1348,02/11/2012,"Carson Pirie Scott",190.00,shopping
+1349,02/08/2012,"Macy's",143.00,shopping
+1350,02/08/2012,"Bergdorf Goodman",108.00,shopping
+1351,02/28/2012,"The Bon-Ton",23.00,shopping
+1352,02/25/2012,"T-Mobile",50.00,utilities
+1353,02/16/2012,"Quiznos",8.00,restaurants
+1354,02/07/2012,"Panera Bread",47.00,restaurants
+1355,02/26/2012,"Cinnabon",41.00,restaurants
+1356,02/23/2012,"Mazzio's Italian Eatery",23.00,restaurants
+1357,02/16/2012,"Gatti's Pizza",19.00,restaurants
+1358,02/20/2012,"Bonefish Grill",49.00,restaurants
+1359,02/02/2012,"Steak 'n Shake",50.00,restaurants
+1360,02/09/2012,"Del Taco",38.00,restaurants
+1361,02/17/2012,"Cafe Rio",25.00,restaurants
+1363,03/05/2012,"Affiliated Foods Midwest",179.00,grocery
+1364,03/09/2012,"Amtrak",57.00,transportation
+1365,03/04/2012,"Wawa",90.00,transportation
+1366,03/20/2012,"Carnival",38.00,transportation
+1367,03/25/2012,"printsasia",24.00,entertainment
+1368,03/12/2012,"movie",27.00,entertainment
+1369,03/19/2012,"Lowes",446.00,home
+1370,03/31/2012,"home",104.00,home
+1371,03/29/2012,"verizon",216.00,utilities
+1372,03/02/2012,"DirectTV",262.00,utilities
+1373,03/02/2012,"Redstone American Grill",39.00,restaurants
+1374,03/09/2012,"L&L Hawaiian Barbecue",10.00,restaurants
+1376,03/14/2012,"Dixie Chili and Deli",42.00,restaurants
+1377,03/29/2012,"Godfather's Pizza",36.00,restaurants
+1378,03/09/2012,"Jimmy John's",9.00,restaurants
+1379,03/09/2012,"Burger King",46.00,restaurants
+1380,03/18/2012,"In-N-Out Burger",6.00,restaurants
+1381,03/24/2012,"Sticky Fingers",49.00,restaurants
+1382,04/25/2012,"Smart & Final",106.00,grocery
+1383,04/14/2012,"Texaco",74.00,transportation
+1384,04/24/2012,"shakespeare and company",30.00,entertainment
+1385,04/08/2012,"cinema",29.00,entertainment
+1386,04/15/2012,"Hulu",7.00,entertainment
+1387,04/18/2012,"Red Robin",33.00,restaurants
+1388,04/22/2012,"Boston Market",22.00,restaurants
+1389,04/11/2012,"Buffalo Wild Wings",45.00,restaurants
+1390,04/02/2012,"Joe's Crab Shack",23.00,restaurants
+1391,05/12/2012,"Lion Food",108.00,grocery
+1392,05/30/2012,"Flying J",91.00,transportation
+1393,05/03/2012,"QuickChek",97.00,transportation
+1394,05/24/2012,"half price books",27.00,entertainment
+1395,05/27/2012,"hastings entertainment",23.00,entertainment
+1396,05/30/2012,"deseret book",20.00,entertainment
+1397,05/24/2012,"Staples",171.00,home
+1398,05/15/2012,"ACE",329.00,home
+1399,05/13/2012,"Radioshack",44.00,home
+1400,05/21/2012,"Ikea",31.00,home
+1401,05/19/2012,"Carson Pirie Scott",42.00,shopping
+1402,05/28/2012,"Macy's",144.00,shopping
+1403,05/06/2012,"Macy's",195.00,shopping
+1404,05/12/2012,"Macy's",188.00,shopping
+1405,05/29/2012,"verizon",196.00,utilities
+1406,05/22/2012,"Popeyes Chicken & Biscuits",39.00,restaurants
+1407,05/11/2012,"Seattle's Best Coffee",21.00,restaurants
+1409,05/28/2012,""	"",34.00,restaurants
+1410,05/05/2012,"Papa Murphy's Take 'N' Bake pizza",39.00,restaurants
+1411,05/15/2012,"Penn Station (restaurant)",27.00,restaurants
+1412,05/26/2012,"Baja Fresh",38.00,restaurants
+1413,05/19/2012,"Cheesecake Factory",49.00,restaurants
+1414,05/03/2012,"Penn Station (restaurant)",34.00,restaurants
+1415,05/30/2012,"CiCi's Pizza",32.00,restaurants
+1416,06/12/2012,"Reasors",199.00,grocery
+1417,06/13/2012,"Kroger",122.00,grocery
+1418,06/01/2012,"Thrift Way/Shop n Bag",136.00,grocery
+1419,06/05/2012,"Phillips 66",41.00,transportation
+1420,06/27/2012,"Love's",36.00,transportation
+1421,06/21/2012,"Exxon",86.00,transportation
+1422,06/25/2012,"Love's",44.00,transportation
+1423,06/20/2012,"Hulu",5.00,entertainment
+1424,06/08/2012,"books inc",27.00,entertainment
+1425,06/18/2012,"Best Buy",211.00,home
+1426,06/24/2012,"Elder-Beerman",32.00,shopping
+1427,06/05/2012,"Macy's",193.00,shopping
+1428,06/19/2012,"Bloomingdale's",190.00,shopping
+1429,06/21/2012,"metropcs",292.00,utilities
+1430,06/17/2012,"DirectTV",83.00,utilities
+1431,06/17/2012,"York Steak House",47.00,restaurants
+1433,06/17/2012,"Moe's Southwest Grill",49.00,restaurants
+1434,06/03/2012,""	"",22.00,restaurants
+1435,06/27/2012,"Lyon's",24.00,restaurants
+1436,06/21/2012,"Auntie Anne's",48.00,restaurants
+1437,06/09/2012,"Mrs. Fields",18.00,restaurants
+1438,07/14/2012,"Shun Fat Supermarket",149.00,grocery
+1439,07/23/2012,"Love's",82.00,transportation
+1440,07/10/2012,"Flying J",100.00,transportation
+1441,07/19/2012,"Hess",26.00,transportation
+1442,07/11/2012,"book off usa",20.00,entertainment
+1443,07/13/2012,"game",5.00,entertainment
+1444,07/13/2012,"games",24.00,entertainment
+1445,07/09/2012,"American Eagle",110.00,shopping
+1446,07/27/2012,"Tennesse Valley Authority",75.00,utilities
+1447,07/23/2012,"Georgia Power",146.00,utilities
+1448,07/11/2012,"Landry's Restaurants",19.00,restaurants
+1449,08/01/2012,"train",24.00,transportation
+1450,08/07/2012,"Belk",103.00,shopping
+1451,08/02/2012,"Lord & Taylor",182.00,shopping
+1452,08/21/2012,"Bergner's",46.00,shopping
+1453,08/02/2012,"verizon",247.00,utilities
+1454,08/16/2012,"Sbarro",29.00,restaurants
+1455,08/17/2012,"Houlihan's",30.00,restaurants
+1456,08/01/2012,"GameWorks",17.00,restaurants
+1457,09/26/2012,"New Deal Supermarket",92.00,grocery
+1458,09/17/2012,"Safeway Inc.",25.00,grocery
+1459,09/28/2012,"Bristol Farms",60.00,grocery
+1460,09/04/2012,"train",23.00,transportation
+1461,09/16/2012,"Gas City, Ltd.",68.00,transportation
+1462,09/30/2012,"itunes",16.00,entertainment
+1463,09/09/2012,"Radioshack",169.00,home
+1467,09/28/2012,"Herberger's",164.00,shopping
+1468,09/14/2012,"Flint Energies",291.00,utilities
+1469,09/05/2012,"hospital",2625.00,special
+1470,09/02/2012,"Fresh Choice",20.00,restaurants
+1471,09/15/2012,"Sub Station II",18.00,restaurants
+1472,09/24/2012,"Hardee's",6.00,restaurants
+1473,09/02/2012,"Arby's",30.00,restaurants
+1474,09/08/2012,"FATZ",44.00,restaurants
+1475,09/07/2012,"Godfather's Pizza",19.00,restaurants
+1476,09/23/2012,"Swensons",25.00,restaurants
+1480,10/02/2012,"Shell",76.00,transportation
+1481,10/04/2012,"Getty",35.00,transportation
+1482,10/29/2012,"Newegg",260.00,home
+1483,10/30/2012,"6pm",10.00,home
+1484,10/25/2012,"JCPenney",66.00,shopping
+1485,10/01/2012,"GA Tech",3007.00,special
+1486,10/29/2012,"Moe's Southwest Grill",41.00,restaurants
+1487,10/04/2012,"Olive Garden",12.00,restaurants
+1488,10/23/2012,"T.G.I. Friday's",10.00,restaurants
+1489,10/22/2012,"Charlie Brown's Steakhouse",43.00,restaurants
+1490,10/16/2012,"Godfather's Pizza",24.00,restaurants
+1491,11/29/2012,"subway",61.00,transportation
+1492,11/27/2012,"gas",56.00,transportation
+1493,11/18/2012,"ARCO",63.00,transportation
+1494,11/29/2012,"BP",54.00,transportation
+1495,11/23/2012,"BP",21.00,transportation
+1496,11/10/2012,"Exxon",94.00,transportation
+1497,11/15/2012,"Rite aid",128.00,home
+1498,11/19/2012,"Kirkland's",134.00,home
+1499,11/23/2012,"Saks Fifth Avenue",86.00,shopping
+1500,11/03/2012,"Big Boy",22.00,restaurants
+1501,12/11/2012,"Kroger",137.00,grocery
+1502,12/24/2012,"Kroger brand gasoline",57.00,transportation
+1503,12/11/2012,"Flying J",57.00,transportation
+1504,12/28/2012,"Gulf",89.00,transportation
+1505,12/05/2012,"Cinemark",25.00,entertainment
+1506,12/23/2012,"walgreens",232.00,home
+1507,12/23/2012,"Costco",253.00,home
+1508,12/16/2012,"Sears Essentials",75.00,shopping
+1509,12/31/2012,"Elder-Beerman",20.00,shopping
+1510,12/16/2012,"H&M",110.00,shopping
+1512,12/02/2012,"Green Burrito",50.00,restaurants
+1513,12/29/2012,"Waffle House",38.00,restaurants
+1514,01/06/2013,"Western Family Foods",33.00,grocery
+1516,01/01/2013,"Pilot",29.00,transportation
+1517,01/21/2013,"RaceTrac/Raceway",79.00,transportation
+1518,01/10/2013,"Boscov's",147.00,shopping
+1519,01/01/2013,"Flint Energies",281.00,utilities
+1520,01/29/2013,"Chipotle Mexican Grill",38.00,restaurants
+1521,01/10/2013,"Valentino's",42.00,restaurants
+1522,01/28/2013,"Little Caesars",15.00,restaurants
+1523,01/30/2013,"Checkers",6.00,restaurants
+1524,01/14/2013,"Cracker Barrel Old Country Store",32.00,restaurants
+1525,01/16/2013,"Cheddar's Casual Café",39.00,restaurants
+1526,01/23/2013,"Penn Station (restaurant)",35.00,restaurants
+1527,02/25/2013,"Magruder's",170.00,grocery
+1528,02/20/2013,"Mobil",39.00,transportation
+1529,02/10/2013,"Mobil",47.00,transportation
+1530,02/26/2013,"Lukoil",89.00,transportation
+1531,02/21/2013,"BP",43.00,transportation
+1532,02/02/2013,"Carnival",67.00,transportation
+1534,02/02/2013,"schuler books & music",24.00,entertainment
+1535,02/01/2013,"hastings entertainment",7.00,entertainment
+1536,02/07/2013,"Rite aid",439.00,home
+1537,02/05/2013,"Rite aid",345.00,home
+1538,02/05/2013,"Target",19.00,home
+1539,02/09/2013,"Ikea",172.00,home
+1540,02/22/2013,"Hollister",36.00,shopping
+1541,02/16/2013,"The Bon-Ton",155.00,shopping
+1542,02/01/2013,"Dish Network",53.00,utilities
+1543,02/20/2013,"Southern Company",267.00,utilities
+1544,02/22/2013,"Chi-Chi's",44.00,restaurants
+1545,02/03/2013,"Swensons",28.00,restaurants
+1546,02/04/2013,"Jim's Restaurants",28.00,restaurants
+1547,02/12/2013,"Benihana",30.00,restaurants
+1548,03/19/2013,"Shell",51.00,transportation
+1549,03/01/2013,"Royal Farms",88.00,transportation
+1550,03/31/2013,"American Airlines",32.00,transportation
+1551,03/19/2013,"7-Eleven brand gasoline",78.00,transportation
+1552,03/23/2013,"Wawa",22.00,transportation
+1553,03/11/2013,"Marathon Oil",50.00,transportation
+1554,03/22/2013,"Flying J",45.00,transportation
+1555,03/02/2013,"QuikTrip",76.00,transportation
+1556,03/17/2013,"gamestop",8.00,entertainment
+1557,03/21/2013,"Walmart",38.00,home
+1558,03/30/2013,"Costco",100.00,home
+1559,03/13/2013,"Staples",268.00,home
+1560,03/14/2013,"home",227.00,home
+1561,03/17/2013,"Boston Store",155.00,shopping
+1562,03/27/2013,"Dillard's",37.00,shopping
+1563,03/14/2013,"Von Maur",141.00,shopping
+1564,03/15/2013,"Boscov's",109.00,shopping
+1565,03/08/2013,"Bergdorf Goodman",79.00,shopping
+1566,03/24/2013,"Georgia Power",254.00,utilities
+1567,03/09/2013,"utility",62.00,utilities
+1568,03/02/2013,"Pizza Hut",29.00,restaurants
+1569,03/04/2013,"FATZ",36.00,restaurants
+1570,03/20/2013,"Culver's",13.00,restaurants
+1571,03/09/2013,"Cheddar's Casual Café",35.00,restaurants
+1572,03/01/2013,"Round Table Pizza",9.00,restaurants
+1574,03/17/2013,"Ground Round",16.00,restaurants
+1575,03/20/2013,""	"",9.00,restaurants
+1576,03/31/2013,"Burger King",19.00,restaurants
+1577,04/20/2013,"Kam Man Food",70.00,grocery
+1578,04/28/2013,"Dahl's Foods",147.00,grocery
+1579,04/27/2013,"Stater Brothers",62.00,grocery
+1580,04/03/2013,"Amtrak",45.00,transportation
+1581,04/17/2013,"American Airlines",24.00,transportation
+1582,04/04/2013,"Sinclair",94.00,transportation
+1583,04/11/2013,"Wawa",31.00,transportation
+1584,04/28/2013,"train",33.00,transportation
+1585,04/20/2013,"train",93.00,transportation
+1586,04/06/2013,"shakespeare and company",22.00,entertainment
+1587,04/12/2013,"game",18.00,entertainment
+1588,04/02/2013,"barns and noble",25.00,entertainment
+1589,04/01/2013,"Saks Fifth Avenue",196.00,shopping
+1590,04/23/2013,"Nordstrom Rack",168.00,shopping
+1591,04/22/2013,"Amazon.com",196.00,shopping
+1592,04/19/2013,"Tmobile",202.00,utilities
+1593,04/20/2013,"Chick Fil A",34.00,restaurants
+1594,04/21/2013,"Cracker Barrel Old Country Store",18.00,restaurants
+1595,04/21/2013,"Hungry Howie's Pizza",43.00,restaurants
+1596,04/19/2013,"Huddle House",17.00,restaurants
+1597,04/27/2013,"Damon's Grill",42.00,restaurants
+1598,04/26/2013,"Chipotle Mexican Grill",43.00,restaurants
+1599,04/19/2013,"Ledo Pizza",20.00,restaurants
+1600,04/19/2013,"Golden Corral",22.00,restaurants
+1601,04/28/2013,"Ledo Pizza",31.00,restaurants
+1602,04/28/2013,"Redstone American Grill",34.00,restaurants
+1603,05/06/2013,"Foodtown",162.00,grocery
+1604,05/18/2013,"Netflix",29.00,entertainment
+1606,05/28/2013,"books-a-million",29.00,entertainment
+1607,05/18/2013,"walgreens",55.00,home
+1608,05/24/2013,"Lord & Taylor",38.00,shopping
+1609,05/25/2013,"Tmobile",218.00,utilities
+1611,05/09/2013,"Seasons 52",38.00,restaurants
+1612,05/23/2013,"O'Charley's",29.00,restaurants
+1613,06/06/2013,"Fresh and Easy",41.00,grocery
+1614,06/03/2013,"Shell",54.00,transportation
+1615,06/27/2013,"itunes",24.00,entertainment
+1616,06/11/2013,"Rite aid",184.00,home
+1617,06/07/2013,"CVS",400.00,home
+1618,06/19/2013,"CVS",332.00,home
+1619,06/30/2013,"home",162.00,home
+1620,06/19/2013,"Bergner's",189.00,shopping
+1621,06/29/2013,"Aeropostale",90.00,shopping
+1623,06/09/2013,"Macy's",40.00,shopping
+1624,06/06/2013,"utility",59.00,utilities
+1626,06/27/2013,"Seasons 52",35.00,restaurants
+1627,06/08/2013,"Burger King",33.00,restaurants
+1628,07/30/2013,"Hy-Vee Food Stores",107.00,grocery
+1629,07/18/2013,"American Airlines",39.00,transportation
+1630,07/16/2013,"Delta",83.00,transportation
+1632,07/05/2013,"Cumberland Farms",99.00,transportation
+1634,07/19/2013,"JetBlue",82.00,transportation
+1635,07/16/2013,"Texaco",43.00,transportation
+1636,07/05/2013,"half price books",15.00,entertainment
+1637,07/27/2013,"CVS",30.00,home
+1638,07/18/2013,"Staples",143.00,home
+1639,07/15/2013,"6pm",23.00,home
+1640,07/04/2013,"officemax",430.00,home
+1641,07/27/2013,"H&M",85.00,shopping
+1642,07/16/2013,"Elder-Beerman",122.00,shopping
+1643,07/02/2013,"verizon",85.00,utilities
+1644,07/01/2013,"verizon",265.00,utilities
+1645,07/21/2013,"Old Country Buffet",35.00,restaurants
+1646,08/06/2013,"Lunds",75.00,grocery
+1647,08/26/2013,"Stewart's Shops",146.00,grocery
+1648,08/02/2013,"Sedano's",124.00,grocery
+1649,08/14/2013,"Marathon Oil",47.00,transportation
+1650,08/14/2013,"Newegg",37.00,home
+1651,08/31/2013,"Macy's",45.00,shopping
+1652,08/26/2013,"Nordstrom",119.00,shopping
+1653,08/04/2013,"Barneys New York",66.00,shopping
+1654,08/11/2013,"Johnny Rockets",41.00,restaurants
+1655,08/17/2013,"Golden Corral",10.00,restaurants
+1656,08/17/2013,"Whataburger",12.00,restaurants
+1657,08/17/2013,"Carrabba's Italian Grill",9.00,restaurants
+1658,08/25/2013,"Jason's Deli",13.00,restaurants
+1659,09/16/2013,"Chevron",40.00,transportation
+1660,09/29/2013,"Sheetz",93.00,transportation
+1661,09/24/2013,"subway",84.00,transportation
+1662,09/29/2013,"bus",26.00,transportation
+1663,09/16/2013,"Wawa",28.00,transportation
+1664,09/20/2013,"Regal",5.00,entertainment
+1665,09/18/2013,"UPS",445.00,home
+1666,09/19/2013,"Sears Essentials",148.00,shopping
+1667,09/15/2013,"Off 5th Saks Fifth Avenue Outlet",22.00,shopping
+1668,09/01/2013,"Von Maur",88.00,shopping
+1669,09/20/2013,"Carson Pirie Scott",182.00,shopping
+1670,09/27/2013,"AT&T",158.00,utilities
+1671,09/05/2013,"Taxes",704.00,special
+1672,09/30/2013,"Burger King",16.00,restaurants
+1673,09/14/2013,"Shoney's",50.00,restaurants
+1674,09/23/2013,"Golden Corral",8.00,restaurants
+1675,09/01/2013,"Trader Vic's",41.00,restaurants
+1676,10/22/2013,"Bashas'",187.00,grocery
+1677,10/21/2013,"Cumberland Farms",55.00,transportation
+1678,10/01/2013,"Delta",53.00,transportation
+1679,10/08/2013,"Citgo",46.00,transportation
+1680,10/20/2013,"Mobil",33.00,transportation
+1681,10/18/2013,"Nordstrom",68.00,shopping
+1682,10/04/2013,"The Bon-Ton",72.00,shopping
+1683,10/12/2013,"H&M",133.00,shopping
+1684,10/22/2013,"AT&T",82.00,utilities
+1685,10/01/2013,"Romano's Macaroni Grill",45.00,restaurants
+1686,10/01/2013,"Village Inn",17.00,restaurants
+1687,10/23/2013,"Cracker Barrel Old Country Store",50.00,restaurants
+1688,10/05/2013,"Shoney's",44.00,restaurants
+1689,11/05/2013,"ShopRite",123.00,grocery
+1690,11/11/2013,"Associated Wholesale Grocers",194.00,grocery
+1691,11/23/2013,"Quality Foods",147.00,grocery
+1692,11/10/2013,"Sheetz",47.00,transportation
+1693,11/08/2013,"Shell",73.00,transportation
+1694,11/12/2013,"Shell",26.00,transportation
+1695,11/28/2013,"Chevron",100.00,transportation
+1697,11/14/2013,"QuickChek",56.00,transportation
+1698,11/21/2013,"gamestop",19.00,entertainment
+1700,11/02/2013,"books a million",25.00,entertainment
+1701,11/28/2013,"Costco",464.00,home
+1702,11/22/2013,"hhgregg",452.00,home
+1703,11/25/2013,"Barneys New York",89.00,shopping
+1704,11/13/2013,"verizon",289.00,utilities
+1705,11/01/2013,"Maggiano's Little Italy",42.00,restaurants
+1706,11/04/2013,"Country Buffet",12.00,restaurants
+1707,11/12/2013,"Rubio's Fresh Mexican Grill",22.00,restaurants
+1708,11/25/2013,"Mazzio's Italian Eatery",23.00,restaurants
+1709,12/16/2013,"Harris Teeter",114.00,grocery
+1710,12/04/2013,"Big Y Foods",29.00,grocery
+1711,12/28/2013,"Village market",94.00,grocery
+1712,12/17/2013,"Chevron",32.00,transportation
+1713,12/08/2013,"BP",41.00,transportation
+1714,12/20/2013,"ferry",20.00,transportation
+1715,12/10/2013,"Shell",31.00,transportation
+1716,12/27/2013,"Southwest",73.00,transportation
+1718,12/02/2013,"schuler books & music",23.00,entertainment
+1719,12/25/2013,"game",28.00,entertainment
+1720,12/05/2013,"officemax",177.00,home
+1721,12/23/2013,"Bergner's",97.00,shopping
+1722,12/11/2013,"Off 5th Saks Fifth Avenue Outlet",83.00,shopping
+1723,12/03/2013,"Bergner's",149.00,shopping
+1724,12/09/2013,"T-Mobile",61.00,utilities
+1726,12/25/2013,"Cheeseburger in Paradise",49.00,restaurants
