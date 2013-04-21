@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel='stylesheet' type='text/css' href='css/fullcalendar.css' />
+    <script type='text/javascript' src='js/jquery-1.9.1.min.js'></script>
+    <script type='text/javascript' src='js/fullcalendar.min.js'></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type='text/javascript' src='js/utils.js'></script>
+    <script>
+        $(document).ready(function() {
+
+            // page is now ready, initialize the calendar...
+
+            $('#calendar').fullCalendar({
+                weekMode: 'variable'
+                // put your options and callbacks here
+            })
+            
+            getData(function(rows) {console.log(JSON.stringify(rows[1300], undefined, 2));});
+
+        });
+    </script>
+    <style>
+        body {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+        }
+
+        #calendar {
+            width: 1200px;
+            
+            margin: 0 auto;
+        }
+    </style>
+</head>
+</head>
+<body>
+    <div id='calendar'></div>
+</body>
+</html>
