@@ -36,8 +36,8 @@
             msg_days: ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"],
             msg_months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
             msg_today: 'Today',
-            msg_events_header: 'Events Today',
-            events: null
+            // msg_events_header: 'Events Today',
+            // events: null
         },
         
         template = '' +
@@ -103,42 +103,7 @@
         this.init();
     }
 
-    Plugin.prototype.on_prev = function(e) {
-        e.stopPropagation();
-        e.preventDefault();
-        this.update_date('prv');
-        var prv = new Date(this.yp, this.mm, 1);
-        this.live_date = prv;
-        this.renderCalendar(prv, this.events);
-        this.element.trigger({
-            type: 'onPrev',
-        });
-    }
-
-    Plugin.prototype.on_current = function(e) {
-        e.stopPropagation();
-        e.preventDefault();
-        this.update_date('crt');
-        var now = new Date();
-        this.live_date = now;
-        this.renderCalendar(now, this.events);
-        this.element.trigger({
-            type: 'onCurrent',
-        });
-    }
-
-    Plugin.prototype.on_next = function(e) {
-        e.stopPropagation();
-        e.preventDefault();
-        this.update_date('nxt');
-        var nxt = new Date(this.yn, this.mm, 1);
-        this.live_date = nxt;
-        this.renderCalendar(nxt, this.events);
-        this.element.trigger({
-            type: 'onNext',
-        });
-    }
-
+    
     Plugin.prototype.init = function () {
         // Place initialization logic here
         // You already have access to the DOM element and
@@ -148,8 +113,8 @@
         this.days = this.options.msg_days;
         this.months = this.options.msg_months;
         this.msg_today = this.options.msg_today;        
-        this.msg_events_hdr = this.options.msg_events_header;
-        this.events = this.options.events;
+        // this.msg_events_hdr = this.options.msg_events_header;
+        // this.events = this.options.events;
 
         this.calendar = $(template.replace("%msg_today%",this.msg_today)).appendTo(this.element);/*.on({
                                 click: $.proxy(this.click, this)
@@ -170,16 +135,16 @@
         this.yn = mon.getFullYear();
 
 
-        if (this.component){
+        /*if (this.component){
             this.component.on('click', $.proxy(this.show, this));
         } else {
             this.element.on('click', $.proxy(this.show, this));
-        }
+        }*/
 
         this.renderCalendar(now);
     };
 
-    Plugin.prototype.renderEvents = function (events, elem) {
+/*    Plugin.prototype.renderEvents = function (events, elem) {
         var live_date = this.live_date;
         var msg_evnts_hdr = this.msg_events_hdr;
         for(var i=1; i<=daysInMonth[live_date.getMonth()]; i++){
@@ -217,7 +182,7 @@
             }
         }
     };
-
+*/
     Plugin.prototype.renderCalendar = function (date) {
         var mon = new Date(this.yy, this.mm, 1);
         var live_date = this.live_date;
@@ -261,7 +226,7 @@
             for(var j=this.weekStart; j<this.days.length + this.weekStart; j++){
 
                 cls = "";
-                msg = "";
+                // msg = "";
                 id = "";
 
                 // Determine if we have reached the first of the month
@@ -304,10 +269,10 @@
                 if(dow == 0){
                     // _html += '<td>&nbsp;</td>';
                     _html += '<div class="myspn1 tab_cell">&nbsp;</div>';
-                }else if(msg.length > 0){
+                } else /*if(msg.length > 0){
 
                     _html += '<td class="' +cls+ '" id="'+id+'" year="' + year + '" month="' + month_ + '" day="' + dow + '"><span class="weekday">' +dow+ '</span></td>';
-                }else{
+                }else*/ {
                     _html += '<div class="myspn1 tab_cell ' +cls+ '" id="'+id+'" year="' + year + '" month="' + month_ + '" day="' + dow + '">' +
                                 '<div><span class="pull-right" style="padding-right:10px">'+dow+'</span>' +
                             '</div></div>'
@@ -331,7 +296,44 @@
         this.calendar.find('#calendar-header').append(html);
     };
 
-    Plugin.prototype.click = function (e) {
+    Plugin.prototype.on_prev = function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        this.update_date('prv');
+        var prv = new Date(this.yp, this.mm, 1);
+        this.live_date = prv;
+        this.renderCalendar(prv);//, this.events);
+        this.element.trigger({
+            type: 'onPrev',
+        });
+    }
+
+    Plugin.prototype.on_current = function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        this.update_date('crt');
+        var now = new Date();
+        this.live_date = now;
+        this.renderCalendar(now);//, this.events);
+        this.element.trigger({
+            type: 'onCurrent',
+        });
+    }
+
+    Plugin.prototype.on_next = function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        this.update_date('nxt');
+        var nxt = new Date(this.yn, this.mm, 1);
+        this.live_date = nxt;
+        this.renderCalendar(nxt);//, this.events);
+        this.element.trigger({
+            type: 'onNext',
+        });
+    }
+
+
+    /*Plugin.prototype.click = function (e) {
         console.log('click called');
         e.stopPropagation();
             e.preventDefault();
@@ -411,7 +413,7 @@
                     break;
                 }
             }
-    };
+    };*/
 
     Plugin.prototype.update_date = function (action) {
         var now = new Date();
