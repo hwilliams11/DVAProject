@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>My Split Expenses</title>
+        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		<style>
+			body {
+			  padding:20px;
+			  margin: auto;
+			  font-family:Tahoma;
+			  text-align:center;
+			} 
+			table{
+				align:center;
+				margin:auto;
+				padding:20px;
+			}
+			td,th{
+				text-align:center;
+				padding:5px;
+				font-size:15px;
+			}
+		</style>
+    </head>
+    <body>
+        <script type="text/javascript">
+            		
+			
+			var filename1 = "Expenses.csv";	
+			var filename2 = "ExpenseUser.csv";	
+			var expenseUser = {};
+			var expenses = [];
+			var eData;
+			var euData;
+			var foo = new Date("06/08/2010");
+			var day = foo.getDate();
+			var month = foo.getMonth();
+			var year = foo.getFullYear();
+			var e = new Expense(1,"06/08/2010",3,4,5);
+			var currUser = 3;
+			var bankUsers = {1:'Rahul Agrawal',2:'Yi Ding',3:'Holly Williams',4:'Anqi Zou'};
+			
+		
+			d3.select("body").append("h1").text("Split Expenses");
+			
+
+			d3.text( filename1,"text/csv",getExpenses);
+			
+			
+			
+			
+			function getExpenses(csv){
+				var eRows = d3.csv.parseRows(csv);
+				var eid,edate,description,amount,category;
+				var td,tr;
+				
+				
+				eData = eRows;
+				
+				for( var i=1;i<eRows.length;i++){
+					eid = eRows[i][0];
+					edate = eRows[i][1];
+					description = eRows[i][2];
+					amount = eRows[i][3];
+					category = eRows[i][4];
+					expenses.push( new Expense(eid,edate,description,amount,category) );
+					
+				}
+				expenses.sort(function(a,b){return a.eid-b.eid});
+					
+				//showExpenses();  
+			}
+			
+			d3.text( filename2,"text/csv",getExpenseUser);
+			
+			function getExpenseUser(csv){
+				var euRows = d3.csv.parseRows(csv);
+				var eid,edate,description,amount,category,month,day,year;
+				euData = euRows;
+				
+				
+				for(var i=1;i<euRows.length;i++){
+				
+					
+					expenseId = euRows[i][0];
+					userId = euRows[i][1];
+					paid = euRows[i][2];
+					expenseShared = euRows[i][3];
+					//expenseIds start at 1
+					edate = expenses[expenseId-1].date;
+					
+					//expenseUser[userId]=edate;
+					addUserExpense( userId, paid, expenseId, edate );
+					
+					//expenseUser[userId][year][month].push( expenseId );
+					expenses[expenseId-1].addUser( userId,paid );
+				}
+
+				//showUserExpenses(1);
+				getSplitExpenses(currUser);
+				
+				/*
+				d3.select("body").append("table")
+				  .selectAll("tr")
+				  .data(confData)
+				  .enter().append("tr")
+				  .selectAll("td")
+				  .data(Object)
+				  .enter().append("td")
+				  .text(String)
+				  .style("text-align","center");
+				*/  
+					
+			}
+			
+			
+			
+				  
+			function addUserExpense( userId, paid, expenseId, date ){
+				
+				var month,day,year;
+				
+				
+				month = date.getMonth();
+				day = date.getFullYear();
+				year = date.getFullYear();
+				
+				
+				
+				if( expenseUser[userId]==undefined ){
+					expenseUser[userId] = {};
+				}
+				
+				if( expenseUser[userId][year]==undefined ){
+					expenseUser[userId][year] = {};
+				}
+				if( expenseUser[userId][year][month]==undefined){
+					expenseUser[userId][year][month] = [];
+				}
+				data = [expenseId,paid];
+				expenseUser[userId][year][month].push( data );
+				
+			}
+			function Expense(eid,dateStr,desc,amt,category){
+			
+				this.eid = eid;
+				this.date = new Date(dateStr);
+				this.desc = desc;
+				this.amt = amt;
+				this.category = category;
+				this.users = [];
+				
+				this.getInfo = function (){
+					return this.eid+" "+e.date+" "+e.desc;
+				}
+				this.addUser = function(userid,paid){
+					einfo = [userid,paid];
+					this.users.push(einfo);
+				}
+				this.getDate = function(){
+					var month,day,year;
+					
+					month = this.date.getMonth()+1;
+					day = this.date.getDay();
+					year = this.date.getFullYear();
+					return month+"/"+day+"/"+year;
+				}
+			}
+			function showExpenses(){
+			
+				d3.select("body").append("table");
+				
+				for(var i=0;i<expenses.length;i++){
+					
+					displayRowExpense(expenses[i]);
+					
+				}
+				
+			}
+			function displayRowExpense(expense,paid){
+				
+					var tr,td;
+					
+					tr = d3.select("table")
+					.append("tr");
+					
+					tr.append("td")
+					.text(expense['eid']);
+					
+					tr.append("td")
+					.text(expense.getDate());
+					
+					tr.append("td")
+					.text(expense['desc']);
+					
+					tr.append("td")
+					.text(expense['category']);
+					
+					if( arguments.length==2){
+						tr.append("td")
+						.text(paid);
+					}
+					
+					tr.append("td")
+					.text(expense['amt']);
+			}
+			function showUserExpenses(user){
+						
+				userExpenses = expenseUser[user];
+				years = Object.keys(userExpenses);
+				
+				d3.select("body").append("table");
+				d3.select("table")
+				.append("tr")
+				
+				d3.select("tr")
+				.append("th")
+				.text("EID");
+				
+				d3.select("tr")
+				.append("th")
+				.text("Date");
+				
+				d3.select("tr")
+				.append("th")
+				.text("Description");
+				
+				d3.select("tr")
+				.append("th")
+				.text("Category");
+				
+				d3.select("tr")
+				.append("th")
+				.text("Paid");
+				
+				d3.select("tr")
+				.append("th")
+				.text("Total Amount");
+				
+				for( var i=0;i<years.length;i++ ){
+					
+					months = Object.keys(userExpenses[years[i]]);
+					months.sort(function(a,b){return a-b});
+					//alert(months);
+					for(var j=0;j<months.length;j++){
+						monthExpenses = userExpenses[years[i]][months[j]];
+						for(var k=0;k<monthExpenses.length;k++){
+							data = userExpenses[years[i]][months[j]][k];
+							
+							eid = data[0];
+							paid = data[1];
+							displayRowExpense( expenses[eid-1],paid );
+						}
+					}
+					
+				}
+				
+					
+			}
+			function getSplitExpenses(user){
+
+
+				userExpenses = expenseUser[user];
+				years = Object.keys(userExpenses);
+				splitExpenses = [];
+				users = {};
+				users[user]=1;
+
+				
+
+				for( var i=0;i<years.length;i++ ){
+					
+					months = Object.keys(userExpenses[years[i]]);
+					months.sort(function(a,b){return a-b});
+					
+					for(var j=0;j<months.length;j++){
+						monthExpenses = userExpenses[years[i]][months[j]];
+						for(var k=0;k<monthExpenses.length;k++){
+							data = userExpenses[years[i]][months[j]][k];
+							
+							eid = data[0];
+							paid = data[1];
+							myExpense  = expenses[eid-1];
+							
+							if( myExpense.users.length > 1 ){
+								splitExpenses.push(eid);
+								splitUsers = myExpense.users;
+								for(var l=0;l<splitUsers.length;l++){
+									users[splitUsers[l][0]]=1;
+								}
+							}
+							
+						}
+					}
+					
+				}
+				splitExpenses.sort(function(a,b){return a-b;})
+				showSplitUsers(users,splitExpenses);
+				
+			}
+			function showSplitUsers(splitUsers,splitExpenses){
+				
+
+				d3.select("body").append("table").append("tr");
+				
+
+				userList = Object.keys(splitUsers);
+				
+				index = findIndex(userList,currUser);
+				userList.splice(index,1);
+				userList.sort(function(a,b){return a-b;})
+				userList.unshift(currUser);
+
+				header = ["Expense ID"];
+				for(var u in userList)header.push(userList[u]);
+
+				divs = {};
+
+				divs['expenseCol'] = d3.select("tr")
+					.append("td")
+					.append("div");
+
+				divs['expenseCol'].append("table")
+					.append("th")
+					.text("Expense ID");
+
+				for( var i=0;i<userList.length;i++){
+					div=d3.select("tr").append("td").append("div");
+					divs[userList[i]] = div;
+
+					div.append("table").append("th").text(bankUsers[userList[i]]);
+				}
+
+
+				for(var i=0;i<splitExpenses.length;i++){
+
+					eid = splitExpenses[i];
+					expense = expenses[eid-1];
+					expenseUsers = expense.users;
+
+					showExpense = false;
+
+					for(var a=0;a<userList.length;a++){
+						if(userList[a]!=currUser){
+							if( findIndex2(expenseUsers,userList[a])!=-1){
+								showExpense = true;
+							}
+						}
+					}
+					
+					
+					
+					if(showExpense!=false){
+					
+						div = divs['expenseCol'];
+						
+						
+						div.select("table")
+						.append("tr")
+						.append("td")
+						.text(eid);
+
+
+						
+						for(var j=0;j<userList.length;j++){
+							//d3.select("tr")
+
+
+							div = divs[userList[j]];
+
+							div
+							.select("table")
+							.append("tr")
+							.append("td")
+							.text(function(){
+								if( (index=findIndex2(expenseUsers,userList[j]))!=-1){
+									
+									paid = expenseUsers[index][1];
+									return paid;
+								}else{
+									return "0";
+								}
+							})
+							.attr("bgcolor",function(d){
+								if( (index=findIndex2(expenseUsers,userList[j]))!=-1){
+									if( expenseUsers[index][1]<0){
+										return "red";
+									}else{
+										return "green";
+									}
+								}else{
+									return "white";
+								}
+							})
+							.append("tr");
+						}
+				}			
+
+			}
+		}
+			function findIndex( arr, item ){
+				for(var i=0;i<arr.length;i++){
+					if( arr[i]==item ){
+						return i;
+					}
+				}
+				return -1;
+			}
+			function findIndex2( arr, item ){
+				for(var i=0;i<arr.length;i++){
+					if( arr[i][0]==item ){
+						return i;
+					}
+				}
+				return -1;
+			}
+			function clone(obj){
+			  var clone = {};
+
+			   clone.prototype = obj.prototype;
+			   for (property in obj) clone[property] = obj[property];
+			   return clone;
+			 }
+
+
+        </script>
+		
+    </body>
+</html> 

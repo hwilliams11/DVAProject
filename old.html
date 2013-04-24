@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Expense User Table</title>
+        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		<style>
+			body {
+			  padding:20px;
+			  margin: auto;
+			  font-family:Tahoma;
+			  text-align:center;
+			} 
+			table{
+				align:center;
+				margin:auto;
+				padding:20px;
+			}
+			td{
+				text-align:center;
+				padding:5px;
+				font-size:15px;
+			}
+		</style>
+    </head>
+    <body>
+        <script type="text/javascript">
+            		
+			
+			var filename = "ExpenseUser.csv";	
+			
+				
+			d3.select("body").append("h1").text("Expense User");
+			
+
+			d3.text( filename,"text/csv",convert);
+
+			
+			function convert(csv){
+				var rows = d3.csv.parseRows(csv);
+				confData = rows;
+					
+					
+				
+				d3.select("body").append("table")
+				  .selectAll("tr")
+				  .data(confData)
+				  .enter().append("tr")
+				  .selectAll("td")
+				  .data(Object)
+				  .enter().append("td")
+				  .text(String)
+				  .style("text-align","center");
+				  
+					
+			}
+
+        </script>
+		
+    </body>
+</html> 

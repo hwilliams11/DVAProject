@@ -7,7 +7,7 @@ months = [31,28,31,30,31,30,31,31,30,31,30,31]
     
 class Expense:
     expenseId = 1
-    def __init__(self,description,date,category,paid,amount,userid,splitId=-1):
+    def __init__(self,description,date,category,paid,share,amount,userid,splitId=-1):
         
         if splitId != -1:
             self.id = splitId
@@ -19,6 +19,7 @@ class Expense:
         self.date = date
         self.category = category
         self.paid = paid
+        self.share = share
         self.amount = amount
         self.userid = userid
         
@@ -30,15 +31,22 @@ class Expense:
         splitExpenses = {}
         count = 1
         left = cost
+        supposedShare = cost
         
-        for userid,frac in userSplit.items():
-            myCost = round(frac*cost,2)
+        for userid,data in userSplit.items():
+            paid,share = data;
+            myCost = round(paid*cost,2)
+            myShare = round(share*cost,2)
+            #print myCost,myShare,cost
             if count == len(userSplit):
                 if left > myCost or left < myCost:
                     myCost = left
+                    myShare = supposedShare
+         
                     
             left = left - myCost
-            splitExpenses[userid] = Expense(store,date,category,myCost,cost,userid,splitId)
+            supposedShare = supposedShare - myShare
+            splitExpenses[userid] = Expense(store,date,category,myCost,myShare,cost,userid,splitId)
             count = count + 1
 
         Expense.expenseId = Expense.expenseId+1
@@ -96,7 +104,7 @@ def generateYearlyExpenses(users,allExpenses,user,years,directory):
                     if cost > 10 and random()< .1 :
                         splitExpense(store,month,day,year,category,cost,allExpenses,user,users)
                     else:
-                        expense = Expense(store,date,category,cost,cost,users[user])
+                        expense = Expense(store,date,category,cost,cost,cost,users[user])
                         userExpenses[year][month].append(expense)
                           
                     
@@ -105,29 +113,49 @@ def generateYearlyExpenses(users,allExpenses,user,years,directory):
 def equalSplit(userSplit):
 
     totalUsers = len(userSplit)
-    frac = 1.0/totalUsers
+    left = 1
+    percs  = [.6,.7,.8,.9,1]
+    share = 1.0/totalUsers
+    count = 1
+    
     for user in userSplit:
-        userSplit[user]=frac
+        
+        if count == len(userSplit):
+            userSplit[user] = (left,share)
+        else:
+            if random()<.1:
+                paid = sample(percs,1)[0]*share;
+            else:
+                paid = share;
+            userSplit[user]=(paid,share)
+        count = count+1
+        left = left - paid
         
 def unequalSplit(userSplit):
 
     totalUsers = len(userSplit)
     equalFrac = 1.0/totalUsers
     left = 1
-    percs = [i/100.0 for i in range(60,110,10)]
+    percs  = [.6,.7,.8,.9,1]
     count = 1
+    supposedShare = 1
     
     for user in userSplit:
         
         
         if count == len(userSplit):
-            userSplit[user] = left
+            userSplit[user] = (left,supposedShare)
         else:
             perc = sample(percs,1)[0]
-            frac = perc*equalFrac
-            userSplit[user] = frac
+            share = perc*equalFrac
+            if random()<.1:
+                paid = sample(percs,1)[0]*share;
+            else:
+                paid = share;
+            userSplit[user] = (paid,share)
             
-        left = left - frac
+        left = left - paid
+        supposedShare = supposedShare - share
         count = count + 1
     
 def splitExpense(store,month,day,year,category,cost,expenses,user,users):
@@ -152,6 +180,7 @@ def splitExpense(store,month,day,year,category,cost,expenses,user,users):
         equalSplit(userSplit)
     else:
         unequalSplit(userSplit)
+
 
     splitExpenses = Expense.splitExpense(store,date,category,cost,userSplit)
     #print splitExpenses
@@ -178,11 +207,12 @@ def writeFile(expenses,users):
             for month in expenses[userid][year]:
                 for expense in expenses[userid][year][month]:
                     date  = expense.date
-                    dateStr = str(date[0])+"-"+str(date[1])+"-"+str(date[2])
+                    #dateStr = str(date[2])+"-"+str(date[1])+"-"+str(date[0])
+                    dateStr = "%02d/%02d/%04d" % (date[0],date[1],date[2])
                     #data1 = str(expense.id)+","+dateStr+",\""+expense.description+"\","+str(expense.amount)+","+expense.category+"\n"
                     data1 = "%d,%s,\"%s\",%.2f,%s\n"%(expense.id,dateStr,expense.description,expense.amount,expense.category)
                     #data2 = str(expense.id)+","+str(userid)+","+str(expense.paid)+","+str(expense.amount)+"\n"
-                    data2 = "%d,%d,%.2f,%.2f\n" % (expense.id,userid,expense.paid,expense.amount)
+                    data2 = "%d,%d,%.2f,%.2f\n" % (expense.id,userid,expense.paid,expense.share)
                     if expense.id not in wroteExpense:
                         expensesFile.write(data1)
                     expenseUserFile.write(data2)
