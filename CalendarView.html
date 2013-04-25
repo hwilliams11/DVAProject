@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <!-- saved from url=(0065)http://twitter.github.io/bootstrap/examples/starter-template.html -->
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,71 +11,86 @@
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/calendar-view.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
       body {
-        padding-top: 30px; /* 60px to make the container go all the way to the bottom of the topbar */
+        padding-top: 15px; /* 60px to make the container go all the way to the bottom of the topbar */
+        margin-left: 30px;
       }
     </style>
-    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
   </head>
 
   <body>
+     <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span9">
+                <!--Sidebar content-->
+                <div id="calendar"></div>
+            </div>
+            <div style="margin-left:0px;" class="span3">
+                <div style="border:1px solid rgba(0, 0, 0, 0.1); height:400px; margin-top:60px;" >
+                    <div id="main_box_init" style="margin:20px">
+                        <h4>Click on expense to view details.</h4>
+                    </div>
+                    <div id="main_box" style='display:none;'>
+                   <div style="margin:40px;">
+                    <strong>Date:</strong>&nbsp;<span id='box_date'>20</span>
+                    <hr style="margin:5px 0">
+                    <strong>Description:</strong>&nbsp;<p id='box_desc' style="display:inline-block;word-wrap: break-word;width:250px;"></p>
+                    <hr style="margin:5px 0">
+                    <strong>Amount:</strong>&nbsp;<span id='box_amt'>20</span>
+                    <hr style="margin:5px 0">
+                    <strong>Category:</strong>&nbsp;<span id='box_categ'>20</span>
+                    <hr style="margin:5px 0">
+                    <table id='box_users' class='table table-condensed table-bordered'>
+                        <thead><tr>
+                            <th>User</th>
+                            <th>Paid</th>
+                            <th>Share</th>
+                        </tr></thead>
+                        <tbody></tbody>
+                    </table>
+                    
+                    </div></div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div id="calendar"></div>
-    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap-tooltip.js"></script>
-    <script src="js/bootstrap-popover.js"></script>
-    <script src="js/bootstrap-modal.js"></script>
     <script src="js/bootstrap.calendar.js"></script>
+    <script src="js/calendar-view.js"></script>
+    <script src="js/jquery.slimscroll.min.js"></script>
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script type='text/javascript' src='js/utils.js'></script>
+    <script src='js/utils.js'></script>
     <script>
         $(function(){
-           $("[rel=popover]").popover();
-            /*var evnts = function(){
-            return {
-                  "event":
-                      [
-                           {"date":"01/01/2012","title":"1"}
-                          ,{"date":"02/02/2012","title":"2"}
-                          ,{"date":"03/03/2012","title":"34"}
-                          ,{"date":"04/04/2012","title":"123"}
-                          ,{"date":"05/05/2012","title":"223"}
-                          ,{"date":"06/06/2012","title":"4"}
-                          ,{"date":"07/07/2012","title":"5"}
-                          ,{"date":"08/08/2012","title":"14"}
-                          ,{"date":"09/09/2012","title":"10"}
-                          ,{"date":"10/10/2012","title":"10"}
-                          ,{"date":"11/11/2012","title":"10"}
-                          ,{"date":"12/12/2012","title":"10"} 
-                      ]
-                  }
-            };*/
-
-            $('#calendar').Calendar({'weekStart': 1 })
-            .on('onNext', function(event){ console.log("Next"); })
-            .on('onPrev', function(event){ /*alert("Prev");*/ })
-            .on('onCurrent', function(event){ /*alert("Current");*/ });
-            
-            //getData(function(rows) {console.log(JSON.stringify(rows[1300], undefined, 2));});
+            var format = d3.time.format("%Y-%m-%d");
+            function calendarChangeHandlers(event, mm, yy) {
+                renderExpenses(window.dateNestExpense, mm, yy);
+                $('.scrollable').slimScroll({
+                        height: '93px',
+                        alwaysVisible: true
+                });
+                $(".expense-blue").click(showData);
+            }
+            getData(function(rows) {
+                window.expenseData = rows;
+                window.dateNestExpense = d3.nest().key(function(d) { return format(d.date); }).entries(rows).map(function(d) {return {key:format.parse(d.key), values:d.values};});
+                window.expenseDict = d3.map();
+                window.expenseData.forEach(function(d) {
+                    window.expenseDict.set(d.eid, d);
+                });
+                $('#calendar').Calendar({'weekStart': 1 })
+                    .on('onNext', calendarChangeHandlers)
+                    .on('onPrev', calendarChangeHandlers)
+                    .on('onCurrent', calendarChangeHandlers);
+                var today = new Date();
+                calendarChangeHandlers(null, today.getMonth(), today.getFullYear());
+            });
         });
     </script>
   </body>
 </html>
-
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!--<script src="./demo_files/jquery.js"></script>
-    <script src="./demo_files/bootstrap-transition.js"></script>
-    <script src="./demo_files/bootstrap-alert.js"></script>
-    <script src="./demo_files/bootstrap-modal.js"></script>
-    <script src="./demo_files/bootstrap-dropdown.js"></script>
-    <script src="./demo_files/bootstrap-scrollspy.js"></script>
-    <script src="./demo_files/bootstrap-tab.js"></script>
-    <script src="./demo_files/bootstrap-tooltip.js"></script>
-    <script src="./demo_files/bootstrap-popover.js"></script>
-    <script src="./demo_files/bootstrap-button.js"></script>
-    <script src="./demo_files/bootstrap-collapse.js"></script>
-    <script src="./demo_files/bootstrap-carousel.js"></script>
-    <script src="./demo_files/bootstrap-typeahead.js"></script> -->

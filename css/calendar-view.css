@@ -221,20 +221,48 @@
 }
 
 .expense-blue {
-    background-color: #D9EDF7;
-    border-color: #BCE8F1;
-    color: #3A87AD;
-    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-    clear: both;
+    cursor: hand; 
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #66CCFF;
+    /* color: #FFFFFF; */
+    /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);*/
+   /* clear: both;*/
+    border: 1px solid #66CCFF;
+    border-radius: 4px 4px 4px 4px;
+    margin: 1px;
 }
+.shared-expense {
+     background-color: #6680ff;
+     border: 1px solid #6680ff;
+}
+.expense-total {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #D05A00;
+    color: #FFFFfF;
+    /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);*/
+   /* clear: both;*/
+    border: 1px solid #D05A00;
+    border-radius: 4px 4px 4px 4px;
+    margin: 1px;
+}
+
 .tab_cell {
     border: 1px solid rgba(0, 0, 0, 0.1);
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    height: 100px;
+    /*overflow : auto;*/
+    height: 137px;
 }
 
+/*.scrollable {
+    height: 113px;
+}*/
 
 .tab_header {
     border: 1px solid rgba(0, 0, 0, 0.1);

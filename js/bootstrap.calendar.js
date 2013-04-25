@@ -41,11 +41,18 @@
         },
         
         template = '' +
-                        '<div class="container">' +
+                        '<div class="container-fluid">' +
                         '<div class="row">' +
-                            '<div class="span12">' +
-                               ' <h3 class="month pull-right" style="margin-right:50px;"></h3>' +
-                                '<h1 class="year"></h1>' +
+                            '<div class="span8">' +
+                               ' <h3><span class="month" style="margin-right:10px;"></span><span class="year"></span></h3> ' +// style="float:left;margin-right:50px;"></h3>' +
+                                // '<h1 class="year"></h1>' +
+                           ' </div>' +
+                            '<div class="span4" style="margin-top:15px;">' +
+                                 '<div class="btn-group">' +
+                                   '<a href="#" id="last" class="btn">Previous</a>' +
+                                   '<a href="#" id="current" class="btn">%msg_today%</a>' +
+                                   '<a href="#" id="next" class="btn">Next</a>' +
+                               ' </div>' +
                            ' </div>' +
                         '</div>' +
                         '<div class="row">' +
@@ -54,7 +61,7 @@
                           '<div id="calendar-header" class="myrw"> </div>' +
                           '<div id="calendar-body"> </div>' +
                         '</div></div></div>'+
-                        '<div class="row" style="margin-top:20px;margin-left:5px;">' +
+                       /* '<div class="row" style="margin-top:20px;margin-left:5px;">' +
                             '<div class="offset1 span2">' +
                                '<a href="#" id="last" class="btn btn-inverse">Previous</a>' +
                            ' </div>' +
@@ -64,7 +71,7 @@
                             '<div class="offset2 span2">' +
                                '<a href="#" id="next" class="btn btn-inverse">Next</a>' +
                            ' </div>' +
-                        '</div>' +
+                        '</div>' +*/
                         '</div>' +
                         '',
 
@@ -303,9 +310,7 @@
         var prv = new Date(this.yp, this.mm, 1);
         this.live_date = prv;
         this.renderCalendar(prv);//, this.events);
-        this.element.trigger({
-            type: 'onPrev',
-        });
+        this.element.trigger('onPrev', [prv.getMonth(), prv.getFullYear()]);
     }
 
     Plugin.prototype.on_current = function(e) {
@@ -315,9 +320,7 @@
         var now = new Date();
         this.live_date = now;
         this.renderCalendar(now);//, this.events);
-        this.element.trigger({
-            type: 'onCurrent',
-        });
+        this.element.trigger('onCurrent', [now.getMonth(), now.getFullYear()]);
     }
 
     Plugin.prototype.on_next = function(e) {
@@ -327,9 +330,7 @@
         var nxt = new Date(this.yn, this.mm, 1);
         this.live_date = nxt;
         this.renderCalendar(nxt);//, this.events);
-        this.element.trigger({
-            type: 'onNext',
-        });
+        this.element.trigger('onNext', [nxt.getMonth(), nxt.getFullYear()]);
     }
 
 
