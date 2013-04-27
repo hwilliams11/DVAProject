@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>My Split Expenses</title>
+        <title>My Weekly Expenses</title>
         <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
 		<style>
 			body {
@@ -18,21 +18,28 @@
 			h2{
 				margin-bottom:-30px;
 			}
+			body {
+			  padding:20px;
+			  margin: auto;
+			  font-family:Tahoma;
+			  text-align:center;
+			} 
 			table{
 				align:center;
 				margin:auto;
 				padding:20px;
 			}
-			td{
+			td,th{
 				text-align:center;
-				padding:5px;
+				padding:5px;		
 				font-size:15px;
 			}
-			.odd{
-				background-color:#5CCCCC;
+			line {
+				stroke: black;
 			}
-			.even{
-				background-color:#EEEEEE;
+			text {
+				font-family: Arial;
+				font-size: 9pt;
 			}
 		</style>
     </head>
@@ -49,7 +56,9 @@
 			var currUser = 1;
 			var bankUsers = {1:'Rahul Agrawal',2:'Yi Ding',3:'Holly Williams',4:'Anqi Zou'};
 			var int2Month = {0:'January',1:'February',2:'March',3:'April',4:'May',5:'June',6:'July',7:'August',8:'September',9:'October',10:'November',11:'December'};
-			d3.select("body").append("h1").text("Split Expenses");
+			var int2Day = {0:'Sun',1:'Mon',2:'Tue',3:'Wed',4:'Thu',5:'Fri',6:'Sat'};
+			var monthAbbrev = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+			d3.select("body").append("h1").text("Weekly Expenses");
 			
 
 			d3.text( filename1,"text/csv",getExpenses);
@@ -73,8 +82,7 @@
 					category = eRows[i][4];
 					expenses[eid] = new Expense(Number(eid),edate,description,Number(amount),category) ;
 					
-				}
-					
+				}					
 				//showExpenses();  
 			}
 			
@@ -103,25 +111,14 @@
 					expenses[expenseId].addUser( userId,paid,share );
 				}
 
-				//showUserExpenses(1);
-				//getSplitExpenses1(currUser);
 				
-				userExpenses = getAllUserExpenses(1);
-				year2012 = filterByYear(userExpenses,2012);
-				//alert(year2012.length+"/"+userExpenses.length);
-				month3_2012 = filterByMonth(userExpenses,2012,5);
-				//alert(month3_2012.length);
-				category = filterByCategory(userExpenses,"transportation");
-				split = getSplitExpenses(userExpenses);
-				//alert(split.length);
-				//showSplitExpenses({1:1,2:2,3:3,4:4},split);
-				separated = separateExpensesMonthYear(split);
-				showSeparatedSplitExpenses({1:1,2:2,3:3,4:4},separated);
-				//filterByCategory(1,2012,0);
+				userExpenses = getAllUserExpenses(currUser);
+				monthlyExpenses = filterByMonth(userExpenses,2012,0);
+				weeklyExpenses = filterByWeek(monthlyExpenses,2012,0,2);
+				dailyExpenses = getDailyExpensesPerWeek(currUser,weeklyExpenses);
+				showWeeklyExpenses(dailyExpenses,2012,2,2);
 					
-			}	
-			
-				  
+			} 
 			function addUserExpense( userId, paid, expenseId, date ){
 				
 				var month,day,year;
@@ -175,167 +172,6 @@
 					return eid;
 				}
 			}
-			function getSplitExpenses(newExpenses){
-
-				var splitExpenses = [];
-
-				
-
-				for( var i=0;i<newExpenses.length;i++ ){
-					
-						eid = newExpenses[i];
-						myExpense  = expenses[eid];
-							
-						if( myExpense.users.length > 1 ){
-							splitExpenses.push(eid);
-						}
-							
-				}
-			
-				splitExpenses.sort(function(a,b){return expenses[a].date - expenses[b].date;})
-				return splitExpenses;
-			}
-			function showSeparatedSplitExpenses(splitUsers,splitExpenses){
-				
-				
-				years = Object.keys(splitExpenses).sort();
-				for(var i=0;i<years.length;i++){
-					year = years[i];
-					months = Object.keys(splitExpenses[year]).sort();
-					for(var j=0;j<months.length;j++){
-						month = months[j];
-						monthlyExpenses = splitExpenses[year][month];
-						alert
-						showMonthlySplitExpenses(splitUsers,monthlyExpenses,month,year);
-					}
-				}
-				
-			}
-			function showMonthlySplitExpenses(splitUsers,monthlyExpenses,month,year){
-			
-				d3.select("body").append("h2").text(int2Month[month]+" "+year);
-				table = d3.select("body").append("table");
-				table.append("tr");
-				
-
-				userList = Object.keys(splitUsers);
-				
-				index = findIndex(userList,currUser);
-				userList.splice(index,1);
-				userList.sort(function(a,b){return a-b;})
-				userList.unshift(currUser);
-
-				header = ["Expense ID","Date"];
-				for(var u in userList)header.push(userList[u]);
-
-				divs = {};
-
-				divs['expenseCol'] = table.select("tr")
-					.append("td")
-					.append("div");
-
-				divs['expenseCol'].append("table")
-					.append("th")
-					.text("Expense ID");
-
-				divs['dateCol'] = table.select("tr")
-					.append("td")
-					.append("div");
-
-				divs['dateCol'].append("table")
-					.append("th")
-					.text("Date");
-
-				for( var i=0;i<userList.length;i++){
-					div=table.select("tr").append("td").append("div");
-					divs[userList[i]] = div;
-
-					div.append("table").append("th").text(bankUsers[userList[i]]);
-				}
-			
-				for(var i=0;i<monthlyExpenses.length;i++){
-
-					eid = monthlyExpenses[i];
-					expense = expenses[eid];
-					expenseUsers = expense.users;				
-
-					
-						div = divs['expenseCol'];
-						
-						
-						div.select("table")
-						.append("tr")
-						.append("td")
-						.text(eid);
-
-
-						div = divs['dateCol'];
-
-						div.select("table")
-						.append("tr")
-						.append("td")
-						.text(expenses[eid].getDate());
-						
-						for(var j=0;j<userList.length;j++){
-							//d3.select("tr")
-
-
-							div = divs[userList[j]];
-
-							div
-							.select("table")
-							.append("tr")
-							.append("td")
-							.text(function(){
-								if( (index=findIndex2(expenseUsers,userList[j]))!=-1){
-									
-									paid = Number(expenseUsers[index][1]);
-									share = Number(expenseUsers[index][2]);
-									if( paid==share){
-										return paid;
-									}else{
-										return paid+"/"+share;
-									}
-								}else{
-									return "-";
-								}
-							})
-							.attr("bgcolor",function(d){
-								if( (index=findIndex2(expenseUsers,userList[j]))!=-1){
-
-									paid = Number(expenseUsers[index][1]);
-									share = Number(expenseUsers[index][2]);
-
-
-									if( paid<share){
-										return "red";
-									}if( paid > share){
-										return "#41BD00";
-									}else{
-										return "#A4F43D";
-									}
-								}else{
-									return "white";
-								}
-							})
-							.append("tr");
-						}		
-					}
-				}
-			function showSplitExpenses(splitUsers,splitExpenses){
-				
-
-				years = Object.keys(splitExpenses).sort();
-				for(var i=0;i<years.length;i++){
-					year = years[i];
-					months = splitExpenses[year];
-					for(var j=0;j<months.length;j++){
-						month = months[j];
-						monthlyExpenses = splitExpenses[year][month];
-						showMonthlyExpenses(splitUsers,monthlyExpenses);
-					}
-				}
-			}
 			function findIndex( arr, item ){
 				for(var i=0;i<arr.length;i++){
 					if( arr[i]==item ){
@@ -352,13 +188,6 @@
 				}
 				return -1;
 			}
-			function clone(obj){
-			  var clone = {};
-
-			   clone.prototype = obj.prototype;
-			   for (property in obj) clone[property] = obj[property];
-			   return clone;
-			 }
 			function getAllUserExpenses(user){
 				var returnExpenses = [];
 				
@@ -389,6 +218,28 @@
 				}
 				return returnExpenses;
 			}
+			function yearByAverage(user,newExpenses,year){
+			
+				var returnExpenses = [0,0,0,0,0,0,0,0,0,0,0,0];
+				
+				var paid;
+				for(var i = 0;i<newExpenses.length;i++){
+				
+					expense = expenses[newExpenses[i]];
+					
+					if( expense.date.getFullYear() == year ){
+						month = expense.date.getMonth();
+						for(var j=0;j<expense.users.length;j++){
+							if(expense.users[j][0]==user){
+								paid = expense.users[j][1];
+							}
+						}
+						//alert(paid+0);
+						returnExpenses[month]+=Number(paid);
+					}
+				}
+				return returnExpenses;
+			}
 			function filterByMonth(newExpenses,year,month){
 					
 				var returnExpenses = [];
@@ -415,21 +266,34 @@
 				}
 				return returnExpenses;
 			}
-			function filterByCategory1(user,category){
-				 
-				expenses = expenseUser[user]; 
-				years = Object.keys(expenses).sort();
-				for(var i=0;i<years.length;i++){
-					year = years[i];
-					months = Object.keys(expenses[year]).sort();
-					for(var j=0;j<months.length;j++){
-						month = months[j];
-						for(var k=0;k<month.length;k++){
-							expense = expenses[year][month][k][0];
-							alert(expense);
+			function filterByWeek(monthlyExpenses,year,month,week){
+			
+				var weeklyExpenses = [];
+				for(var i=0;i<monthlyExpenses.length;i++){
+					expense = expenses[monthlyExpenses[i]];
+					date = expense.date;
+					var firstDay = new Date(date.getFullYear(),date.getMonth(),1);
+					var nd = firstDay.getDay() + date.getDate();
+					var weekInMonth = Math.floor((date.getDate()+firstDay.getDay())/7);
+					if( weekInMonth == week ){
+						weeklyExpenses.push(monthlyExpenses[i]);
+					}
+				}
+				return weeklyExpenses;
+			}
+			function getDailyExpensesPerWeek(user,weeklyExpenses){
+			
+				var data = [0,0,0,0,0,0,0];
+				for(var i=0;i<weeklyExpenses.length;i++){
+					expense = expenses[weeklyExpenses[i]];
+					for(var j=0;j<expense.users.length;j++){
+						if(expense.users[j][0]==user){
+							day = expense.date.getDay();
+							data[day] += Number(expense.users[j][1]);
 						}
 					}
 				}
+				return data;
 			}
 			function separateExpensesMonthYear(newExpenses){
 			
@@ -453,6 +317,92 @@
 					}
 				}
 				return returnExpenses;
+			}
+			function showWeeklyExpenses(dailyExpenses,year,month,week){
+			
+			var data = dailyExpenses;
+			d3.select("h1").text("Week "+(week+1)+" "+int2Month[month]+" "+year);
+			if(data.length==0){
+				alert("No expenses for this week");
+			}
+			var x1 = d3.scale.ordinal();
+			
+			w = 800,
+			h = 600,
+			margin = 100,
+			y = d3.scale.linear().domain([0, d3.max(data)]).range([0 + margin, h - margin]);
+			y1 = d3.scale.linear().domain([0, d3.max(data)]).range([0 + margin, h]);
+			x = d3.scale.linear().domain([0, data.length]).range([0 + margin, w - margin]) 
+			var vis = d3.select("body")
+			.append("svg:svg")
+			.attr("width", w)
+			.attr("height", h)
+		 
+			var g = vis.append("svg:g")
+				.attr("transform", "translate(0, 600)");
+				
+			var line = d3.svg.line()
+			.x(function(d,i) { return x(i); })
+			.y(function(d) { return -1 * y(d); })
+			
+			
+			vis.selectAll("rect")
+			.data(data)
+			.enter().append("rect")
+			.attr("width", 40)
+			.attr("x", function(d,i) { return x(i)+15; })
+			.attr("y", function(d) { return h-y(d)-margin; })
+			.attr("height", function(d) { return y(d); })
+			.attr("fill",function(d,i){
+				if(i%2==0){
+					return "green";
+				}else{
+					return "blue";
+				}
+			});
+	  
+			g.append("svg:line")
+			.attr("x1", x(0))
+			.attr("y1", -1 * y(0))
+			.attr("x2", x(w))
+			.attr("y2", -1 * y(0))
+		 
+			g.append("svg:line")
+			.attr("x1", x(0))
+			.attr("y1", -1 * y(0))
+			.attr("x2", x(0))
+			.attr("y2", -1 * h-y(d3.max(data))-margin)
+	
+			g.selectAll(".xLabel")
+			.data(x.ticks(data.length))
+			.enter().append("svg:text")
+			.attr("class", "xLabel")
+			.text(function(d,i){
+				return int2Day[i];
+			})
+			.attr("x", function(d) { return 35+x(d) })
+			.attr("y", -75)
+			.attr("text-anchor", "middle")
+		 
+			g.selectAll(".yLabel")
+			.data(y1.ticks(10))
+			.enter().append("svg:text")
+			.attr("class", "yLabel")
+			.text(String)
+			.attr("x", 0)
+			.attr("y", function(d) { return -1 * y1(d) })
+			.attr("text-anchor", "right")
+			.attr("dy", 5);
+		 
+			g.selectAll(".yTicks")
+			.data(y1.ticks(10))
+			.enter().append("svg:line")
+			.attr("class", "yTicks")
+			.attr("y1", function(d) { return -1 * y1(d); })
+			.attr("x1", x(-0.3))
+			.attr("y2", function(d) { return -1 * y1(d); })
+			.attr("x2", x(0))
+	
 			}
         </script>
 		
